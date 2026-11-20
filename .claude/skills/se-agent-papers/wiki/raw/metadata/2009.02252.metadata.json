@@ -1,0 +1,32 @@
+{
+  "arxiv_id": "2009.02252",
+  "version": "2009.02252v4",
+  "source_url": "https://arxiv.org/pdf/2009.02252v4",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:48.278864+00:00",
+  "captured_bytes": 77809,
+  "sha256": "f58ebee0df47ce8df2540a5420b7b714f376e320d5f762a9ecefff1b5563e18c",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "KILT: a Benchmark for Knowledge Intensive Language Tasks",
+  "arxiv_title": "KILT: a Benchmark for Knowledge Intensive Language Tasks",
+  "authors": [
+    "Petroni, Fabio",
+    "Piktus, Aleksandra",
+    "Fan, Angela",
+    "Lewis, Patrick",
+    "Yazdani, Majid",
+    "De Cao, Nicola",
+    "Thorne, James",
+    "Jernite, Yacine",
+    "Karpukhin, Vladimir",
+    "Maillard, Jean",
+    "Plachouras, Vassilis",
+    "Rocktäschel, Tim",
+    "Riedel, Sebastian"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2009.02252v4.pdf",
+  "original_sha256": "7ed4f2037b7115ba828eb9be9500cd5d17fe0a621b0597a846af51476a8da6d8",
+  "pages": 22,
+  "html_url": "https://arxiv.org/html/2009.02252v4"
+}

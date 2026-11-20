@@ -1,0 +1,23 @@
+{
+  "arxiv_id": "2406.09649",
+  "version": "2406.09649v1",
+  "source_url": "https://arxiv.org/pdf/2406.09649v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:46.048550+00:00",
+  "captured_bytes": 83028,
+  "sha256": "7e070caaad5e66724933d0496c34ed06e4f329fe71a4690f174461e2aa3ded9f",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "SquirrelFS: Using the Rust Compiler to Check File-System Crash Consistency",
+  "arxiv_title": "SquirrelFS: using the Rust compiler to check file-system crash consistency",
+  "authors": [
+    "LeBlanc, Hayley",
+    "Taylor, Nathan",
+    "Bornholt, James",
+    "Chidambaram, Vijay"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2406.09649v1.pdf",
+  "original_sha256": "a2c3ee31debb92aa86322567cc55ad4d8b3e8526752c4e7bdb5239254671c613",
+  "pages": 18,
+  "html_url": "https://arxiv.org/html/2406.09649v1"
+}

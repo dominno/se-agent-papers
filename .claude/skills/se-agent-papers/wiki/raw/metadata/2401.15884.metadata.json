@@ -1,0 +1,23 @@
+{
+  "arxiv_id": "2401.15884",
+  "version": "2401.15884v3",
+  "source_url": "https://arxiv.org/pdf/2401.15884v3",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:37.024599+00:00",
+  "captured_bytes": 61778,
+  "sha256": "b0df3e64dd8ac7e80d85594a685f42d7c128890ef2fc29b610e2a50c9e63dc36",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Corrective Retrieval Augmented Generation",
+  "arxiv_title": "Corrective Retrieval Augmented Generation",
+  "authors": [
+    "Yan, Shi-Qi",
+    "Gu, Jia-Chen",
+    "Zhu, Yun",
+    "Ling, Zhen-Hua"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2401.15884v3.pdf",
+  "original_sha256": "975aa1fd3c1b603126e93ff99d6504858b61301bf1d34c9df88ebe53a0b026cb",
+  "pages": 16,
+  "html_url": "https://arxiv.org/html/2401.15884v3"
+}

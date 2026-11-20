@@ -1,0 +1,31 @@
+{
+  "arxiv_id": "2601.18827",
+  "version": "2601.18827v2",
+  "source_url": "https://arxiv.org/pdf/2601.18827v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:37.957445+00:00",
+  "captured_bytes": 63699,
+  "sha256": "81ab0f684e413b9915f0ed11101bac72138d83334726cfa1af3469121f172ebb",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Automated structural testing of LLM-based agents: methods, framework, and case studies",
+  "arxiv_title": "Automated structural testing of LLM-based agents: methods, framework, and case studies",
+  "authors": [
+    "Kohl, Jens",
+    "Kruse, Otto",
+    "Mostafa, Youssef",
+    "Luckow, Andre",
+    "Schroer, Karsten",
+    "Riedl, Thomas",
+    "French, Ryan",
+    "Katz, David",
+    "Luitz, Manuel P.",
+    "Takher, Tanrajbir",
+    "Friedl, Ken E.",
+    "Laurent-Winter, Céline"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2601.18827v2.pdf",
+  "original_sha256": "c4bfea78dc1fa35a5a73039cb5a9edf916cb19c0b7d2414ec341ed31d44b930a",
+  "pages": 10,
+  "html_url": "https://arxiv.org/html/2601.18827v2"
+}

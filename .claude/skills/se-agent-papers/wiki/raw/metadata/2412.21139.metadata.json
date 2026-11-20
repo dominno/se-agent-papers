@@ -1,0 +1,26 @@
+{
+  "arxiv_id": "2412.21139",
+  "version": "2412.21139v2",
+  "source_url": "https://arxiv.org/pdf/2412.21139v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:05.025564+00:00",
+  "captured_bytes": 71619,
+  "sha256": "8d47cc58ed0997316216ea4b480c874177e24ab2f85290bdcc34821678a3dfaf",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Training Software Engineering Agents and Verifiers with SWE-Gym",
+  "arxiv_title": "Training Software Engineering Agents and Verifiers with SWE-Gym",
+  "authors": [
+    "Pan, Jiayi",
+    "Wang, Xingyao",
+    "Neubig, Graham",
+    "Jaitly, Navdeep",
+    "Ji, Heng",
+    "Suhr, Alane",
+    "Zhang, Yizhe"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2412.21139v2.pdf",
+  "original_sha256": "5c35e277544323fcc4ce8929e208bb8cc32efbbd40b8069c7daa084548d79396",
+  "pages": 21,
+  "html_url": "https://arxiv.org/html/2412.21139v2"
+}

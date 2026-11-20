@@ -1,0 +1,26 @@
+{
+  "arxiv_id": "2310.06770",
+  "version": "2310.06770v3",
+  "source_url": "https://arxiv.org/pdf/2310.06770v3",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:01.683159+00:00",
+  "captured_bytes": 155428,
+  "sha256": "5036006c35c86d1d72948aeb5d558ee3abefad7b2f58ecc4533d6defb5f681c6",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?",
+  "arxiv_title": "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?",
+  "authors": [
+    "Jimenez, Carlos E.",
+    "Yang, John",
+    "Wettig, Alexander",
+    "Yao, Shunyu",
+    "Pei, Kexin",
+    "Press, Ofir",
+    "Narasimhan, Karthik"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2310.06770v3.pdf",
+  "original_sha256": "f7e8e1df64129742b8199a21a042734519a823a1dafd6f48f8f3ddcfb48ee296",
+  "pages": 52,
+  "html_url": "https://arxiv.org/html/2310.06770v3"
+}

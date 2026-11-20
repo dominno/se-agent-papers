@@ -1,0 +1,26 @@
+{
+  "arxiv_id": "2211.01910",
+  "version": "2211.01910v2",
+  "source_url": "https://arxiv.org/pdf/2211.01910v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:54.762766+00:00",
+  "captured_bytes": 105711,
+  "sha256": "793b287678bfc42db40c1a21df4f38d18ad6f6983929375d8eec7da1049e73b2",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Large Language Models Are Human-Level Prompt Engineers",
+  "arxiv_title": "Large Language Models Are Human-Level Prompt Engineers",
+  "authors": [
+    "Zhou, Yongchao",
+    "Muresanu, Andrei Ioan",
+    "Han, Ziwen",
+    "Paster, Keiran",
+    "Pitis, Silviu",
+    "Chan, Harris",
+    "Ba, Jimmy"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2211.01910v2.pdf",
+  "original_sha256": "b4162f38101db7511e6292a2577c66514c757824ddd21f8426a6276485355e81",
+  "pages": 43,
+  "html_url": "https://arxiv.org/html/2211.01910v2"
+}

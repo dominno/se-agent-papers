@@ -1,0 +1,22 @@
+{
+  "arxiv_id": "2507.09063",
+  "version": "2507.09063v1",
+  "source_url": "https://arxiv.org/pdf/2507.09063v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:08.200130+00:00",
+  "captured_bytes": 50661,
+  "sha256": "47b6119ce59cfbc81290f87cb6fabc9056b5e92c47ee11cc23f42791c5b69e27",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "SetupBench: Assessing Software Engineering Agents' Ability to Bootstrap Development Environments",
+  "arxiv_title": "SetupBench: Assessing Software Engineering Agents' Ability to Bootstrap Development Environments",
+  "authors": [
+    "Arora, Avi",
+    "Jang, Jinu",
+    "Moghaddam, Roshanak Zilouchian"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "original_file": "2507.09063v1.pdf",
+  "original_sha256": "098455299fe2f8b8db9caca7474b9e1baff70ece8d62d6f376cc0730fe3130e0",
+  "pages": 18,
+  "html_url": "https://arxiv.org/html/2507.09063v1"
+}

@@ -1,0 +1,23 @@
+{
+  "arxiv_id": "2502.12115",
+  "version": "2502.12115v4",
+  "source_url": "https://arxiv.org/pdf/2502.12115v4",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:06.444939+00:00",
+  "captured_bytes": 104887,
+  "sha256": "79be3dd0f38f14d6c274ccb087c418335ce4633a4377c139daddf679206be505",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?",
+  "arxiv_title": "SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?",
+  "authors": [
+    "Miserendino, Samuel",
+    "Wang, Michele",
+    "Patwardhan, Tejal",
+    "Heidecke, Johannes"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2502.12115v4.pdf",
+  "original_sha256": "5592089e626e52af27222a144f65ef8e2748e4f8a2ab3cba29df82366a48a5c8",
+  "pages": 39,
+  "html_url": "https://arxiv.org/html/2502.12115v4"
+}

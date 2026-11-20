@@ -1,0 +1,26 @@
+{
+  "arxiv_id": "2207.10397",
+  "version": "2207.10397v2",
+  "source_url": "https://arxiv.org/pdf/2207.10397v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:41.536165+00:00",
+  "captured_bytes": 73203,
+  "sha256": "aed531196af26813715bd226d0efaf284ee6c7f157fcd6c45e53bc04db7b21c2",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "CodeT: Code Generation with Generated Tests",
+  "arxiv_title": "CodeT: Code Generation with Generated Tests",
+  "authors": [
+    "Chen, Bei",
+    "Zhang, Fengji",
+    "Nguyen, Anh",
+    "Zan, Daoguang",
+    "Lin, Zeqi",
+    "Lou, Jian-Guang",
+    "Chen, Weizhu"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2207.10397v2.pdf",
+  "original_sha256": "ada1c4b233dda1b2376d2e1950329f6f0addaff50244db6114332721dcc8916c",
+  "pages": 19,
+  "html_url": "https://arxiv.org/html/2207.10397v2"
+}

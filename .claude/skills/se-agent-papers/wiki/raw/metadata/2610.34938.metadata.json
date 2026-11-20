@@ -1,0 +1,21 @@
+{
+  "arxiv_id": "2610.34938",
+  "version": "2610.34938v1",
+  "source_url": "https://arxiv.org/pdf/2610.34938v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:06.067152+00:00",
+  "captured_bytes": 26804,
+  "sha256": "67af72357d1119490d9830bab48c64a9ec4d1fe3ba9b65ebeecaf26f66548d9d",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "How Do Coding-Agent Harnesses Self-Evolve? An Empirical Study of Retrospective Adaptation",
+  "arxiv_title": "How Do Coding-Agent Harnesses Self-Evolve? An Empirical Study of Retrospective Adaptation",
+  "authors": [
+    "Treude, Christoph",
+    "Baltes, Sebastian"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2610.34938v1.pdf",
+  "original_sha256": "64ec0ea19113a24a6047e28016c949af27c742ec4d1b8248e1dee350b1038ca6",
+  "pages": 5,
+  "html_url": "https://arxiv.org/html/2610.34938v1"
+}

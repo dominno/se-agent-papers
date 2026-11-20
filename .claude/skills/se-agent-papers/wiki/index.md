@@ -1,0 +1,338 @@
+# Wiki Index
+
+This wiki indexes paper cards, research topics and named systems. The November 2026 audit covers 165 papers and records their methods, results and limitations. [Review status definitions](reviews/REVIEW_STATUS.md) · [Publication audits](reviews/audit-2026-11-19/README.md)
+
+## Entities
+
+- [GraphRAG](entities/graphrag.md) — Graph-based RAG #entity
+- [RAPTOR](entities/raptor.md) — Hierarchical retrieval #entity
+- [MemGPT](entities/memgpt.md) — Long-term agent memory #entity
+- [LongMemEval](entities/longmemeval.md) — Long-term memory evaluation #entity
+- [Repoformer](entities/repoformer.md) — Selective retrieval #entity
+- [RAGChecker](entities/ragchecker.md) — Diagnostic RAG evaluation #entity
+- [ALCE](entities/alce.md) — Citation evaluation #entity
+- [DSPy](entities/dspy.md) — Prompt and workflow optimization #entity
+- [ToolSandbox](entities/toolsandbox.md) — Stateful tool-use benchmark #entity
+- [MetaGPT](entities/metagpt.md) — Multi-agent framework #entity
+- [ChatDev](entities/chatdev.md) — Multi-agent software development #entity
+- [SWE-agent](entities/swe-agent.md) — Software engineering agent #entity
+- [SWE-bench](entities/swe-bench.md) — Coding benchmark #entity
+- [Agentless](entities/agentless.md) — Repository repair pipeline #entity
+- [AutoGen](entities/autogen.md) — Multi-agent conversation framework #entity
+- [AFlow](entities/aflow.md) — Agent workflow search #entity
+- [Darwin Gödel Machine](entities/darwin-godel-machine.md) — Self-improving agent system #entity
+- [Mem0](entities/mem0.md) — Persistent agent memory #entity
+- [A-MEM](entities/a-mem.md) — Linked agent memory #entity
+- [HippoRAG](entities/hipporag.md) — Knowledge-graph memory and retrieval #entity
+- [LightRAG](entities/lightrag.md) — Graph retrieval #entity
+- [Self-RAG](entities/self-rag.md) — Adaptive retrieval and critique #entity
+- [Ragas](entities/ragas.md) — RAG evaluation framework #entity
+- [KILT](entities/kilt.md) — Provenance-aware evaluation #entity
+- [FActScore](entities/factscore.md) — Atomic factuality evaluation #entity
+- [SciFact](entities/scifact.md) — Scientific claim verification dataset #entity
+- [CRAG](entities/crag.md) — Corrective retrieval #entity
+- [HyDE](entities/hyde.md) — Hypothetical document embeddings #entity
+- [ColBERTv2](entities/colbertv2.md) — Late-interaction retrieval #entity
+- [ColPali](entities/colpali.md) — Visual document retrieval #entity
+- [ToolLLM](entities/toolllm.md) — API tool-use framework #entity
+- [PROBE](entities/probe.md) — Failure-anchored recovery #entity
+- [TrajDebug](entities/trajdebug.md) — Trajectory error attribution #entity
+- [AppWorld](entities/appworld.md) — State-based agent benchmark #entity
+- [FeatureBench](entities/featurebench.md) — Software feature benchmark #entity
+- [ViBench 2.0](entities/vibench-2-0.md) — Long-horizon app benchmark #entity
+- [CodeSpec](entities/codespec.md) — Executable software specifications #entity
+- [AgentDojo](entities/agentdojo.md) — Prompt injection benchmark #entity
+
+## Concepts
+
+- [Agent orchestration](concepts/agent-orchestration.md) — Coordinating tasks and decisions across agents, including responsibility, handoffs and dependencies. #concept
+- [Agent roles](concepts/agent-roles.md) — Dividing responsibilities, permissions and specialties among independent participants. #concept
+- [Task planning](concepts/task-planning.md) — Breaking down goals, mapping dependencies, updating plans and overseeing execution. #concept
+- [Parallelism](concepts/parallelism.md) — Running independent actions concurrently and resolving conflicts. #concept
+- [Coding agents](concepts/coding-agents.md) — Systems that analyze repositories and modify software. #concept
+- [Repository context](concepts/repository-context.md) — Representing dependencies among project files, symbols and contracts. #concept
+- [Agent communication](concepts/agent-communication.md) — Sharing findings, evidence, results and tasks among participants. #concept
+- [Software architecture](concepts/architecture-design.md) — Designing module boundaries, contracts and dependencies. #concept
+- [Debugging](concepts/debugging.md) — Diagnosing the causes of errors and testing proposed fixes. #concept
+- [Agent self-improvement](concepts/self-evolution.md) — Evaluating and modifying agents’ instructions, skills, tools and environments. #concept
+- [Prompt optimization](concepts/prompt-optimization.md) — Tuning model instructions against measured task performance. #concept
+- [Workflow optimization](concepts/workflow-optimization.md) — Updating strategies and execution graphs based on task outcomes. #concept
+- [Agent skills](concepts/agent-skills.md) — Versioned instructions and procedures for recurring tasks. #concept
+- [Long-term memory](concepts/long-term-memory.md) — Persistent memory for using knowledge and experience across sessions. #concept
+- [Memory hierarchy](concepts/memory-hierarchy.md) — Separating the active context, notes and long-term storage. #concept
+- [Memory evaluation](concepts/memory-evaluation.md) — Testing recall, updates and forgetting as information changes over time. #concept
+- [Context window](concepts/context-window.md) — The amount of input information a model can access at once. #concept
+- [Temporal reasoning](concepts/temporal-reasoning.md) — Interpreting the order and recency of information. #concept
+- [Retrieval-Augmented Generation (RAG)](concepts/retrieval-augmented-generation.md) — Combining a language model with information retrieved from indexed sources. #concept
+- [Dense retrieval](concepts/dense-retrieval.md) — Retrieval using dense vector representations. #concept
+- [Late interaction](concepts/late-interaction.md) — Matching queries to documents using multiple token-level representations. #concept
+- [Selective retrieval](concepts/selective-retrieval.md) — Deciding whether and when additional retrieval is necessary. #concept
+- [Hierarchical retrieval](concepts/hierarchical-retrieval.md) — Retrieving information at multiple levels of detail and abstraction. #concept
+- [GraphRAG](concepts/graph-rag.md) — Working with graphs of entities and relationships and summarizing connections across a corpus. #concept
+- [Knowledge graph](concepts/knowledge-graph.md) — Entities and relationships that can be searched and analyzed. #concept
+- [Entity extraction](concepts/entity-extraction.md) — Identifying objects, people, methods and their relationships in source material. #concept
+- [Graph community summarization](concepts/community-summarization.md) — Summarizing information from groups of related entities. #concept
+- [Clustering](concepts/clustering.md) — Grouping similar passages or entities for indexing and synthesis. #concept
+- [Recursive summarization](concepts/recursive-summarization.md) — Building successive layers of summaries from source passages. #concept
+- [Citations and supporting evidence](concepts/citation-grounding.md) — Checking whether the cited publications support the claims. #concept
+- [Citation precision](concepts/citation-precision.md) — The proportion of cited sources that support the claims they accompany. #concept
+- [Citation completeness](concepts/citation-recall.md) — The proportion of claims requiring citations that have supporting citations. #concept
+- [Claim verification](concepts/claim-verification.md) — Checking individual factual claims against reliable sources and evidence. #concept
+- [Source-grounded generation](concepts/grounded-generation.md) — Generating answers and checking their consistency with the available context. #concept
+- [RAG evaluation](concepts/rag-evaluation.md) — Evaluating retrieval, generation and consistency with the sources separately. #concept
+- [Evaluation metrics](concepts/evaluation-metrics.md) — Measures of system quality, runtime, accuracy and reliability. #concept
+- [LLM-as-a-Judge](concepts/llm-as-judge.md) — Evaluating answers with models and examining the biases of those evaluators. #concept
+- [Agent and LLM benchmarks](concepts/benchmarks.md) — Test suites that measure model and agent capabilities on repeatable tasks. #concept
+- [Long-term software evolution](concepts/long-horizon-development.md) — Evaluating agents across multiple iterations, changing requirements and releases. #concept
+- [Unit tests](concepts/unit-testing.md) — Using executable test cases to check the behavior of functions and components. #concept
+- [Mutation testing](concepts/mutation-testing.md) — Testing whether a suite detects controlled changes in code behavior. #concept
+- [Regression tests](concepts/regression-testing.md) — Rechecking behavior after changes to the software. #concept
+- [Acceptance tests](concepts/acceptance-testing.md) — Evaluating end-to-end system behavior from the user’s perspective. #concept
+- [Stateful tool use](concepts/stateful-tool-use.md) — Agent actions that make controlled changes to an environment’s state. #concept
+- [Tool evaluation](concepts/tool-evaluation.md) — Checking API call sequences, policy compliance and side effects. #concept
+- [Tool sandbox](concepts/tool-sandboxing.md) — Reducing risk through a controlled execution environment. #concept
+- [Prompt injection](concepts/prompt-injection.md) — Malicious instructions embedded in untrusted data supplied to an agent. #concept
+- [Agent observability](concepts/observability.md) — Execution traces, errors, metrics and event correlation. #concept
+- [Crash recovery](concepts/fault-recovery.md) — Resuming operations and identifying failed steps. #concept
+- [File-system state durability](concepts/file-system-durability.md) — Atomic writes, crash resilience and preservation of invariants. #concept
+- [Architectural erosion](concepts/architecture-erosion.md) — Changes to project dependencies and structure across development iterations. #concept
+- [Benchmark reproducibility](concepts/comparison-and-reproducibility.md) — Comparing alternatives under the same conditions, metrics and held-out test cases. #concept
+- [Coding agents map](maps/coding-agents.md) — Concept map #concept-map
+- [Knowledge and memory map](maps/knowledge-and-memory.md) — Concept map #concept-map
+- [Retrieval and RAG map](maps/rag-and-retrieval.md) — Concept map #concept-map
+- [Evidence and reliability map](maps/evidence-and-reliability.md) — Concept map #concept-map
+- [Testing and validation map](maps/testing-and-validation.md) — Concept map #concept-map
+- [Agent security map](maps/security.md) — Concept map #concept-map
+- [Agent self-improvement map](maps/agent-evolution.md) — Concept map #concept-map
+- [Software architecture map](maps/software-architecture.md) — Concept map #concept-map
+- [GraphRAG vs RAPTOR vs LightRAG](comparisons/graphrag-vs-raptor-vs-lightrag.md) — Method comparison #comparison
+- [MemGPT vs LongMemEval vs A-MEM](comparisons/memgpt-vs-longmemeval-vs-a-mem.md) — Method comparison #comparison
+- [Repoformer vs FLARE vs CRAG](comparisons/repoformer-vs-flare-vs-crag.md) — Method comparison #comparison
+- [RAGChecker vs Ragas vs ALCE](comparisons/ragchecker-vs-ragas-vs-alce.md) — Method comparison #comparison
+- [SWE-bench vs FeatureBench vs ViBench](comparisons/swe-bench-vs-featurebench-vs-vibench.md) — Method comparison #comparison
+- [DSPy vs AFlow vs TextGrad](comparisons/dspy-vs-aflow-vs-textgrad.md) — Method comparison #comparison
+- [ToolSandbox vs AppWorld vs AgentDojo](comparisons/toolsandbox-vs-appworld-vs-agentdojo.md) — Method comparison #comparison
+- [FActScore vs SAFE vs SciFact](comparisons/factscore-vs-safe-vs-scifact.md) — Method comparison #comparison
+- [Start here — agent systems](paths/agent-systems.md) — Reading path #reading-path
+- [Start here — building a knowledge base](paths/building-a-knowledge-base.md) — Reading path #reading-path
+- [Start here — verifying claims](paths/verifying-claims.md) — Reading path #reading-path
+- [Start here — reliable software](paths/reliable-software.md) — Reading path #reading-path
+- [Start here — self-improving agents](paths/self-improving-agents.md) — Reading path #reading-path
+
+
+- [finding-2404-16130-1](concepts/finding-2404-16130-1.md) — Finding or practice pattern #research
+- [finding-2404-16130-2](concepts/finding-2404-16130-2.md) — Finding or practice pattern #research
+- [finding-2404-16130-3](concepts/finding-2404-16130-3.md) — Finding or practice pattern #research
+- [finding-2310-08560-1](concepts/finding-2310-08560-1.md) — Finding or practice pattern #research
+- [finding-2310-08560-2](concepts/finding-2310-08560-2.md) — Finding or practice pattern #research
+- [finding-2310-08560-3](concepts/finding-2310-08560-3.md) — Finding or practice pattern #research
+- [finding-2403-10059-1](concepts/finding-2403-10059-1.md) — Finding or practice pattern #research
+- [finding-2403-10059-2](concepts/finding-2403-10059-2.md) — Finding or practice pattern #research
+- [finding-2403-10059-3](concepts/finding-2403-10059-3.md) — Finding or practice pattern #research
+- [finding-2408-08067-1](concepts/finding-2408-08067-1.md) — Finding or practice pattern #research
+- [finding-2408-08067-2](concepts/finding-2408-08067-2.md) — Finding or practice pattern #research
+- [finding-2408-08067-3](concepts/finding-2408-08067-3.md) — Finding or practice pattern #research
+- [finding-2410-10813-1](concepts/finding-2410-10813-1.md) — Finding or practice pattern #research
+- [finding-2410-10813-2](concepts/finding-2410-10813-2.md) — Finding or practice pattern #research
+- [finding-2410-10813-3](concepts/finding-2410-10813-3.md) — Finding or practice pattern #research
+- [finding-2401-18059-1](concepts/finding-2401-18059-1.md) — Finding or practice pattern #research
+- [finding-2401-18059-2](concepts/finding-2401-18059-2.md) — Finding or practice pattern #research
+- [finding-2401-18059-3](concepts/finding-2401-18059-3.md) — Finding or practice pattern #research
+- [finding-2310-03714-1](concepts/finding-2310-03714-1.md) — Finding or practice pattern #research
+- [finding-2310-03714-2](concepts/finding-2310-03714-2.md) — Finding or practice pattern #research
+- [finding-2310-03714-3](concepts/finding-2310-03714-3.md) — Finding or practice pattern #research
+- [finding-2305-14627-1](concepts/finding-2305-14627-1.md) — Finding or practice pattern #research
+- [finding-2305-14627-2](concepts/finding-2305-14627-2.md) — Finding or practice pattern #research
+- [finding-2305-14627-3](concepts/finding-2305-14627-3.md) — Finding or practice pattern #research
+- [finding-2408-04682-1](concepts/finding-2408-04682-1.md) — Finding or practice pattern #research
+- [finding-2408-04682-2](concepts/finding-2408-04682-2.md) — Finding or practice pattern #research
+- [finding-2408-04682-3](concepts/finding-2408-04682-3.md) — Finding or practice pattern #research
+- [pattern-selective-retrieval-gate](concepts/pattern-selective-retrieval-gate.md) — Finding or practice pattern #research
+- [pattern-global-sensemaking-via-graph-communities](concepts/pattern-global-sensemaking-via-graph-communities.md) — Finding or practice pattern #research
+- [pattern-hierarchical-long-document-retrieval](concepts/pattern-hierarchical-long-document-retrieval.md) — Finding or practice pattern #research
+- [pattern-memory-freshness-check](concepts/pattern-memory-freshness-check.md) — Finding or practice pattern #research
+- [pattern-memory-tiering](concepts/pattern-memory-tiering.md) — Finding or practice pattern #research
+- [pattern-evidence-linked-generation](concepts/pattern-evidence-linked-generation.md) — Finding or practice pattern #research
+- [pattern-claim-level-rag-diagnostics](concepts/pattern-claim-level-rag-diagnostics.md) — Finding or practice pattern #research
+- [pattern-measured-prompt-optimization](concepts/pattern-measured-prompt-optimization.md) — Finding or practice pattern #research
+- [pattern-state-based-agent-benchmark](concepts/pattern-state-based-agent-benchmark.md) — Finding or practice pattern #research
+
+<a id="sources"></a>
+
+## Paper cards
+
+Each title opens a local wiki card that you can read and search immediately after installation. Its PDF link opens the corresponding version on arXiv. To read the original offline or search its full text locally, download that paper into the external cache. [Download instructions](../README.md#read-the-original-papers)
+
+- [$\tau$-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](sources/arxiv-2406.12045.md) — The evaluation tests adherence to policy and the required final system state during multi-step interactions involving tools. · [PDF v1](https://arxiv.org/pdf/2406.12045v1) #paper
+- [A Benchmark for Evaluating Repository-Level Code Agents with Intermediate Reasoning on Feature Addition Task](sources/arxiv-2603.26337.md) — The evaluation covers task analysis, file localization and decomposition of the work alongside the final code. · [PDF v3](https://arxiv.org/pdf/2603.26337v3) #paper
+- [A-MEM: Agentic Memory for LLM Agents](sources/arxiv-2502.12110.md) — The memory system organizes information into a network of linked notes that it updates dynamically. · [PDF v11](https://arxiv.org/pdf/2502.12110v11) #paper
+- [Active Retrieval Augmented Generation](sources/arxiv-2305.06983.md) — FLARE investigates when to retrieve additional information during long-form generation. · [PDF v2](https://arxiv.org/pdf/2305.06983v2) #paper
+- [AFlow: Automating Agentic Workflow Generation](sources/arxiv-2410.10762.md) — The method optimizes agent workflow graphs using search and feedback from executed tasks. · [PDF v4](https://arxiv.org/pdf/2410.10762v4) #paper
+- [Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads](sources/arxiv-2606.06448.md) — The study characterizes the cost and access patterns of memory reads and writes in long-running agent tasks. · [PDF v2](https://arxiv.org/pdf/2606.06448v2) #paper
+- [AgentBench: Evaluating LLMs as Agents](sources/arxiv-2308.03688.md) — The study compares agent reasoning and decisions across eight interactive environments and identifies recurring causes of failure. · [PDF v3](https://arxiv.org/pdf/2308.03688v3) #paper
+- [AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation](sources/arxiv-2312.13010.md) — AgentCoder assigns code generation, test design and test execution to separate agents in an iterative repair loop. · [PDF v3](https://arxiv.org/pdf/2312.13010v3) #paper
+- [AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents](sources/arxiv-2406.13352.md) — The environment tests agents' resilience to prompt injection in external content and tool outputs. · [PDF v3](https://arxiv.org/pdf/2406.13352v3) #paper
+- [Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses](sources/arxiv-2604.25850.md) — The method improves the agent harness automatically using execution traces and experimental results. · [PDF v4](https://arxiv.org/pdf/2604.25850v4) #paper
+- [AgenticFlict: A Large-Scale Dataset of Merge Conflicts in AI Coding Agent Pull Requests on GitHub](sources/arxiv-2604.03551.md) — The study analyzes merge conflicts that arise when integrating changes made by coding agents. · [PDF v2](https://arxiv.org/pdf/2604.03551v2) #paper
+- [AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation](sources/arxiv-2607.06624.md) — The study evaluates the quality of a coding agent's execution trace alongside its final result. · [PDF v2](https://arxiv.org/pdf/2607.06624v2) #paper
+- [AgentLens: Revealing The Lucky Pass Problem in SWE-Agent Evaluation](sources/arxiv-2605.12925.md) — The study examines apparent successes where tests pass despite problems in the agent's execution trace. · [PDF v5](https://arxiv.org/pdf/2605.12925v5) #paper
+- [Agentless: Demystifying LLM-based Software Engineering Agents](sources/arxiv-2407.01489.md) — The method localizes the fault, generates a patch and validates it through a simple sequence of steps. · [PDF v2](https://arxiv.org/pdf/2407.01489v2) #paper
+- [AgentScope: A Flexible yet Robust Multi-Agent Platform](sources/arxiv-2402.14034.md) — The paper presents a multi-agent platform with messaging, monitoring, fault tolerance and support for distributed execution. · [PDF v2](https://arxiv.org/pdf/2402.14034v2) #paper
+- [An LLM Compiler for Parallel Function Calling](sources/arxiv-2312.04511.md) — The authors represent tool calls as a dependency graph and execute independent operations in parallel. · [PDF v3](https://arxiv.org/pdf/2312.04511v3) #paper
+- [AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents](sources/arxiv-2407.18901.md) — Simulated applications and APIs allow agents to be evaluated using state changes and side effects within the environment. · [PDF v1](https://arxiv.org/pdf/2407.18901v1) #paper
+- [ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems](sources/arxiv-2311.09476.md) — The method combines synthetic data and trained judges with a small set of human judgments to measure RAG relevance and faithfulness. · [PDF v2](https://arxiv.org/pdf/2311.09476v2) #paper
+- [Assessing Automated Prompt Injection Attacks in Agentic Environments](sources/arxiv-2606.10525.md) — The study evaluates automatically generated prompt-injection attacks against tool-using agents. · [PDF v1](https://arxiv.org/pdf/2606.10525v1) #paper
+- [AutoCodeRover: Autonomous Program Improvement](sources/arxiv-2404.05427.md) — The method combines structured code search with program analysis to localize faults and generate patches. · [PDF v3](https://arxiv.org/pdf/2404.05427v3) #paper
+- [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](sources/arxiv-2308.08155.md) — The framework provides configurable agents that communicate with one another, the user and tools to complete complex tasks. · [PDF v2](https://arxiv.org/pdf/2308.08155v2) #paper
+- [Automated Design of Agentic Systems](sources/arxiv-2408.08435.md) — The authors propose a meta-agent that automatically designs and evaluates new agent architectures. · [PDF v2](https://arxiv.org/pdf/2408.08435v2) #paper
+- [Automated structural testing of LLM-based agents: methods, framework, and case studies](sources/arxiv-2601.18827.md) — The authors present methods for testing the structure and execution of agent actions, including calls and dependencies between steps. · [PDF v2](https://arxiv.org/pdf/2601.18827v2) #paper
+- [Automated Unit Test Improvement using Large Language Models at Meta](sources/arxiv-2402.09171.md) — Describes an industrial workflow that uses LLMs to improve existing tests and filters candidate changes for measurable quality gains. · [PDF v1](https://arxiv.org/pdf/2402.09171v1) #paper
+- [Autonomous Deep Agent](sources/arxiv-2502.07056.md) — The authors present a hierarchical task graph and an iterative cycle of planning, execution and local replanning. · [PDF v1](https://arxiv.org/pdf/2502.07056v1) #paper
+- [CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society](sources/arxiv-2303.17760.md) — The study explores autonomous agent collaboration through role-playing and prompts that keep it aligned with human goals. · [PDF v2](https://arxiv.org/pdf/2303.17760v2) #paper
+- [Can Large Language Models Resolve Real Java Merge Conflicts? An Evaluation with a Calibrated LLM-as-Judge](sources/arxiv-2607.27674.md) — The study evaluates models' ability to resolve real Git conflicts in Java projects and the reliability of the evaluation itself. · [PDF v1](https://arxiv.org/pdf/2607.27674v1) #paper
+- [Can LLM Agents Really Debate? A Controlled Study of Multi-Agent Debate in Logical Reasoning](sources/arxiv-2511.07784.md) — The authors investigate multi-model debate and how agent diversity and majority pressure affect reasoning accuracy. · [PDF v1](https://arxiv.org/pdf/2511.07784v1) #paper
+- [Chain-of-Verification Reduces Hallucination in Large Language Models](sources/arxiv-2309.11495.md) — The model drafts an answer, devises verification questions and checks them independently before producing a final response. · [PDF v2](https://arxiv.org/pdf/2309.11495v2) #paper
+- [ChatDev: Communicative Agents for Software Development](sources/arxiv-2307.07924.md) — The study describes software development by agents with different roles working together through structured conversations. · [PDF v5](https://arxiv.org/pdf/2307.07924v5) #paper
+- [Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering](sources/arxiv-2401.08500.md) — The authors use a multi-stage, test-driven workflow to generate and revise code in place of a single prompt. · [PDF v1](https://arxiv.org/pdf/2401.08500v1) #paper
+- [CodePlan: Repository-level Coding using LLMs and Planning](sources/arxiv-2309.12499.md) — The study examines planning for multi-file repository changes, accounting for dependencies and the effects of edits. · [PDF v1](https://arxiv.org/pdf/2309.12499v1) #paper
+- [CodeSpec: Dual Executable Specifications for Agentic Long-Horizon Feature Development](sources/arxiv-2607.26777.md) — The method combines executable specifications of behavior and code structure to verify complex feature implementations. · [PDF v1](https://arxiv.org/pdf/2607.26777v1) #paper
+- [CodeT: Code Generation with Generated Tests](sources/arxiv-2207.10397.md) — The method generates tests for alternative code solutions and uses agreement between outputs to select an implementation. · [PDF v2](https://arxiv.org/pdf/2207.10397v2) #paper
+- [CodeTeam: An LLM-Powered Multi-Agent Framework for Repository-Level Code Generation](sources/arxiv-2606.22082.md) — The paper describes a team of agents that builds complete repositories from architectural plans and contracts. · [PDF v1](https://arxiv.org/pdf/2606.22082v1) #paper
+- [ColBERTv2: Effective and Efficient Retrieval via Lightweight Late Interaction](sources/arxiv-2112.01488.md) — The method combines multi-vector retrieval, late token interaction, representation compression and training with denoised supervision. · [PDF v3](https://arxiv.org/pdf/2112.01488v3) #paper
+- [ColPali: Efficient Document Retrieval with Vision Language Models](sources/arxiv-2407.01449.md) — The method retrieves visually complex documents using multi-vector embeddings of page images and evaluates retrieval on ViDoRe. · [PDF v6](https://arxiv.org/pdf/2407.01449v6) #paper
+- [Corrective Retrieval Augmented Generation](sources/arxiv-2401.15884.md) — CRAG assesses retrieved documents and takes corrective action when the retrieved evidence is of poor quality. · [PDF v3](https://arxiv.org/pdf/2401.15884v3) #paper
+- [CRAG -- Comprehensive RAG Benchmark](sources/arxiv-2406.04744.md) — The benchmark provides diverse questions, answers and simulated APIs for evaluating factual accuracy in RAG systems. · [PDF v2](https://arxiv.org/pdf/2406.04744v2) #paper
+- [Crash-Consistent Checkpointing for AI Training on macOS/APFS](sources/arxiv-2511.18323.md) — The study compares protocols for persisting checkpoints on macOS/APFS and detecting data corruption with checksums. · [PDF v1](https://arxiv.org/pdf/2511.18323v1) #paper
+- [Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents](sources/arxiv-2505.22954.md) — The agent edits its own code, tests variants and retains successful changes in an evolutionary archive. · [PDF v3](https://arxiv.org/pdf/2505.22954v3) #paper
+- [Debugging the Debuggers: Failure-Anchored Structured Recovery for Software Engineering Agents](sources/arxiv-2605.08717.md) — PROBE collects structured failure telemetry, diagnoses the problem and provides controlled guidance when the coding agent retries. · [PDF v2](https://arxiv.org/pdf/2605.08717v2) #paper
+- [Decentralized Multi-Agent Coordination and Communication in Shared Codebases](sources/arxiv-2611.00314.md) — The study examines conflicting requirements and coordination between agents working concurrently in one repository. · [PDF v1](https://arxiv.org/pdf/2611.00314v1) #paper
+- [DeepSWE: Measuring Frontier Coding Agents on Original, Long-Horizon Engineering Tasks](sources/arxiv-2607.07946.md) — The authors introduce research tasks for evaluating agents on long-horizon engineering work. · [PDF v1](https://arxiv.org/pdf/2607.07946v1) #paper
+- [Dense Passage Retrieval for Open-Domain Question Answering](sources/arxiv-2004.04906.md) — A dual encoder produces dense representations of questions and passages for retrieval over open-domain document collections. · [PDF v3](https://arxiv.org/pdf/2004.04906v3) #paper
+- [Detecting Safety Violations Across Many Agent Traces](sources/arxiv-2604.11806.md) — The study evaluates detection of rare safety violations across collections of agent execution traces. · [PDF v1](https://arxiv.org/pdf/2604.11806v1) #paper
+- [Do Automatic Test Generation Tools Generate Flaky Tests?](sources/arxiv-2310.05223.md) — The study examines flaky behavior in automatically generated tests, including sensitivity to the environment and test execution order. · [PDF v1](https://arxiv.org/pdf/2310.05223v1) #paper
+- [DocPrompting: Generating Code by Retrieving the Docs](sources/arxiv-2207.05987.md) — The study demonstrates code generation using retrieved library and API documentation, including APIs previously unseen by the model. · [PDF v3](https://arxiv.org/pdf/2207.05987v3) #paper
+- [Does mutation testing improve testing practices?](sources/arxiv-2103.07189.md) — The study tests whether introducing code mutations reveals gaps in test suites and improves testing practices. · [PDF v1](https://arxiv.org/pdf/2103.07189v1) #paper
+- [Don't Blame the Large Language Model: How Agent Harness Evolution Shapes Coding Agent Quality](sources/arxiv-2607.03691.md) — The study shows how changing the tools or runtime environment can alter performance while keeping the model fixed. · [PDF v2](https://arxiv.org/pdf/2607.03691v2) #paper
+- [DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines](sources/arxiv-2310.03714.md) — The framework treats LLM programs as declarative modules whose demonstrations and instructions can be optimized against a measurable objective. · [PDF v1](https://arxiv.org/pdf/2310.03714v1) #paper
+- [DurableFS: A File System for Persistent Memory](sources/arxiv-1811.00757.md) — The paper describes atomic, durable file-system operations based on logging and copy-on-write. · [PDF v1](https://arxiv.org/pdf/1811.00757v1) #paper
+- [Effective Strategies for Asynchronous Software Engineering Agents](sources/arxiv-2603.21489.md) — Compares asynchronous collaboration strategies for agents working on software tasks with many dependencies. · [PDF v2](https://arxiv.org/pdf/2603.21489v2) #paper
+- [Enabling Large Language Models to Generate Text with Citations](sources/arxiv-2305.14627.md) — ALCE evaluates the correctness, quality and completeness of citations in model-generated answers. · [PDF v2](https://arxiv.org/pdf/2305.14627v2) #paper
+- [Evaluating Very Long-Term Conversational Memory of LLM Agents](sources/arxiv-2402.17753.md) — LoCoMo is a benchmark of multi-session conversations for evaluating memory and reasoning about events far apart in time. · [PDF v1](https://arxiv.org/pdf/2402.17753v1) #paper
+- [Evo-Harness: Context-to-Harness Skill Compilation for Self-Evolving Agents](sources/arxiv-2608.15071.md) — The paper describes converting experience from completed tasks into reusable skills and agent configurations. · [PDF v2](https://arxiv.org/pdf/2608.15071v2) #paper
+- [Evolving to Match Capabilities: Improving Harness Self-Evolution via Skill Adaptation](sources/arxiv-2610.33024.md) — The study adapts agent skills to the capabilities of different models and compares this approach with using a single set of instructions. · [PDF v1](https://arxiv.org/pdf/2610.33024v1) #paper
+- [EvoSkill: Automated Skill Discovery for Multi-Agent Systems](sources/arxiv-2603.02766.md) — The study investigates automatic discovery, modification and evaluation of skills used by agent teams. · [PDF v1](https://arxiv.org/pdf/2603.02766v1) #paper
+- [Fact or Fiction: Verifying Scientific Claims](sources/arxiv-2004.14974.md) — SciFact provides scientific claims and abstracts annotated for support, refutation and the passages that justify each label. · [PDF v6](https://arxiv.org/pdf/2004.14974v6) #paper
+- [FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation](sources/arxiv-2305.14251.md) — The method decomposes long answers into atomic facts and measures the proportion supported by a trusted source. · [PDF v2](https://arxiv.org/pdf/2305.14251v2) #paper
+- [FeatureBench: Benchmarking Agentic Coding for Complex Feature Development](sources/arxiv-2602.10975.md) — The benchmark evaluates implementation of complex features spanning multiple files, modules and dependencies. · [PDF v1](https://arxiv.org/pdf/2602.10975v1) #paper
+- [Finding and Analyzing Crash-Consistency Bugs in Persistent-Memory File Systems](sources/arxiv-2204.06066.md) — The study examines metadata persistence and recovery failures in persistent-memory file systems. · [PDF v1](https://arxiv.org/pdf/2204.06066v1) #paper
+- [Finding Crash-Consistency Bugs with Bounded Black-Box Crash Testing](sources/arxiv-1810.02904.md) — The study tests file-system consistency by interrupting writes at controlled points. · [PDF v1](https://arxiv.org/pdf/1810.02904v1) #paper
+- [Fine-Grained Assertion-Based Test Selection](sources/arxiv-2403.16001.md) — The method selects regression tests at assertion granularity to reduce unnecessary test runs. · [PDF v2](https://arxiv.org/pdf/2403.16001v2) #paper
+- [FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills](sources/arxiv-2607.21596.md) — The method improves agents' action sequences and builds executable skills for reuse. · [PDF v2](https://arxiv.org/pdf/2607.21596v2) #paper
+- [From Failed Trajectories to Reliable LLM Agents: Diagnosing and Repairing Harness Flaws](sources/arxiv-2606.06324.md) — The method analyzes failed trajectories, attributes failures to components of the agent harness and proposes targeted fixes. · [PDF v2](https://arxiv.org/pdf/2606.06324v2) #paper
+- [From Local to Global: A Graph RAG Approach to Query-Focused Summarization](sources/arxiv-2404.16130.md) — The method builds an entity graph and summarizes graph communities to answer questions that span a large text collection. · [PDF v2](https://arxiv.org/pdf/2404.16130v2) #paper
+- [G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment](sources/arxiv-2303.16634.md) — A judge model scores generated text against specified criteria. The study examines agreement with human judgments and potential bias. · [PDF v3](https://arxiv.org/pdf/2303.16634v3) #paper
+- [Generative Agents: Interactive Simulacra of Human Behavior](sources/arxiv-2304.03442.md) — The authors combine memory of observations, reflection and planning in a long-running simulation of social behavior. · [PDF v2](https://arxiv.org/pdf/2304.03442v2) #paper
+- [Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents](sources/arxiv-2605.30621.md) — The study distinguishes an agent's ability to change its harness from its ability to use the resulting change effectively. · [PDF v2](https://arxiv.org/pdf/2605.30621v2) #paper
+- [Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Improvement](sources/arxiv-2609.01481.md) — Studies multiday software development by agents through cycles of planning, implementation, testing and improvement. · [PDF v1](https://arxiv.org/pdf/2609.01481v1) #paper
+- [HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models](sources/arxiv-2405.14831.md) — Knowledge graphs and Personalized PageRank support associations between facts and multi-hop retrieval. · [PDF v3](https://arxiv.org/pdf/2405.14831v3) #paper
+- [How Agent Skills Evolve: A Large-Scale Empirical Study of Skills on GitHub](sources/arxiv-2611.04456.md) — Investigates how repositories’ agent skill files change and how developers maintain them. · [PDF v1](https://arxiv.org/pdf/2611.04456v1) #paper
+- [How Do Coding-Agent Harnesses Self-Evolve? An Empirical Study of Retrospective Adaptation](sources/arxiv-2610.34938.md) — The study tests whether changes proposed after reviewing a session reduce problems on later tasks. · [PDF v1](https://arxiv.org/pdf/2610.34938v1) #paper
+- [ICAE-Bench: Evaluating Coding Agents as Interactive Project Builders](sources/arxiv-2607.21217.md) — The study examines project development through interactions with a user who initially supplies incomplete requirements. · [PDF v1](https://arxiv.org/pdf/2607.21217v1) #paper
+- [Identifying the Risks of LM Agents with an LM-Emulated Sandbox](sources/arxiv-2309.15817.md) — ToolEmu simulates tool calls and assesses risks without executing dangerous scenarios. · [PDF v2](https://arxiv.org/pdf/2309.15817v2) #paper
+- [InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents](sources/arxiv-2403.02691.md) — The work studies prompt injection via untrusted tool responses, documents and other external data. · [PDF v3](https://arxiv.org/pdf/2403.02691v3) #paper
+- [Inside the Scaffold: A Source-Code Taxonomy of Coding Agent Architectures](sources/arxiv-2604.03515.md) — The paper analyzes coding-agent frameworks and identifies common elements in their execution loops. · [PDF v2](https://arxiv.org/pdf/2604.03515v2) #paper
+- [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](sources/arxiv-2306.05685.md) — The study evaluates language models as judges of other models' responses, identifying position bias, verbosity bias and other limitations. · [PDF v4](https://arxiv.org/pdf/2306.05685v4) #paper
+- [KILT: a Benchmark for Knowledge Intensive Language Tasks](sources/arxiv-2009.02252.md) — The benchmark standardizes knowledge-intensive tasks and evaluates both the answer and the provenance of supporting passages. · [PDF v4](https://arxiv.org/pdf/2009.02252v4) #paper
+- [Large Language Models Are Human-Level Prompt Engineers](sources/arxiv-2211.01910.md) — Automates instruction generation and selection by evaluating performance on test tasks. · [PDF v2](https://arxiv.org/pdf/2211.01910v2) #paper
+- [Large Language Models as Optimizers](sources/arxiv-2309.03409.md) — In OPRO, the model proposes solutions using a history of earlier candidates and their scores. · [PDF v3](https://arxiv.org/pdf/2309.03409v3) #paper
+- [LightRAG: Simple and Fast Retrieval-Augmented Generation](sources/arxiv-2410.05779.md) — The method combines a relationship graph and vector representations with two-level retrieval and incremental index updates. · [PDF v3](https://arxiv.org/pdf/2410.05779v3) #paper
+- [LogicHunter: Testing LLM Agent Frameworks with an Agentic Oracle](sources/arxiv-2607.06195.md) — The method detects semantic bugs in agent frameworks using automated testing and a specialized test oracle. · [PDF v1](https://arxiv.org/pdf/2607.06195v1) #paper
+- [Long-form factuality in large language models](sources/arxiv-2403.18802.md) — LongFact and SAFE support evaluation of long answers by splitting them into facts and checking those facts against retrieved sources. · [PDF v4](https://arxiv.org/pdf/2403.18802v4) #paper
+- [LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory](sources/arxiv-2410.10813.md) — The benchmark tests long-term memory, temporal reasoning, knowledge updates and appropriate abstention when information is missing. · [PDF v2](https://arxiv.org/pdf/2410.10813v2) #paper
+- [Lost in the Middle: How Language Models Use Long Contexts](sources/arxiv-2307.03172.md) — The authors find that models can make less effective use of information placed in the middle of a long context. · [PDF v3](https://arxiv.org/pdf/2307.03172v3) #paper
+- [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](sources/arxiv-2504.19413.md) — The study analyzes how agent applications select, persist and retrieve information from long-term memory. · [PDF v1](https://arxiv.org/pdf/2504.19413v1) #paper
+- [MemGPT: Towards LLMs as Operating Systems](sources/arxiv-2310.08560.md) — The method manages memory hierarchically and moves information between memory levels when the context window is limited. · [PDF v2](https://arxiv.org/pdf/2310.08560v2) #paper
+- [MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents](sources/arxiv-2602.02474.md) — The study investigates how agents learn policies for storing, updating and retrieving memories. · [PDF v3](https://arxiv.org/pdf/2602.02474v3) #paper
+- [MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework](sources/arxiv-2308.00352.md) — The framework organizes multiple agents through roles, standard operating procedures and documents passed between stages. · [PDF v7](https://arxiv.org/pdf/2308.00352v7) #paper
+- [Mixture-of-Agents Enhances Large Language Model Capabilities](sources/arxiv-2406.04692.md) — The method aggregates responses from multiple language models in successive layers as they solve a task. · [PDF v1](https://arxiv.org/pdf/2406.04692v1) #paper
+- [Multi-agent Architecture Search via Agentic Supernet](sources/arxiv-2502.04180.md) — The study compares agent configurations and team sizes in terms of problem type, output quality and computational cost. · [PDF v2](https://arxiv.org/pdf/2502.04180v2) #paper
+- [NL2Repo-Bench: Towards Long-Horizon Repository Generation Evaluation of Coding Agents](sources/arxiv-2512.12730.md) — The benchmark evaluates whether agents can generate complete repositories from natural-language requirements. · [PDF v2](https://arxiv.org/pdf/2512.12730v2) #paper
+- [Observability and Fault Injection for LLM-Based Multi-Agent Systems in Software Engineering](sources/arxiv-2608.24271.md) — The method combines distributed tracing of agents with controlled fault injection to diagnose reliability problems. · [PDF v1](https://arxiv.org/pdf/2608.24271v1) #paper
+- [OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](sources/arxiv-2404.07972.md) — The benchmark tests agents in real desktop environments and automatically evaluates task completion. · [PDF v2](https://arxiv.org/pdf/2404.07972v2) #paper
+- [Phantom Guardrails: When Self-Improving Agent Harnesses Fix Failures That Never Happened](sources/arxiv-2607.13083.md) — The study investigates apparent security improvements made in response to problems for which there is no observational evidence. · [PDF v1](https://arxiv.org/pdf/2607.13083v1) #paper
+- [Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models](sources/arxiv-2305.04091.md) — The method separates planning from execution of subtasks to reduce skipped reasoning steps. · [PDF v3](https://arxiv.org/pdf/2305.04091v3) #paper
+- [Practical Detectability for Persistent Lock-Free Data Structures](sources/arxiv-2203.07621.md) — The study examines how to determine whether an operation completed before a crash and how to recover its result safely. · [PDF v1](https://arxiv.org/pdf/2203.07621v1) #paper
+- [Precise Zero-Shot Dense Retrieval without Relevance Labels](sources/arxiv-2212.10496.md) — HyDE generates a hypothetical document, embeds it and retrieves real documents without using relevance labels. · [PDF v1](https://arxiv.org/pdf/2212.10496v1) #paper
+- [Predictive Test Selection](sources/arxiv-1810.05286.md) — The study examines how selecting tests relevant to a code change can shorten regression testing. · [PDF v2](https://arxiv.org/pdf/1810.05286v2) #paper
+- [Prometheus 2: An Open Source Language Model Specialized in Evaluating Other Language Models](sources/arxiv-2405.01535.md) — The authors present an open judge model for absolute scoring and pairwise comparisons using user-defined criteria. · [PDF v2](https://arxiv.org/pdf/2405.01535v2) #paper
+- [Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution](sources/arxiv-2309.16797.md) — The method evolves sets of prompts while also improving the instructions that generate new variants. · [PDF v1](https://arxiv.org/pdf/2309.16797v1) #paper
+- [Ragas: Automated Evaluation of Retrieval Augmented Generation](sources/arxiv-2309.15217.md) — The authors define metrics for retrieval, faithfulness to context and generation quality that do not require exhaustive human annotation. · [PDF v2](https://arxiv.org/pdf/2309.15217v2) #paper
+- [RAGBench: Explainable Benchmark for Retrieval-Augmented Generation Systems](sources/arxiv-2407.11005.md) — The dataset provides cases and interpretable labels for assessing whether retrieved evidence supports an answer. · [PDF v2](https://arxiv.org/pdf/2407.11005v2) #paper
+- [RAGChecker: A Fine-grained Framework for Diagnosing Retrieval-Augmented Generation](sources/arxiv-2408.08067.md) — The authors propose metrics that distinguish context-retrieval errors from answer-generation errors. · [PDF v2](https://arxiv.org/pdf/2408.08067v2) #paper
+- [RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval](sources/arxiv-2401.18059.md) — The method builds a hierarchy of summaries and passages to support retrieval at multiple levels of detail. · [PDF v1](https://arxiv.org/pdf/2401.18059v1) #paper
+- [ReAct: Synergizing Reasoning and Acting in Language Models](sources/arxiv-2210.03629.md) — The method interleaves planning and acting with information returned by tools during interactive tasks. · [PDF v3](https://arxiv.org/pdf/2210.03629v3) #paper
+- [Reflexion: Language Agents with Verbal Reinforcement Learning](sources/arxiv-2303.11366.md) — The method improves agent behavior through feedback and stored reflections without updating model weights. · [PDF v4](https://arxiv.org/pdf/2303.11366v4) #paper
+- [RepoBench: Benchmarking Repository-Level Code Auto-Completion Systems](sources/arxiv-2306.03091.md) — The benchmark evaluates code completion that requires cross-file knowledge and retrieval of repository context. · [PDF v2](https://arxiv.org/pdf/2306.03091v2) #paper
+- [RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation](sources/arxiv-2303.12570.md) — The method iteratively retrieves related code and completes implementations across a repository. · [PDF v3](https://arxiv.org/pdf/2303.12570v3) #paper
+- [Repoformer: Selective Retrieval for Repository-Level Code Completion](sources/arxiv-2403.10059.md) — The method retrieves context selectively when it is expected to help code generation, reducing noise and unnecessary cost. · [PDF v2](https://arxiv.org/pdf/2403.10059v2) #paper
+- [RepoZero: Can LLMs Generate a Code Repository from Scratch?](sources/arxiv-2605.07122.md) — The study evaluates building a complete repository from scratch using a specification and executable tests. · [PDF v3](https://arxiv.org/pdf/2605.07122v3) #paper
+- [Rethinking the Value of Agent-Generated Tests for LLM-Based Software Engineering Agents](sources/arxiv-2602.07900.md) — The study examines the value of agent-generated tests and the limits of increasing test counts alone. · [PDF v3](https://arxiv.org/pdf/2602.07900v3) #paper
+- [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](sources/arxiv-2005.11401.md) — The architecture combines a generative model with retrieval over external documents. The paper evaluates RAG-Sequence and RAG-Token. · [PDF v4](https://arxiv.org/pdf/2005.11401v4) #paper
+- [Retrieval-Augmented Generation for Large Language Models: A Survey](sources/arxiv-2312.10997.md) — The survey covers basic, advanced and modular RAG, including retrieval, augmentation, generation and evaluation. · [PDF v5](https://arxiv.org/pdf/2312.10997v5) #paper
+- [RoadmapBench: Evaluating Long-Horizon Agentic Software Development Across Version Upgrades](sources/arxiv-2605.15846.md) — The study examines complex repository changes implemented in stages across successive product releases. · [PDF v2](https://arxiv.org/pdf/2605.15846v2) #paper
+- [SaaSBench: Exploring the Boundaries of Coding Agents in Long-Horizon Enterprise SaaS Engineering](sources/arxiv-2605.17526.md) — The study evaluates coding agents on long-running tasks that involve building and extending SaaS applications. · [PDF v1](https://arxiv.org/pdf/2605.17526v1) #paper
+- [Scalable and Accurate Application-Level Crash-Consistency Testing via Representative Testing](sources/arxiv-2503.01390.md) — The paper presents efficient methods for testing application crash consistency during disk operations. · [PDF v1](https://arxiv.org/pdf/2503.01390v1) #paper
+- [Self-Authored Verification Is Unreliable in Heuristic Self-Improving Agents](sources/arxiv-2607.24300.md) — Analyzes the risks of a self-improving agent defining the criteria used to evaluate its own changes. · [PDF v1](https://arxiv.org/pdf/2607.24300v1) #paper
+- [Self-Evolving Coding Agents](sources/arxiv-2608.03392.md) — This survey examines how coding agents improve through memory, tools, skills and collaboration. · [PDF v4](https://arxiv.org/pdf/2608.03392v4) #paper
+- [Self-Evolving Coding Agents via Harness-Policy Optimization](sources/arxiv-2610.22791.md) — The study investigates joint optimization of a coding agent's harness and policy. · [PDF v1](https://arxiv.org/pdf/2610.22791v1) #paper
+- [Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](sources/arxiv-2310.11511.md) — The method trains a model to retrieve evidence adaptively and evaluate its own responses using reflection tokens. · [PDF v1](https://arxiv.org/pdf/2310.11511v1) #paper
+- [Self-Refine: Iterative Refinement with Self-Feedback](sources/arxiv-2303.17651.md) — The method iteratively generates, evaluates and revises responses while keeping model weights fixed. · [PDF v2](https://arxiv.org/pdf/2303.17651v2) #paper
+- [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](sources/arxiv-1908.10084.md) — BERT trained with a Siamese or triplet architecture produces sentence embeddings that can be compared by cosine similarity for semantic search. · [PDF v1](https://arxiv.org/pdf/1908.10084v1) #paper
+- [SetupBench: Assessing Software Engineering Agents' Ability to Bootstrap Development Environments](sources/arxiv-2507.09063.md) — The study tests whether agents can set up a development environment, install dependencies and run existing repositories. · [PDF v1](https://arxiv.org/pdf/2507.09063v1) #paper
+- [SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks](sources/arxiv-2603.24755.md) — The study tracks degradation in code quality and structure as agents repeatedly extend the same project. · [PDF v2](https://arxiv.org/pdf/2603.24755v2) #paper
+- [Socratic-SWE: Self-Evolving Coding Agents via Trace-Derived Agent Skills](sources/arxiv-2606.07412.md) — The method uses coding-agent trajectories and failures to develop and evaluate new skills. · [PDF v1](https://arxiv.org/pdf/2606.07412v1) #paper
+- [SpecBench: Measuring Reward Hacking in Long-Horizon Coding Agents](sources/arxiv-2605.21384.md) — Shows how agents can optimize code to pass visible tests while missing the underlying requirements. · [PDF v2](https://arxiv.org/pdf/2605.21384v2) #paper
+- [SquirrelFS: Using the Rust Compiler to Check File-System Crash Consistency](sources/arxiv-2406.09649.md) — The authors use Rust's type system to enforce safe ordering of file-system writes. · [PDF v1](https://arxiv.org/pdf/2406.09649v1) #paper
+- [SWE-Adept: An LLM-Based Agentic Framework for Deep Codebase Analysis and Structured Issue Resolution](sources/arxiv-2603.01327.md) — The method combines repository analysis, repair planning and checkpoints to support work on complex issues. · [PDF v3](https://arxiv.org/pdf/2603.01327v3) #paper
+- [SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering](sources/arxiv-2405.15793.md) — The paper shows how file access, terminal interaction and test execution affect coding-agent performance. · [PDF v3](https://arxiv.org/pdf/2405.15793v3) #paper
+- [SWE-Bench Pro V2: A Cleaner, Harder-to-Game Coding Benchmark](sources/arxiv-2610.24206.md) — Presents a more difficult, more thoroughly audited set of tasks for evaluating coding agents. · [PDF v2](https://arxiv.org/pdf/2610.24206v2) #paper
+- [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](sources/arxiv-2310.06770.md) — The benchmark evaluates fixes for real GitHub issues against existing repositories and their tests. · [PDF v3](https://arxiv.org/pdf/2310.06770v3) #paper
+- [SWE-Chain: Benchmarking Coding Agents on Chained Release-Level Package Upgrades](sources/arxiv-2605.14415.md) — The benchmark tests whether agents maintain quality across related software updates and successive releases. · [PDF v1](https://arxiv.org/pdf/2605.14415v1) #paper
+- [SWE-Cycle: Benchmarking Code Agents across the Complete Issue Resolution Cycle](sources/arxiv-2605.13139.md) — The evaluation covers the entire coding task, from setting up the environment to implementation and testing. · [PDF v1](https://arxiv.org/pdf/2605.13139v1) #paper
+- [SWE-Doctor: Guiding Software Engineering Agents with Runtime Diagnosis from Multi-Faceted Bug Reproduction Tests](sources/arxiv-2607.00990.md) — The method uses diverse bug-reproducing tests to improve fault diagnosis and code repair. · [PDF v1](https://arxiv.org/pdf/2607.00990v1) #paper
+- [SWE-INTERACT: Reimagining SWE Benchmarks as User-Driven Long-Horizon Coding Sessions](sources/arxiv-2606.30573.md) — The study evaluates coding agents working with a user over multiple turns as requirements change. · [PDF v1](https://arxiv.org/pdf/2606.30573v1) #paper
+- [SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?](sources/arxiv-2502.12115.md) — The evaluation measures models' ability to perform realistic, priced software-engineering tasks and make technical decisions. · [PDF v4](https://arxiv.org/pdf/2502.12115v4) #paper
+- [SWE-MeM: Learning Adaptive Memory Management for Long-Horizon Coding Agents](sources/arxiv-2606.28434.md) — The authors propose adaptive context and memory management for multi-stage coding tasks. · [PDF v1](https://arxiv.org/pdf/2606.28434v1) #paper
+- [SWE-NFI: Studying and Benchmarking Coding Agents for Non-Functional Improvements](sources/arxiv-2607.27409.md) — The study evaluates refactoring and code-quality improvements that preserve required functionality. · [PDF v2](https://arxiv.org/pdf/2607.27409v2) #paper
+- [SWE-PolyBench: A Multi-Language Benchmark for Repository-Level Evaluation of Coding Agents](sources/arxiv-2504.08703.md) — The study compares coding agents on repository-level tasks in several programming languages. · [PDF v3](https://arxiv.org/pdf/2504.08703v3) #paper
+- [SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement](sources/arxiv-2410.20285.md) — The study explores candidate patches using tree search and iterative verification. · [PDF v6](https://arxiv.org/pdf/2410.20285v6) #paper
+- [SWE-Synth: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs](sources/arxiv-2504.14757.md) — The study describes synthetic generation of code-repair tasks, executable verification and data for model development. · [PDF v2](https://arxiv.org/pdf/2504.14757v2) #paper
+- [Tangent: An Empirical Study of Testing Practices for LLM-Based Agent Applications](sources/arxiv-2608.08413.md) — The study examines how developers test agent-based applications, including their use of mocks and integration tests. · [PDF v1](https://arxiv.org/pdf/2608.08413v1) #paper
+- [Testing with AI Agents: An Empirical Study of Test Generation Frequency, Quality, and Coverage](sources/arxiv-2603.13724.md) — The study compares how often agents write tests with the quality and code coverage of those tests. · [PDF v1](https://arxiv.org/pdf/2603.13724v1) #paper
+- [TextGrad: Automatic "Differentiation" via Text](sources/arxiv-2406.07496.md) — The method uses textual feedback to iteratively improve components of complex AI systems. · [PDF v1](https://arxiv.org/pdf/2406.07496v1) #paper
+- [The OpenHands Software Agent SDK: A Composable and Extensible Foundation for Production Agents](sources/arxiv-2511.03690.md) — The paper describes a modular toolkit for building coding agents, including adapters, a runtime and lifecycle management. · [PDF v2](https://arxiv.org/pdf/2511.03690v2) #paper
+- [The Path to Durable Linearizability](sources/arxiv-2211.07631.md) — The authors formalize correctness for concurrent operations whose effects must remain consistent across crashes. · [PDF v1](https://arxiv.org/pdf/2211.07631v1) #paper
+- [TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks](sources/arxiv-2412.14161.md) — The environment simulates digital work in a small company, including web browsing, programming and communicating with colleagues. · [PDF v3](https://arxiv.org/pdf/2412.14161v3) #paper
+- [Toolformer: Language Models Can Teach Themselves to Use Tools](sources/arxiv-2302.04761.md) — The method uses self-supervised learning to choose API tools, specify arguments and use their results in subsequent generation. · [PDF v1](https://arxiv.org/pdf/2302.04761v1) #paper
+- [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs](sources/arxiv-2307.16789.md) — ToolBench provides methods for training and evaluating agents that call real APIs. · [PDF v2](https://arxiv.org/pdf/2307.16789v2) #paper
+- [ToolSandbox: A Stateful, Conversational, Interactive Evaluation Benchmark for LLM Tool Use Capabilities](sources/arxiv-2408.04682.md) — The evaluation covers state-dependent tool use, interactions and intermediate steps in addition to the outcome of an individual command. · [PDF v2](https://arxiv.org/pdf/2408.04682v2) #paper
+- [TRACE: A Framework for Analyzing and Enhancing Stepwise Reasoning in Vision-Language Models](sources/arxiv-2512.05943.md) — The study evaluates detection of incorrect reasoning steps and the consistency of intermediate outputs from vision-language models. · [PDF v3](https://arxiv.org/pdf/2512.05943v3) #paper
+- [Training Software Engineering Agents and Verifiers with SWE-Gym](sources/arxiv-2412.21139.md) — The authors provide executable tasks and environments for developing and evaluating coding agents and verifiers. · [PDF v2](https://arxiv.org/pdf/2412.21139v2) #paper
+- [TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories](sources/arxiv-2608.06346.md) — The study follows errors through long agent trajectories and attributes failures to critical steps. · [PDF v1](https://arxiv.org/pdf/2608.06346v1) #paper
+- [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](sources/arxiv-2305.10601.md) — The method explores alternative reasoning steps and evaluates partial solutions before choosing how to proceed. · [PDF v2](https://arxiv.org/pdf/2305.10601v2) #paper
+- [Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution](sources/arxiv-2610.32285.md) — The study evaluates agent infrastructure reliability and traces failures to their sources using execution traces. · [PDF v1](https://arxiv.org/pdf/2610.32285v1) #paper
+- [Using Process Mining to Generate AI Agents from Software Engineering Process Records](sources/arxiv-2607.04948.md) — The authors use process mining on software-development logs to identify roles and design agents that reflect actual work. · [PDF v1](https://arxiv.org/pdf/2607.04948v1) #paper
+- [ViBench 2.0: A Benchmark for Long-Horizon Software Building](sources/arxiv-2611.05620.md) — The benchmark evaluates complete applications developed across multiple feature requests, with final product behavior tested in the browser. · [PDF v1](https://arxiv.org/pdf/2611.05620v1) #paper
+- [Voyager: An Open-Ended Embodied Agent with Large Language Models](sources/arxiv-2305.16291.md) — The paper presents an agent that builds a library of executable skills and reuses them in later tasks. · [PDF v2](https://arxiv.org/pdf/2305.16291v2) #paper
+- [WebArena: A Realistic Web Environment for Building Autonomous Agents](sources/arxiv-2307.13854.md) — The benchmark provides reproducible websites and realistic multi-step tasks for browser-based agents. · [PDF v4](https://arxiv.org/pdf/2307.13854v4) #paper
+- [When Agent Evaluation Becomes Unreliable: An Empirical Study of Oracle Failures and Configuration-Dependent Measurement in an LLM Agent Benchmark](sources/arxiv-2610.16067.md) — The study examines evaluator defects that can inflate or distort reported agent performance. · [PDF v2](https://arxiv.org/pdf/2610.16067v2) #paper
+- [When the Specification Emerges: Benchmarking Faithfulness Loss in Long-Horizon Coding Agents](sources/arxiv-2603.17104.md) — The evaluation tests whether agents satisfy requirements revealed incrementally during long coding sessions. · [PDF v1](https://arxiv.org/pdf/2603.17104v1) #paper
+- [Where LLM Agents Fail and How They can Learn From Failures](sources/arxiv-2509.25370.md) — The paper classifies language-agent failures and examines how agents can improve by learning from earlier errors. · [PDF v1](https://arxiv.org/pdf/2509.25370v1) #paper
+- [Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity](sources/arxiv-2507.09089.md) · [2507.09089v2](https://arxiv.org/abs/2507.09089v2) · [PDF](https://arxiv.org/pdf/2507.09089v2) · `catalog_import_only` #paper
+- [Is Your Code Generated by ChatGPT Really Correct? Rigorous Evaluation of Large Language Models for Code Generation](sources/arxiv-2305.01210.md) · [2305.01210v3](https://arxiv.org/abs/2305.01210v3) · [PDF](https://arxiv.org/pdf/2305.01210v3) · `catalog_import_only` #paper
+- [Why Do Multi-Agent LLM Systems Fail?](sources/arxiv-2503.13657.md) · [2503.13657v3](https://arxiv.org/abs/2503.13657v3) · [PDF](https://arxiv.org/pdf/2503.13657v3) · `catalog_import_only` #paper
+- [SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains?](sources/arxiv-2410.03859.md) · [2410.03859v1](https://arxiv.org/abs/2410.03859v1) · [PDF](https://arxiv.org/pdf/2410.03859v1) · `catalog_import_only` #paper
+- [Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions](sources/arxiv-2507.05257.md) · [2507.05257v4](https://arxiv.org/abs/2507.05257v4) · [PDF](https://arxiv.org/pdf/2507.05257v4) · `catalog_import_only` #paper
+- [SWE-smith: Scaling Data for Software Engineering Agents](sources/arxiv-2504.21798.md) · [2504.21798v2](https://arxiv.org/abs/2504.21798v2) · [PDF](https://arxiv.org/pdf/2504.21798v2) · `catalog_import_only` #paper
+- [AI Agents That Matter](sources/arxiv-2407.01502.md) · [2407.01502v1](https://arxiv.org/abs/2407.01502v1) · [PDF](https://arxiv.org/pdf/2407.01502v1) · `catalog_import_only` #paper
+- [RepoLaunch: Automating Build and Management of Code Repositories across Languages and Platforms](sources/arxiv-2603.05026.md) · [2603.05026v4](https://arxiv.org/abs/2603.05026v4) · [PDF](https://arxiv.org/pdf/2603.05026v4) · `catalog_import_only` #paper

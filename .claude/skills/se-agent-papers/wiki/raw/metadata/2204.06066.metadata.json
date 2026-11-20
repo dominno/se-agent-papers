@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "2204.06066",
+  "version": "2204.06066v1",
+  "source_url": "https://arxiv.org/pdf/2204.06066v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:43.565716+00:00",
+  "captured_bytes": 76451,
+  "sha256": "8210e5056e3c505689d2653362e935ff8054d341bd50fc996efd4631ba9e8e7a",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Finding and Analyzing Crash-Consistency Bugs in Persistent-Memory File Systems",
+  "arxiv_title": "Finding and Analyzing Crash-Consistency Bugs in Persistent-Memory File Systems",
+  "authors": [
+    "LeBlanc, Hayley",
+    "Pailoor, Shankara",
+    "Dillig, Isil",
+    "Bornholt, James",
+    "Chidambaram, Vijay"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2204.06066v1.pdf",
+  "original_sha256": "85a5bbeb2fefcb8d6f7cc97c28bbf7f30a8e9cfb8b0c6bd91e0f75d781300792",
+  "pages": 16,
+  "html_url": "https://arxiv.org/html/2204.06066v1"
+}

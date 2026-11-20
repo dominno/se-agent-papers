@@ -1,0 +1,28 @@
+{
+  "arxiv_id": "2503.13657",
+  "version": "2503.13657v3",
+  "title": "Why Do Multi-Agent LLM Systems Fail?",
+  "authors": [
+    "Mert Cemri",
+    "Melissa Z. Pan",
+    "Shuyi Yang",
+    "Lakshya A. Agrawal",
+    "Bhavya Chopra",
+    "Rishabh Tiwari",
+    "Kurt Keutzer",
+    "Aditya Parameswaran",
+    "Dan Klein",
+    "Kannan Ramchandran",
+    "Matei Zaharia",
+    "Joseph E. Gonzalez",
+    "Ion Stoica"
+  ],
+  "url": "https://arxiv.org/abs/2503.13657v3",
+  "source_url": "https://arxiv.org/pdf/2503.13657v3",
+  "license_url": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "categories": [
+    "cs.AI"
+  ],
+  "published": "2025-03-17T19:04:38Z",
+  "updated": "2025-10-26T23:25:18Z"
+}

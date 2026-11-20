@@ -1,0 +1,27 @@
+{
+  "arxiv_id": "2607.27409",
+  "version": "2607.27409v2",
+  "source_url": "https://arxiv.org/pdf/2607.27409v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:26.037205+00:00",
+  "captured_bytes": 81453,
+  "sha256": "b4a8a030088729e9a0cf6b55a45fbb8cd814a8dc77e4c339b0375f0545fe855f",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "SWE-NFI: Studying and Benchmarking Coding Agents for Non-Functional Improvements",
+  "arxiv_title": "SWE-NFI: Studying and Benchmarking Coding Agents for Non-Functional Improvements",
+  "authors": [
+    "Xue, Pengyu",
+    "Yuan, He Yang",
+    "Wang, Xin",
+    "Chen, Junkai",
+    "Zhang, Haonan",
+    "Chen, Boyuan",
+    "Ding, Zishuo",
+    "Li, Zhenhao",
+    "Shang, Weiyi"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2607.27409v2.pdf",
+  "original_sha256": "41e84dde481b947461714013969138901013990f24f115f0e4ae2b5ef451d31a",
+  "pages": 13
+}

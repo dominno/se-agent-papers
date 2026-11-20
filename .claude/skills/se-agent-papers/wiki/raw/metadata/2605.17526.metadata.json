@@ -1,0 +1,33 @@
+{
+  "arxiv_id": "2605.17526",
+  "version": "2605.17526v1",
+  "source_url": "https://arxiv.org/pdf/2605.17526v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:22.441785+00:00",
+  "captured_bytes": 114140,
+  "sha256": "80b1bbfd1b865b4289eb8080c625e881880fc3737c65577438a79fa81300c04a",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "SaaSBench: Exploring the Boundaries of Coding Agents in Long-Horizon Enterprise SaaS Engineering",
+  "arxiv_title": "SaaSBench: Exploring the Boundaries of Coding Agents in Long-Horizon Enterprise SaaS Engineering",
+  "authors": [
+    "Ren, Qingnan",
+    "Zou, Shun",
+    "Huang, Shiting",
+    "Zhang, Ziao",
+    "Shi, Kou",
+    "Fang, Zhen",
+    "Zhao, Yiming",
+    "Zeng, Yu",
+    "Su, Qisheng",
+    "Chen, Lin",
+    "Wang, Yong",
+    "Chen, Zehui",
+    "Chu, Xiangxiang",
+    "Zhao, Feng"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2605.17526v1.pdf",
+  "original_sha256": "e286335cbf12a113ed31666b3a599132cf0e67ef4e9fa4050e37ea3462c2c5e6",
+  "pages": 29,
+  "html_url": "https://arxiv.org/html/2605.17526v1"
+}

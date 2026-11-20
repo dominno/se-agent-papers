@@ -1,0 +1,26 @@
+{
+  "arxiv_id": "2305.10601",
+  "version": "2305.10601v2",
+  "source_url": "https://arxiv.org/pdf/2305.10601v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:55:33.582286+00:00",
+  "captured_bytes": 60184,
+  "sha256": "2269602342efa2f0de81cbaac152af0856efcf2da0557da71932aa98f499d632",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models",
+  "arxiv_title": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models",
+  "authors": [
+    "Yao, Shunyu",
+    "Yu, Dian",
+    "Zhao, Jeffrey",
+    "Shafran, Izhak",
+    "Griffiths, Thomas L.",
+    "Cao, Yuan",
+    "Narasimhan, Karthik"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2305.10601v2.pdf",
+  "original_sha256": "79c5237e3f63953a73f2b0d6894327702ee1f7e981450c251bb1b5cb4f8d7b8f",
+  "pages": 14,
+  "html_url": "https://arxiv.org/html/2305.10601v2"
+}

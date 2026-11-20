@@ -1,0 +1,27 @@
+{
+  "arxiv_id": "2606.07412",
+  "version": "2606.07412v1",
+  "source_url": "https://arxiv.org/pdf/2606.07412v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:55:54.986540+00:00",
+  "captured_bytes": 64182,
+  "sha256": "fbbe2af09dc6267c39b17311b230b31c0047574e008737a5ec00099c14ed4879",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Socratic-SWE: Self-Evolving Coding Agents via Trace-Derived Agent Skills",
+  "arxiv_title": "Socratic-SWE: Self-Evolving Coding Agents via Trace-Derived Agent Skills",
+  "authors": [
+    "Xiao, Chuan",
+    "Jiao, Zhengbo",
+    "Wang, Shaobo",
+    "Wang, Wei",
+    "Zhao, Bing",
+    "Wei, Hu",
+    "Zhang, Linfeng",
+    "Qu, Lin"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2606.07412v1.pdf",
+  "original_sha256": "12fa1d830c06770d9a9e24e52226317fed810d09de311138a46514f8077ab72f",
+  "pages": 21,
+  "html_url": "https://arxiv.org/html/2606.07412v1"
+}

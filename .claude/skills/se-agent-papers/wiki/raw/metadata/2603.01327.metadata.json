@@ -1,0 +1,21 @@
+{
+  "arxiv_id": "2603.01327",
+  "version": "2603.01327v3",
+  "source_url": "https://arxiv.org/pdf/2603.01327v3",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:53:17.153357+00:00",
+  "captured_bytes": 73875,
+  "sha256": "48283e8e97fc89da65a8c1023f421f2670495f0fd177f4ac15cd975febab87b4",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "SWE-Adept: An LLM-Based Agentic Framework for Deep Codebase Analysis and Structured Issue Resolution",
+  "arxiv_title": "SWE-Adept: An LLM-Based Agentic Framework for Deep Codebase Analysis and Structured Issue Resolution",
+  "authors": [
+    "He, Kang",
+    "Roy, Kaushik"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2603.01327v3.pdf",
+  "original_sha256": "079ad9a9cdf4843110e8fe808c59bdf103da5d4df906236146e0b3c15e325b1f",
+  "pages": 19,
+  "html_url": "https://arxiv.org/html/2603.01327v3"
+}

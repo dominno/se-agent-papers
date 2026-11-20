@@ -1,0 +1,23 @@
+{
+  "arxiv_id": "2103.07189",
+  "version": "2103.07189v1",
+  "source_url": "https://arxiv.org/pdf/2103.07189v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:36.021251+00:00",
+  "captured_bytes": 68209,
+  "sha256": "b85bf3f8bf997342c37943511db66bf2e17b3e675f60e11555a1285b46a70147",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Does mutation testing improve testing practices?",
+  "arxiv_title": "Does mutation testing improve testing practices?",
+  "authors": [
+    "Petrović, Goran",
+    "Ivanković, Marko",
+    "Fraser, Gordon",
+    "Just, René"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2103.07189v1.pdf",
+  "original_sha256": "09dea49f17df2c434ac2a5149c2f37253fc4b2628a901c965e17647345760d90",
+  "pages": 12,
+  "html_url": "https://arxiv.org/html/2103.07189v1"
+}

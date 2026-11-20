@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "2611.00314",
+  "version": "2611.00314v1",
+  "source_url": "https://arxiv.org/pdf/2611.00314v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:34.922007+00:00",
+  "captured_bytes": 128291,
+  "sha256": "1014eb338ece4b9eeda93441ca17a7b98b37300a5beeaa9b925591e0dd8be5db",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Decentralized Multi-Agent Coordination and Communication in Shared Codebases",
+  "arxiv_title": "Decentralized Multi-Agent Coordination and Communication in Shared Codebases",
+  "authors": [
+    "Mediratta, Rishabh",
+    "Xiao, Lingyun",
+    "Stone, Peter",
+    "Biswas, Joydeep",
+    "Stengel-Eskin, Elias"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2611.00314v1.pdf",
+  "original_sha256": "82bdc94a73e2355bc7414ec5c21ce8f730f0879269860377bdf272cae625d365",
+  "pages": 38,
+  "html_url": "https://arxiv.org/html/2611.00314v1"
+}

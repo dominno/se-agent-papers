@@ -1,0 +1,25 @@
+{
+  "arxiv_id": "2502.04180",
+  "version": "2502.04180v2",
+  "source_url": "https://arxiv.org/pdf/2502.04180v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:26.758195+00:00",
+  "captured_bytes": 71558,
+  "sha256": "b52fddd8d73638b49b80511d65ff40f0071bf8dd19b1fa832d7a105db88dbfc4",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Multi-agent Architecture Search via Agentic Supernet",
+  "arxiv_title": "Multi-agent Architecture Search via Agentic Supernet",
+  "authors": [
+    "Zhang, Guibin",
+    "Niu, Luyang",
+    "Fang, Junfeng",
+    "Wang, Kun",
+    "Bai, Lei",
+    "Wang, Xiang"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2502.04180v2.pdf",
+  "original_sha256": "1f7a580667049d3f7ac879c9ef9b3d206e22ae5f52ee18ab1b52fe0b312bc0b0",
+  "pages": 19,
+  "html_url": "https://arxiv.org/html/2502.04180v2"
+}

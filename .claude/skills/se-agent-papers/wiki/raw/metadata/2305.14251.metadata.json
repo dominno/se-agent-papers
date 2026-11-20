@@ -1,0 +1,28 @@
+{
+  "arxiv_id": "2305.14251",
+  "version": "2305.14251v2",
+  "source_url": "https://arxiv.org/pdf/2305.14251v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:09.553517+00:00",
+  "captured_bytes": 97595,
+  "sha256": "8aa36b3369e21247eab43e37ad51d032efbef717394822da3a5b40919119b718",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation",
+  "arxiv_title": "FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation",
+  "authors": [
+    "Min, Sewon",
+    "Krishna, Kalpesh",
+    "Lyu, Xinxi",
+    "Lewis, Mike",
+    "Yih, Wen-tau",
+    "Koh, Pang Wei",
+    "Iyyer, Mohit",
+    "Zettlemoyer, Luke",
+    "Hajishirzi, Hannaneh"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2305.14251v2.pdf",
+  "original_sha256": "88f7542131228f320829a67678f5dec2b069a72acf3852b3e563f0c1d03fc8ff",
+  "pages": 25,
+  "html_url": "https://arxiv.org/html/2305.14251v2"
+}

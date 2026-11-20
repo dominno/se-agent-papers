@@ -1,0 +1,25 @@
+{
+  "arxiv_id": "2607.24300",
+  "version": "2607.24300v1",
+  "source_url": "https://arxiv.org/pdf/2607.24300v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:55:58.970798+00:00",
+  "captured_bytes": 41234,
+  "sha256": "a0f8ac0b2ef4d19b365ba3afe58648ffc01df941d44b63a27eb89b2f3f1eef19",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Self-Authored Verification Is Unreliable in Heuristic Self-Improving Agents",
+  "arxiv_title": "Self-Authored Verification Is Unreliable in Heuristic Self-Improving Agents",
+  "authors": [
+    "Guo, Diandian",
+    "Cao, Cong",
+    "Yuan, Fangfang",
+    "Wang, Yingqi",
+    "Wang, Yueshan",
+    "Wang, Dakui"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2607.24300v1.pdf",
+  "original_sha256": "0a1434ea1c9b533855c856bf49ff5271d1bcc70aa1cb3ac8f040250b5f46f372",
+  "pages": 9,
+  "html_url": "https://arxiv.org/html/2607.24300v1"
+}

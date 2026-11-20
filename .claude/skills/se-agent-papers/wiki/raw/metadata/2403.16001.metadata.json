@@ -1,0 +1,21 @@
+{
+  "arxiv_id": "2403.16001",
+  "version": "2403.16001v2",
+  "source_url": "https://arxiv.org/pdf/2403.16001v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:37.448735+00:00",
+  "captured_bytes": 76691,
+  "sha256": "2b07b17d9c284d9d0192846298913a44627f0f8863dd3ab35bf2aaaee01cb65e",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Fine-Grained Assertion-Based Test Selection",
+  "arxiv_title": "Fine-Grained Assertion-Based Test Selection",
+  "authors": [
+    "Gu, Sijia",
+    "Mesbah, Ali"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2403.16001v2.pdf",
+  "original_sha256": "aada708603f091a1f1ace6fd290632f83edc57085d2c750976a6bb6eb086da68",
+  "pages": 12,
+  "html_url": "https://arxiv.org/html/2403.16001v2"
+}

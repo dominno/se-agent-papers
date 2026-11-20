@@ -1,0 +1,25 @@
+{
+  "arxiv_id": "2603.13724",
+  "version": "2603.13724v1",
+  "source_url": "https://arxiv.org/pdf/2603.13724v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:39.057240+00:00",
+  "captured_bytes": 31444,
+  "sha256": "bbcd258343d034d3d4e890c6e96eea50f04a2101349bf7418d3a3bd5a3ac3e34",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Testing with AI Agents: An Empirical Study of Test Generation Frequency, Quality, and Coverage",
+  "arxiv_title": "Testing with AI Agents: An Empirical Study of Test Generation Frequency, Quality, and Coverage",
+  "authors": [
+    "Yoshimoto, Suzuka",
+    "Fujita, Shun",
+    "Horikawa, Kosei",
+    "Feitosa, Daniel",
+    "Kashiwa, Yutaro",
+    "Iida, Hajimu"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2603.13724v1.pdf",
+  "original_sha256": "041bf8b9ba1c461bed4d4d5d547c7bdf339ffbe5e8e0ea2e336bc90177ecd5de",
+  "pages": 5,
+  "html_url": "https://arxiv.org/html/2603.13724v1"
+}

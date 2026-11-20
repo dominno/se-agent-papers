@@ -1,0 +1,25 @@
+{
+  "arxiv_id": "2607.06624",
+  "version": "2607.06624v2",
+  "source_url": "https://arxiv.org/pdf/2607.06624v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:23.728791+00:00",
+  "captured_bytes": 101138,
+  "sha256": "57fa559495f7092b51f1b13ee554e0f0f266fd31a5d70f544efcbfddd6d68bee",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
+  "arxiv_title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
+  "authors": [
+    "Podivilov, Andrey",
+    "Lomshakov, Vadim",
+    "Savin, Sergey",
+    "Startsev, Matvei",
+    "Pozharskiy, Roman",
+    "Parshin, Maksim",
+    "Nikolenko, Sergey"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2607.06624v2.pdf",
+  "original_sha256": "5917242bf1395f22dbebe848c920857a8d8e89c496743ef9f77567fff1de1b52",
+  "pages": 30
+}

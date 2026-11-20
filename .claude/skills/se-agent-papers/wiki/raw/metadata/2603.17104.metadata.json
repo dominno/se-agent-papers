@@ -1,0 +1,22 @@
+{
+  "arxiv_id": "2603.17104",
+  "version": "2603.17104v1",
+  "source_url": "https://arxiv.org/pdf/2603.17104v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:29.052794+00:00",
+  "captured_bytes": 77452,
+  "sha256": "8b0aa3e1d4ca768971e2e545cf630a48385676d4d6a92794622592b0b3cf1add",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "When the Specification Emerges: Benchmarking Faithfulness Loss in Long-Horizon Coding Agents",
+  "arxiv_title": "When the Specification Emerges: Benchmarking Faithfulness Loss in Long-Horizon Coding Agents",
+  "authors": [
+    "Yan, Lu",
+    "Chen, Xuan",
+    "Zhang, Xiangyu"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "original_file": "2603.17104v1.pdf",
+  "original_sha256": "72dd6eb6798bf42972d8dc107d8ba012f255ac647a0dda12f8ceee88755d5262",
+  "pages": 19,
+  "html_url": "https://arxiv.org/html/2603.17104v1"
+}

@@ -1,0 +1,28 @@
+{
+  "arxiv_id": "2402.09171",
+  "version": "2402.09171v1",
+  "source_url": "https://arxiv.org/pdf/2402.09171v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:44.133359+00:00",
+  "captured_bytes": 73294,
+  "sha256": "6ec5d5d1c9f6541d4d479714ca48609f23daa86e16477083a7528261fc7e9787",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Automated Unit Test Improvement using Large Language Models at Meta",
+  "arxiv_title": "Automated Unit Test Improvement using Large Language Models at Meta",
+  "authors": [
+    "Alshahwan, Nadia",
+    "Chheda, Jubin",
+    "Finegenova, Anastasia",
+    "Gokkaya, Beliz",
+    "Harman, Mark",
+    "Harper, Inna",
+    "Marginean, Alexandru",
+    "Sengupta, Shubho",
+    "Wang, Eddy"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2402.09171v1.pdf",
+  "original_sha256": "8334ccf3de0555abd0153d01f684f68a76d4bc96b07f0dd07b78a821ae70a45e",
+  "pages": 12,
+  "html_url": "https://arxiv.org/html/2402.09171v1"
+}

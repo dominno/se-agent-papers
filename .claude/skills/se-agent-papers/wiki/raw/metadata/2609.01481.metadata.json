@@ -1,0 +1,28 @@
+{
+  "arxiv_id": "2609.01481",
+  "version": "2609.01481v1",
+  "source_url": "https://arxiv.org/pdf/2609.01481v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:53:27.476367+00:00",
+  "captured_bytes": 137804,
+  "sha256": "734d72b6eaf0a650865c382abe4ab291b468aebdd0a5849d468ff74cf173f573",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Improvement",
+  "arxiv_title": "Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Improvement",
+  "authors": [
+    "Yan, Haoyang",
+    "Su, Min-le",
+    "Zhang, Hangfan",
+    "Li, Zhanhao",
+    "Zhang, Chen",
+    "Zhang, Shao",
+    "Chen, Yang",
+    "Bai, Lei",
+    "Hu, Shuyue"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2609.01481v1.pdf",
+  "original_sha256": "df751fdde08a18788eba2653a65c51dabdefdc89dcb28f6f612721e4bf57243b",
+  "pages": 53,
+  "html_url": "https://arxiv.org/html/2609.01481v1"
+}

@@ -1,0 +1,22 @@
+{
+  "arxiv_id": "2306.03091",
+  "version": "2306.03091v2",
+  "source_url": "https://arxiv.org/pdf/2306.03091v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:00.562932+00:00",
+  "captured_bytes": 67858,
+  "sha256": "a0d8a1c7a278facc26581a58c492bff3f6612965198189389cfd54b907112a7d",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "RepoBench: Benchmarking Repository-Level Code Auto-Completion Systems",
+  "arxiv_title": "RepoBench: Benchmarking Repository-Level Code Auto-Completion Systems",
+  "authors": [
+    "Liu, Tianyang",
+    "Xu, Canwen",
+    "McAuley, Julian"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2306.03091v2.pdf",
+  "original_sha256": "44b346c1531586dbe807c647f9eb1ab2c2dd4b721e2319d86a427fcb23aed309",
+  "pages": 18,
+  "html_url": "https://arxiv.org/html/2306.03091v2"
+}

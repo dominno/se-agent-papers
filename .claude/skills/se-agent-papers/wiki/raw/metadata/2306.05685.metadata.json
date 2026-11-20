@@ -1,0 +1,32 @@
+{
+  "arxiv_id": "2306.05685",
+  "version": "2306.05685v4",
+  "source_url": "https://arxiv.org/pdf/2306.05685v4",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:49.563010+00:00",
+  "captured_bytes": 88606,
+  "sha256": "80262a706800d33978588556cef387fbb212bb81e5b150a47fe5016ac1f43cfb",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena",
+  "arxiv_title": "Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena",
+  "authors": [
+    "Zheng, Lianmin",
+    "Chiang, Wei-Lin",
+    "Sheng, Ying",
+    "Zhuang, Siyuan",
+    "Wu, Zhanghao",
+    "Zhuang, Yonghao",
+    "Lin, Zi",
+    "Li, Zhuohan",
+    "Li, Dacheng",
+    "Xing, Eric P.",
+    "Zhang, Hao",
+    "Gonzalez, Joseph E.",
+    "Stoica, Ion"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2306.05685v4.pdf",
+  "original_sha256": "1574982845157569b85c1214bfa9987000384d7a5e3b5fbdcc5a29afec59cb81",
+  "pages": 29,
+  "html_url": "https://arxiv.org/html/2306.05685v4"
+}

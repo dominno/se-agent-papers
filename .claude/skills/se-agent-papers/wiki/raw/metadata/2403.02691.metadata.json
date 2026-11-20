@@ -1,0 +1,23 @@
+{
+  "arxiv_id": "2403.02691",
+  "version": "2403.02691v3",
+  "source_url": "https://arxiv.org/pdf/2403.02691v3",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:53:41.855457+00:00",
+  "captured_bytes": 114439,
+  "sha256": "0edc5c7f18edffe0ea61031fb1a6ecaf7c9903858e671689cd168a681bcbd7bf",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents",
+  "arxiv_title": "InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents",
+  "authors": [
+    "Zhan, Qiusi",
+    "Liang, Zhixiang",
+    "Ying, Zifan",
+    "Kang, Daniel"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2403.02691v3.pdf",
+  "original_sha256": "49e6e6a4a00c797a772ef905a154c0839426655027d5fa0ce6b632e6c1db2bfb",
+  "pages": 36,
+  "html_url": "https://arxiv.org/html/2403.02691v3"
+}

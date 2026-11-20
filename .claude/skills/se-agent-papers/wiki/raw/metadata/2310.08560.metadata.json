@@ -1,0 +1,26 @@
+{
+  "arxiv_id": "2310.08560",
+  "version": "2310.08560v2",
+  "source_url": "https://arxiv.org/pdf/2310.08560v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:55:12.918367+00:00",
+  "captured_bytes": 55395,
+  "sha256": "38abbcd4280b90a4fd2bede95d24a58709638460f7ef7393a01713df0193c538",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "MemGPT: Towards LLMs as Operating Systems",
+  "arxiv_title": "MemGPT: Towards LLMs as Operating Systems",
+  "authors": [
+    "Packer, Charles",
+    "Wooders, Sarah",
+    "Lin, Kevin",
+    "Fang, Vivian",
+    "Patil, Shishir G.",
+    "Stoica, Ion",
+    "Gonzalez, Joseph E."
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2310.08560v2.pdf",
+  "original_sha256": "9f674bcff69c86f11c813dcfad613d8841f5f8ed17979e3c4df06a91df7762e0",
+  "pages": 13,
+  "html_url": "https://arxiv.org/html/2310.08560v2"
+}

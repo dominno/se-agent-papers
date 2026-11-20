@@ -1,0 +1,30 @@
+{
+  "arxiv_id": "2607.21217",
+  "version": "2607.21217v1",
+  "source_url": "https://arxiv.org/pdf/2607.21217v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:25.236811+00:00",
+  "captured_bytes": 89967,
+  "sha256": "60a593822be4b6bce3710daf1aea44bad2be9b8cde81fcfce84655b52230e517",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "ICAE-Bench: Evaluating Coding Agents as Interactive Project Builders",
+  "arxiv_title": "ICAE-Bench: Evaluating Coding Agents as Interactive Project Builders",
+  "authors": [
+    "Peng, Zhongyuan",
+    "Huang, Dan",
+    "Zhang, Chuyu",
+    "Xu, Caijun",
+    "Xiao, Changyi",
+    "Hong, Shibo",
+    "Lo, David",
+    "Qiu, Lin",
+    "Cao, Xuezhi",
+    "He, Jiyuan",
+    "Cao, Yixin"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2607.21217v1.pdf",
+  "original_sha256": "c35213e9ad753d640ef1ea9430bd2d2dee5fc30c48d72d79d8549eb2074e0aa1",
+  "pages": 23,
+  "html_url": "https://arxiv.org/html/2607.21217v1"
+}

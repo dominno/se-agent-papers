@@ -1,0 +1,22 @@
+{
+  "arxiv_id": "2606.10525",
+  "version": "2606.10525v1",
+  "source_url": "https://arxiv.org/pdf/2606.10525v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:47.060654+00:00",
+  "captured_bytes": 97616,
+  "sha256": "d6da6e1e6dc103e4e2f03fbb2570b0eeb5f0624bfecdd99895e96f6d84a81607",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Assessing Automated Prompt Injection Attacks in Agentic Environments",
+  "arxiv_title": "Assessing Automated Prompt Injection Attacks in Agentic Environments",
+  "authors": [
+    "Hofer, David",
+    "Debenedetti, Edoardo",
+    "Tramèr, Florian"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2606.10525v1.pdf",
+  "original_sha256": "aa4e24d73ce023d61039ccd62033778d3ad007859de4ee1542f7ca1d41405186",
+  "pages": 17,
+  "html_url": "https://arxiv.org/html/2606.10525v1"
+}

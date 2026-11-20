@@ -1,0 +1,25 @@
+{
+  "arxiv_id": "2611.05620",
+  "version": "2611.05620v1",
+  "source_url": "https://arxiv.org/pdf/2611.05620v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:32.620413+00:00",
+  "captured_bytes": 70515,
+  "sha256": "42573d84ab2278f71028b6af499a0127ce8e8d96e7e68db4d8c3d4bfdbcec488",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "ViBench 2.0: A Benchmark for Long-Horizon Software Building",
+  "arxiv_title": "ViBench 2.0: A Benchmark for Long-Horizon Software Building",
+  "authors": [
+    "Furman, Daniel",
+    "Kirani, Preeya",
+    "Sheikh, Ibrahim",
+    "Li, Zhen",
+    "Zhong, Peter",
+    "Catasta, Michele"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "original_file": "2611.05620v1.pdf",
+  "original_sha256": "31ae036f58cde85c1b7e09324954813ddf9f8856f0fb1069eb9a879a79664ba5",
+  "pages": 18,
+  "html_url": "https://arxiv.org/html/2611.05620v1"
+}

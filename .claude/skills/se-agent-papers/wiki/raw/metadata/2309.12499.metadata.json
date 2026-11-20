@@ -1,0 +1,28 @@
+{
+  "arxiv_id": "2309.12499",
+  "version": "2309.12499v1",
+  "source_url": "https://arxiv.org/pdf/2309.12499v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:18.804003+00:00",
+  "captured_bytes": 123316,
+  "sha256": "6560f2acb3ed3d5e0c50879f92c88cd8c4a1c3613767a7979c1ba14c9efeaa41",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "CodePlan: Repository-level Coding using LLMs and Planning",
+  "arxiv_title": "CodePlan: Repository-level Coding using LLMs and Planning",
+  "authors": [
+    "Bairi, Ramakrishna",
+    "Sonwane, Atharv",
+    "Kanade, Aditya",
+    "C, Vageesh D",
+    "Iyer, Arun",
+    "Parthasarathy, Suresh",
+    "Rajamani, Sriram",
+    "Ashok, B.",
+    "Shet, Shashank"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2309.12499v1.pdf",
+  "original_sha256": "1c66e59351ba27e22fb2c6aeaa3bf4f35681f198a9c3c106f910e4290505315e",
+  "pages": 34,
+  "html_url": "https://arxiv.org/html/2309.12499v1"
+}

@@ -1,0 +1,25 @@
+{
+  "arxiv_id": "2410.20285",
+  "version": "2410.20285v6",
+  "source_url": "https://arxiv.org/pdf/2410.20285v6",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:53:14.044050+00:00",
+  "captured_bytes": 99813,
+  "sha256": "d7a99011b35d30c0c5d21a8dbb49b7c93ab3ded49f4db43f89731b593ff8389c",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement",
+  "arxiv_title": "SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement",
+  "authors": [
+    "Antoniades, Antonis",
+    "Örwall, Albert",
+    "Zhang, Kexun",
+    "Xie, Yuxi",
+    "Goyal, Anirudh",
+    "Wang, William"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by-sa/4.0/",
+  "original_file": "2410.20285v6.pdf",
+  "original_sha256": "7c3c6e175441a672abf9fa04b591e278a1c5034322cd9ba44be14800202871f7",
+  "pages": 31,
+  "html_url": "https://arxiv.org/html/2410.20285v6"
+}

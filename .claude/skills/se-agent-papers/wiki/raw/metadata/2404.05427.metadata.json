@@ -1,0 +1,23 @@
+{
+  "arxiv_id": "2404.05427",
+  "version": "2404.05427v3",
+  "source_url": "https://arxiv.org/pdf/2404.05427v3",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:53:10.397805+00:00",
+  "captured_bytes": 80530,
+  "sha256": "e84277339915c333b57b58a5ef4717c5ee1a4c7bdedf72630a9f9a9746b0fb3f",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "AutoCodeRover: Autonomous Program Improvement",
+  "arxiv_title": "AutoCodeRover: Autonomous Program Improvement",
+  "authors": [
+    "Zhang, Yuntong",
+    "Ruan, Haifeng",
+    "Fan, Zhiyu",
+    "Roychoudhury, Abhik"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2404.05427v3.pdf",
+  "original_sha256": "b1f6a5942947276b4f1f9cdc2cb43ff3d383223cab7e779a498b9def9593f60a",
+  "pages": 13,
+  "html_url": "https://arxiv.org/html/2404.05427v3"
+}

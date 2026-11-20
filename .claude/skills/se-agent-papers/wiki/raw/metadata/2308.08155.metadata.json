@@ -1,0 +1,33 @@
+{
+  "arxiv_id": "2308.08155",
+  "version": "2308.08155v2",
+  "source_url": "https://arxiv.org/pdf/2308.08155v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:55:42.975349+00:00",
+  "captured_bytes": 158857,
+  "sha256": "cef9fd8bf710bc325c3eacd293bcae1fc599f67eaf2fb01bdec2b94861b97130",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation",
+  "arxiv_title": "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation",
+  "authors": [
+    "Wu, Qingyun",
+    "Bansal, Gagan",
+    "Zhang, Jieyu",
+    "Wu, Yiran",
+    "Li, Beibin",
+    "Zhu, Erkang",
+    "Jiang, Li",
+    "Zhang, Xiaoyun",
+    "Zhang, Shaokun",
+    "Liu, Jiale",
+    "Awadallah, Ahmed Hassan",
+    "White, Ryen W",
+    "Burger, Doug",
+    "Wang, Chi"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2308.08155v2.pdf",
+  "original_sha256": "fcf8b1acae6b1bd6f14c92463caa9726828bf998234ba9f10c2411087897c96b",
+  "pages": 43,
+  "html_url": "https://arxiv.org/html/2308.08155v2"
+}

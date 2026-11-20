@@ -1,0 +1,23 @@
+{
+  "arxiv_id": "2309.15217",
+  "version": "2309.15217v2",
+  "source_url": "https://arxiv.org/pdf/2309.15217v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:49.897462+00:00",
+  "captured_bytes": 32260,
+  "sha256": "16f7562f56e859af4084595880463498b95d16207ce3dd133b7bde015c5bc266",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Ragas: Automated Evaluation of Retrieval Augmented Generation",
+  "arxiv_title": "Ragas: Automated Evaluation of Retrieval Augmented Generation",
+  "authors": [
+    "Es, Shahul",
+    "James, Jithin",
+    "Espinosa-Anke, Luis",
+    "Schockaert, Steven"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2309.15217v2.pdf",
+  "original_sha256": "6c24762a3f277fd120ed1adf34b01420ecf92f18ff6d1b5435fa0a09cb804ecb",
+  "pages": 8,
+  "html_url": "https://arxiv.org/html/2309.15217v2"
+}

@@ -1,0 +1,31 @@
+{
+  "arxiv_id": "2403.18802",
+  "version": "2403.18802v4",
+  "source_url": "https://arxiv.org/pdf/2403.18802v4",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:11.552933+00:00",
+  "captured_bytes": 224389,
+  "sha256": "0dd9efd96ba801e7a94e27545c7ddcbb10c93b56d0d3fe518209b986638b1e91",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Long-form factuality in large language models",
+  "arxiv_title": "Long-form factuality in large language models",
+  "authors": [
+    "Wei, Jerry",
+    "Yang, Chengrun",
+    "Song, Xinying",
+    "Lu, Yifeng",
+    "Hu, Nathan",
+    "Huang, Jie",
+    "Tran, Dustin",
+    "Peng, Daiyi",
+    "Liu, Ruibo",
+    "Huang, Da",
+    "Du, Cosmo",
+    "Le, Quoc V."
+  ],
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "original_file": "2403.18802v4.pdf",
+  "original_sha256": "7f9c0415f2117c6a99e2501b087b7c840e440e19fe493352358ff0c3f90e358e",
+  "pages": 72,
+  "html_url": "https://arxiv.org/html/2403.18802v4"
+}

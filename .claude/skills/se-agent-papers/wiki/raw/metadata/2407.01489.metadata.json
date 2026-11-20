@@ -1,0 +1,23 @@
+{
+  "arxiv_id": "2407.01489",
+  "version": "2407.01489v2",
+  "source_url": "https://arxiv.org/pdf/2407.01489v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:53:13.073790+00:00",
+  "captured_bytes": 97666,
+  "sha256": "7751e5bbc952952ba99c256c96e160ba37ee6770c9027cfd75eff428a8eb5e8f",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Agentless: Demystifying LLM-based Software Engineering Agents",
+  "arxiv_title": "Agentless: Demystifying LLM-based Software Engineering Agents",
+  "authors": [
+    "Xia, Chunqiu Steven",
+    "Deng, Yinlin",
+    "Dunn, Soren",
+    "Zhang, Lingming"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2407.01489v2.pdf",
+  "original_sha256": "1675c2dcd5ecaef47e8a4356062f60be642cee82e1bbacb044c9d047dce4c856",
+  "pages": 25,
+  "html_url": "https://arxiv.org/html/2407.01489v2"
+}

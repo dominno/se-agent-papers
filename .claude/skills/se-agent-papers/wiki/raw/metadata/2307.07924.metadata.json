@@ -1,0 +1,33 @@
+{
+  "arxiv_id": "2307.07924",
+  "version": "2307.07924v5",
+  "source_url": "https://arxiv.org/pdf/2307.07924v5",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:12.398573+00:00",
+  "captured_bytes": 54914,
+  "sha256": "2ce67b53a26623614232648cf7e71a24c32cb77379e7e1b610698ced6ca708b5",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "ChatDev: Communicative Agents for Software Development",
+  "arxiv_title": "ChatDev: Communicative Agents for Software Development",
+  "authors": [
+    "Qian, Chen",
+    "Liu, Wei",
+    "Liu, Hongzhang",
+    "Chen, Nuo",
+    "Dang, Yufan",
+    "Li, Jiahao",
+    "Yang, Cheng",
+    "Chen, Weize",
+    "Su, Yusheng",
+    "Cong, Xin",
+    "Xu, Juyuan",
+    "Li, Dahai",
+    "Liu, Zhiyuan",
+    "Sun, Maosong"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2307.07924v5.pdf",
+  "original_sha256": "1cffa12eae0586ec7074fc660a90b4fe90e406e9c07f3a48819a899e4bf55fd1",
+  "pages": 13,
+  "html_url": "https://arxiv.org/html/2307.07924v5"
+}

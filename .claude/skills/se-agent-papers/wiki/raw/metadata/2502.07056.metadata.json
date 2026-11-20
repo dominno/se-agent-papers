@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "2502.07056",
+  "version": "2502.07056v1",
+  "source_url": "https://arxiv.org/pdf/2502.07056v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:27.639433+00:00",
+  "captured_bytes": 31206,
+  "sha256": "21b869aede14e5ce1aad297545c51c28b005f4e9841c83a7ec55f0444ceb6af5",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Autonomous Deep Agent",
+  "arxiv_title": "Autonomous Deep Agent",
+  "authors": [
+    "Yu, Amy",
+    "Lebedev, Erik",
+    "Everett, Lincoln",
+    "Chen, Xiaoxin",
+    "Chen, Terry"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "original_file": "2502.07056v1.pdf",
+  "original_sha256": "bf3b018754cb644070bad6d7fc7cd082342cf71f1b1e6488d149f7d7656c2400",
+  "pages": 9,
+  "html_url": "https://arxiv.org/html/2502.07056v1"
+}

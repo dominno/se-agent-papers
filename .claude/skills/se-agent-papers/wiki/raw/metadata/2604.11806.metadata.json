@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "2604.11806",
+  "version": "2604.11806v1",
+  "source_url": "https://arxiv.org/pdf/2604.11806v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:46.257562+00:00",
+  "captured_bytes": 106723,
+  "sha256": "16f87c6b15aaa013d40ab3fcfbd6f56e5b05a04db9bece2b612c253ec035ba60",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Detecting Safety Violations Across Many Agent Traces",
+  "arxiv_title": "Detecting Safety Violations Across Many Agent Traces",
+  "authors": [
+    "Stein, Adam",
+    "Brown, Davis",
+    "Hassani, Hamed",
+    "Naik, Mayur",
+    "Wong, Eric"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2604.11806v1.pdf",
+  "original_sha256": "9ff1f90f3a24b17e79305f5b86b3c29c12ae155e0f2097d2407fe5f62406e2f4",
+  "pages": 35,
+  "html_url": "https://arxiv.org/html/2604.11806v1"
+}

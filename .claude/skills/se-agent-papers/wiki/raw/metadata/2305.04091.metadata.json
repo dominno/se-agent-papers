@@ -1,0 +1,26 @@
+{
+  "arxiv_id": "2305.04091",
+  "version": "2305.04091v3",
+  "source_url": "https://arxiv.org/pdf/2305.04091v3",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:55:32.938243+00:00",
+  "captured_bytes": 69700,
+  "sha256": "e393bb403fb6492919048a2a336aa03717baee6c8797834c703b2c5569a57878",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models",
+  "arxiv_title": "Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models",
+  "authors": [
+    "Wang, Lei",
+    "Xu, Wanyu",
+    "Lan, Yihuai",
+    "Hu, Zhiqiang",
+    "Lan, Yunshi",
+    "Lee, Roy Ka-Wei",
+    "Lim, Ee-Peng"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2305.04091v3.pdf",
+  "original_sha256": "cc65b7ad233da4f46a673c0045ee2c0ab332948d86b3f401ba97345d650abf04",
+  "pages": 24,
+  "html_url": "https://arxiv.org/html/2305.04091v3"
+}

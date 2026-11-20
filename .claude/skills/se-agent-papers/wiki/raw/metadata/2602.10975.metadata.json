@@ -1,0 +1,31 @@
+{
+  "arxiv_id": "2602.10975",
+  "version": "2602.10975v1",
+  "source_url": "https://arxiv.org/pdf/2602.10975v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:12.555844+00:00",
+  "captured_bytes": 100117,
+  "sha256": "7788c66cd2f0187d4bedb1a198f06541eed10abcae6e05951cb0cd2184debb7e",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "FeatureBench: Benchmarking Agentic Coding for Complex Feature Development",
+  "arxiv_title": "FeatureBench: Benchmarking Agentic Coding for Complex Feature Development",
+  "authors": [
+    "Zhou, Qixing",
+    "Zhang, Jiacheng",
+    "Wang, Haiyang",
+    "Hao, Rui",
+    "Wang, Jiahe",
+    "Han, Minghao",
+    "Yang, Yuxue",
+    "Wu, Shuzhe",
+    "Pan, Feiyang",
+    "Fan, Lue",
+    "Tu, Dandan",
+    "Zhang, Zhaoxiang"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2602.10975v1.pdf",
+  "original_sha256": "a676bd02a9c617fb608460f7ca5c96b75ac32645c924f9209c8f1a8960a6a6f6",
+  "pages": 37,
+  "html_url": "https://arxiv.org/html/2602.10975v1"
+}

@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "2303.17760",
+  "version": "2303.17760v2",
+  "source_url": "https://arxiv.org/pdf/2303.17760v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:55:28.044971+00:00",
+  "captured_bytes": 208858,
+  "sha256": "63c6a6f43fd66fc9b893ca43a32cd2413960f4515eaa7a9107583568239e4fa6",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "CAMEL: Communicative Agents for \"Mind\" Exploration of Large Language Model Society",
+  "arxiv_title": "CAMEL: Communicative Agents for \"Mind\" Exploration of Large Language Model Society",
+  "authors": [
+    "Li, Guohao",
+    "Hammoud, Hasan Abed Al Kader",
+    "Itani, Hani",
+    "Khizbullin, Dmitrii",
+    "Ghanem, Bernard"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2303.17760v2.pdf",
+  "original_sha256": "926c73c2ae9f9abc7612ab58373e428476f4de55db78646ed59de09810db7777",
+  "pages": 77,
+  "html_url": "https://arxiv.org/html/2303.17760v2"
+}

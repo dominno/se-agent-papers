@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "2403.10059",
+  "version": "2403.10059v2",
+  "source_url": "https://arxiv.org/pdf/2403.10059v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:45.035672+00:00",
+  "captured_bytes": 86292,
+  "sha256": "db8cdb37e2808e982a9a396266d863242372a7dd3be4ee2b9b36758d20ad2546",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Repoformer: Selective Retrieval for Repository-Level Code Completion",
+  "arxiv_title": "Repoformer: Selective Retrieval for Repository-Level Code Completion",
+  "authors": [
+    "Wu, Di",
+    "Ahmad, Wasi Uddin",
+    "Zhang, Dejiao",
+    "Ramanathan, Murali Krishna",
+    "Ma, Xiaofei"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2403.10059v2.pdf",
+  "original_sha256": "241e16d793e3243c3bb6c34661af4104de797522f10b51ec4eba858d0b3c5a01",
+  "pages": 21,
+  "html_url": "https://arxiv.org/html/2403.10059v2"
+}

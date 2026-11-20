@@ -1,0 +1,23 @@
+{
+  "arxiv_id": "2212.10496",
+  "version": "2212.10496v1",
+  "source_url": "https://arxiv.org/pdf/2212.10496v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:35.171235+00:00",
+  "captured_bytes": 41857,
+  "sha256": "52dc02e09c1157acb9e52c90a11c293ff6b397bbea91b20abbd824b3c36ff2a7",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Precise Zero-Shot Dense Retrieval without Relevance Labels",
+  "arxiv_title": "Precise Zero-Shot Dense Retrieval without Relevance Labels",
+  "authors": [
+    "Gao, Luyu",
+    "Ma, Xueguang",
+    "Lin, Jimmy",
+    "Callan, Jamie"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2212.10496v1.pdf",
+  "original_sha256": "dc0ae3c5584ed146beee122e6a9ad9c48547dde048d53e9be8435d8f1d354531",
+  "pages": 11,
+  "html_url": "https://arxiv.org/html/2212.10496v1"
+}

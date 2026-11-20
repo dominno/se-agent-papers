@@ -1,0 +1,263 @@
+{"id": "arxiv:2312.13010", "type": "paper", "title": "AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation"}
+{"id": "arxiv:2404.05427", "type": "paper", "title": "AutoCodeRover: Autonomous Program Improvement"}
+{"id": "arxiv:2405.15793", "type": "paper", "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering"}
+{"id": "arxiv:2407.01489", "type": "paper", "title": "Agentless: Demystifying LLM-based Software Engineering Agents"}
+{"id": "arxiv:2410.20285", "type": "paper", "title": "SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement"}
+{"id": "arxiv:2509.25370", "type": "paper", "title": "Where LLM Agents Fail and How They can Learn From Failures"}
+{"id": "arxiv:2511.03690", "type": "paper", "title": "The OpenHands Software Agent SDK: A Composable and Extensible Foundation for Production Agents"}
+{"id": "arxiv:2603.01327", "type": "paper", "title": "SWE-Adept: An LLM-Based Agentic Framework for Deep Codebase Analysis and Structured Issue Resolution"}
+{"id": "arxiv:2604.03551", "type": "paper", "title": "AgenticFlict: A Large-Scale Dataset of Merge Conflicts in AI Coding Agent Pull Requests on GitHub"}
+{"id": "arxiv:2607.00990", "type": "paper", "title": "SWE-Doctor: Guiding Software Engineering Agents with Runtime Diagnosis from Multi-Faceted Bug Reproduction Tests"}
+{"id": "arxiv:2607.27674", "type": "paper", "title": "Can Large Language Models Resolve Real Java Merge Conflicts? An Evaluation with a Calibrated LLM-as-Judge"}
+{"id": "arxiv:2609.01481", "type": "paper", "title": "Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Improvement"}
+{"id": "arxiv:2303.17651", "type": "paper", "title": "Self-Refine: Iterative Refinement with Self-Feedback"}
+{"id": "arxiv:2605.08717", "type": "paper", "title": "Debugging the Debuggers: Failure-Anchored Structured Recovery for Software Engineering Agents"}
+{"id": "arxiv:2608.06346", "type": "paper", "title": "TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories"}
+{"id": "arxiv:2307.16789", "type": "paper", "title": "ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs"}
+{"id": "arxiv:2406.04692", "type": "paper", "title": "Mixture-of-Agents Enhances Large Language Model Capabilities"}
+{"id": "arxiv:2307.13854", "type": "paper", "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents"}
+{"id": "arxiv:2309.15817", "type": "paper", "title": "Identifying the Risks of LM Agents with an LM-Emulated Sandbox"}
+{"id": "arxiv:2403.02691", "type": "paper", "title": "InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents"}
+{"id": "arxiv:2404.07972", "type": "paper", "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments"}
+{"id": "arxiv:2406.12045", "type": "paper", "title": "$\\tau$-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains"}
+{"id": "arxiv:2408.04682", "type": "paper", "title": "ToolSandbox: A Stateful, Conversational, Interactive Evaluation Benchmark for LLM Tool Use Capabilities"}
+{"id": "arxiv:2412.14161", "type": "paper", "title": "TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks"}
+{"id": "arxiv:2306.03091", "type": "paper", "title": "RepoBench: Benchmarking Repository-Level Code Auto-Completion Systems"}
+{"id": "arxiv:2310.06770", "type": "paper", "title": "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?"}
+{"id": "arxiv:2407.18901", "type": "paper", "title": "AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents"}
+{"id": "arxiv:2412.21139", "type": "paper", "title": "Training Software Engineering Agents and Verifiers with SWE-Gym"}
+{"id": "arxiv:2502.12115", "type": "paper", "title": "SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?"}
+{"id": "arxiv:2504.08703", "type": "paper", "title": "SWE-PolyBench: A Multi-Language Benchmark for Repository-Level Evaluation of Coding Agents"}
+{"id": "arxiv:2504.14757", "type": "paper", "title": "SWE-Synth: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs"}
+{"id": "arxiv:2507.09063", "type": "paper", "title": "SetupBench: Assessing Software Engineering Agents' Ability to Bootstrap Development Environments"}
+{"id": "arxiv:2512.05943", "type": "paper", "title": "TRACE: A Framework for Analyzing and Enhancing Stepwise Reasoning in Vision-Language Models"}
+{"id": "arxiv:2512.12730", "type": "paper", "title": "NL2Repo-Bench: Towards Long-Horizon Repository Generation Evaluation of Coding Agents"}
+{"id": "arxiv:2602.10975", "type": "paper", "title": "FeatureBench: Benchmarking Agentic Coding for Complex Feature Development"}
+{"id": "arxiv:2603.24755", "type": "paper", "title": "SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks"}
+{"id": "arxiv:2605.07122", "type": "paper", "title": "RepoZero: Can LLMs Generate a Code Repository from Scratch?"}
+{"id": "arxiv:2605.12925", "type": "paper", "title": "AgentLens: Revealing The Lucky Pass Problem in SWE-Agent Evaluation"}
+{"id": "arxiv:2605.13139", "type": "paper", "title": "SWE-Cycle: Benchmarking Code Agents across the Complete Issue Resolution Cycle"}
+{"id": "arxiv:2605.14415", "type": "paper", "title": "SWE-Chain: Benchmarking Coding Agents on Chained Release-Level Package Upgrades"}
+{"id": "arxiv:2605.15846", "type": "paper", "title": "RoadmapBench: Evaluating Long-Horizon Agentic Software Development Across Version Upgrades"}
+{"id": "arxiv:2605.17526", "type": "paper", "title": "SaaSBench: Exploring the Boundaries of Coding Agents in Long-Horizon Enterprise SaaS Engineering"}
+{"id": "arxiv:2605.21384", "type": "paper", "title": "SpecBench: Measuring Reward Hacking in Long-Horizon Coding Agents"}
+{"id": "arxiv:2607.06624", "type": "paper", "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation"}
+{"id": "arxiv:2607.07946", "type": "paper", "title": "DeepSWE: Measuring Frontier Coding Agents on Original, Long-Horizon Engineering Tasks"}
+{"id": "arxiv:2607.21217", "type": "paper", "title": "ICAE-Bench: Evaluating Coding Agents as Interactive Project Builders"}
+{"id": "arxiv:2607.27409", "type": "paper", "title": "SWE-NFI: Studying and Benchmarking Coding Agents for Non-Functional Improvements"}
+{"id": "arxiv:2610.16067", "type": "paper", "title": "When Agent Evaluation Becomes Unreliable: An Empirical Study of Oracle Failures and Configuration-Dependent Measurement in an LLM Agent Benchmark"}
+{"id": "arxiv:2610.24206", "type": "paper", "title": "SWE-Bench Pro V2: A Cleaner, Harder-to-Game Coding Benchmark"}
+{"id": "arxiv:2610.32285", "type": "paper", "title": "Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution"}
+{"id": "arxiv:2611.05620", "type": "paper", "title": "ViBench 2.0: A Benchmark for Long-Horizon Software Building"}
+{"id": "arxiv:1908.10084", "type": "paper", "title": "Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks"}
+{"id": "arxiv:2004.04906", "type": "paper", "title": "Dense Passage Retrieval for Open-Domain Question Answering"}
+{"id": "arxiv:2005.11401", "type": "paper", "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks"}
+{"id": "arxiv:2112.01488", "type": "paper", "title": "ColBERTv2: Effective and Efficient Retrieval via Lightweight Late Interaction"}
+{"id": "arxiv:2212.10496", "type": "paper", "title": "Precise Zero-Shot Dense Retrieval without Relevance Labels"}
+{"id": "arxiv:2305.06983", "type": "paper", "title": "Active Retrieval Augmented Generation"}
+{"id": "arxiv:2312.10997", "type": "paper", "title": "Retrieval-Augmented Generation for Large Language Models: A Survey"}
+{"id": "arxiv:2401.15884", "type": "paper", "title": "Corrective Retrieval Augmented Generation"}
+{"id": "arxiv:2407.01449", "type": "paper", "title": "ColPali: Efficient Document Retrieval with Vision Language Models"}
+{"id": "arxiv:2207.05987", "type": "paper", "title": "DocPrompting: Generating Code by Retrieving the Docs"}
+{"id": "arxiv:2207.10397", "type": "paper", "title": "CodeT: Code Generation with Generated Tests"}
+{"id": "arxiv:2303.12570", "type": "paper", "title": "RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation"}
+{"id": "arxiv:2401.08500", "type": "paper", "title": "Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering"}
+{"id": "arxiv:2402.09171", "type": "paper", "title": "Automated Unit Test Improvement using Large Language Models at Meta"}
+{"id": "arxiv:2403.10059", "type": "paper", "title": "Repoformer: Selective Retrieval for Repository-Level Code Completion"}
+{"id": "arxiv:2406.13352", "type": "paper", "title": "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents"}
+{"id": "arxiv:2604.11806", "type": "paper", "title": "Detecting Safety Violations Across Many Agent Traces"}
+{"id": "arxiv:2606.10525", "type": "paper", "title": "Assessing Automated Prompt Injection Attacks in Agentic Environments"}
+{"id": "arxiv:2607.04948", "type": "paper", "title": "Using Process Mining to Generate AI Agents from Software Engineering Process Records"}
+{"id": "arxiv:2608.24271", "type": "paper", "title": "Observability and Fault Injection for LLM-Based Multi-Agent Systems in Software Engineering"}
+{"id": "arxiv:2009.02252", "type": "paper", "title": "KILT: a Benchmark for Knowledge Intensive Language Tasks"}
+{"id": "arxiv:2305.14627", "type": "paper", "title": "Enabling Large Language Models to Generate Text with Citations"}
+{"id": "arxiv:2306.05685", "type": "paper", "title": "Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena"}
+{"id": "arxiv:2309.15217", "type": "paper", "title": "Ragas: Automated Evaluation of Retrieval Augmented Generation"}
+{"id": "arxiv:2311.09476", "type": "paper", "title": "ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems"}
+{"id": "arxiv:2405.01535", "type": "paper", "title": "Prometheus 2: An Open Source Language Model Specialized in Evaluating Other Language Models"}
+{"id": "arxiv:2407.11005", "type": "paper", "title": "RAGBench: Explainable Benchmark for Retrieval-Augmented Generation Systems"}
+{"id": "arxiv:2408.08067", "type": "paper", "title": "RAGChecker: A Fine-grained Framework for Diagnosing Retrieval-Augmented Generation"}
+{"id": "arxiv:2211.01910", "type": "paper", "title": "Large Language Models Are Human-Level Prompt Engineers"}
+{"id": "arxiv:2309.03409", "type": "paper", "title": "Large Language Models as Optimizers"}
+{"id": "arxiv:2309.16797", "type": "paper", "title": "Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution"}
+{"id": "arxiv:2310.03714", "type": "paper", "title": "DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines"}
+{"id": "arxiv:2406.07496", "type": "paper", "title": "TextGrad: Automatic \"Differentiation\" via Text"}
+{"id": "arxiv:2305.16291", "type": "paper", "title": "Voyager: An Open-Ended Embodied Agent with Large Language Models"}
+{"id": "arxiv:2502.12110", "type": "paper", "title": "A-MEM: Agentic Memory for LLM Agents"}
+{"id": "arxiv:2504.19413", "type": "paper", "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory"}
+{"id": "arxiv:2602.02474", "type": "paper", "title": "MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents"}
+{"id": "arxiv:2606.06448", "type": "paper", "title": "Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads"}
+{"id": "arxiv:2606.28434", "type": "paper", "title": "SWE-MeM: Learning Adaptive Memory Management for Long-Horizon Coding Agents"}
+{"id": "arxiv:2307.03172", "type": "paper", "title": "Lost in the Middle: How Language Models Use Long Contexts"}
+{"id": "arxiv:2310.08560", "type": "paper", "title": "MemGPT: Towards LLMs as Operating Systems"}
+{"id": "arxiv:2310.11511", "type": "paper", "title": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection"}
+{"id": "arxiv:2401.18059", "type": "paper", "title": "RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval"}
+{"id": "arxiv:2402.17753", "type": "paper", "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents"}
+{"id": "arxiv:2404.16130", "type": "paper", "title": "From Local to Global: A Graph RAG Approach to Query-Focused Summarization"}
+{"id": "arxiv:2405.14831", "type": "paper", "title": "HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models"}
+{"id": "arxiv:2406.04744", "type": "paper", "title": "CRAG -- Comprehensive RAG Benchmark"}
+{"id": "arxiv:2410.05779", "type": "paper", "title": "LightRAG: Simple and Fast Retrieval-Augmented Generation"}
+{"id": "arxiv:2410.10813", "type": "paper", "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory"}
+{"id": "arxiv:2210.03629", "type": "paper", "title": "ReAct: Synergizing Reasoning and Acting in Language Models"}
+{"id": "arxiv:2302.04761", "type": "paper", "title": "Toolformer: Language Models Can Teach Themselves to Use Tools"}
+{"id": "arxiv:2303.17760", "type": "paper", "title": "CAMEL: Communicative Agents for \"Mind\" Exploration of Large Language Model Society"}
+{"id": "arxiv:2304.03442", "type": "paper", "title": "Generative Agents: Interactive Simulacra of Human Behavior"}
+{"id": "arxiv:2305.04091", "type": "paper", "title": "Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models"}
+{"id": "arxiv:2305.10601", "type": "paper", "title": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models"}
+{"id": "arxiv:2308.03688", "type": "paper", "title": "AgentBench: Evaluating LLMs as Agents"}
+{"id": "arxiv:2308.08155", "type": "paper", "title": "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation"}
+{"id": "arxiv:2312.04511", "type": "paper", "title": "An LLM Compiler for Parallel Function Calling"}
+{"id": "arxiv:2402.14034", "type": "paper", "title": "AgentScope: A Flexible yet Robust Multi-Agent Platform"}
+{"id": "arxiv:2303.11366", "type": "paper", "title": "Reflexion: Language Agents with Verbal Reinforcement Learning"}
+{"id": "arxiv:2505.22954", "type": "paper", "title": "Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents"}
+{"id": "arxiv:2603.02766", "type": "paper", "title": "EvoSkill: Automated Skill Discovery for Multi-Agent Systems"}
+{"id": "arxiv:2604.25850", "type": "paper", "title": "Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses"}
+{"id": "arxiv:2605.30621", "type": "paper", "title": "Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents"}
+{"id": "arxiv:2606.06324", "type": "paper", "title": "From Failed Trajectories to Reliable LLM Agents: Diagnosing and Repairing Harness Flaws"}
+{"id": "arxiv:2606.07412", "type": "paper", "title": "Socratic-SWE: Self-Evolving Coding Agents via Trace-Derived Agent Skills"}
+{"id": "arxiv:2607.03691", "type": "paper", "title": "Don't Blame the Large Language Model: How Agent Harness Evolution Shapes Coding Agent Quality"}
+{"id": "arxiv:2607.13083", "type": "paper", "title": "Phantom Guardrails: When Self-Improving Agent Harnesses Fix Failures That Never Happened"}
+{"id": "arxiv:2607.21596", "type": "paper", "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills"}
+{"id": "arxiv:2607.24300", "type": "paper", "title": "Self-Authored Verification Is Unreliable in Heuristic Self-Improving Agents"}
+{"id": "arxiv:2608.03392", "type": "paper", "title": "Self-Evolving Coding Agents"}
+{"id": "arxiv:2608.15071", "type": "paper", "title": "Evo-Harness: Context-to-Harness Skill Compilation for Self-Evolving Agents"}
+{"id": "arxiv:2610.22791", "type": "paper", "title": "Self-Evolving Coding Agents via Harness-Policy Optimization"}
+{"id": "arxiv:2610.33024", "type": "paper", "title": "Evolving to Match Capabilities: Improving Harness Self-Evolution via Skill Adaptation"}
+{"id": "arxiv:2610.34938", "type": "paper", "title": "How Do Coding-Agent Harnesses Self-Evolve? An Empirical Study of Retrospective Adaptation"}
+{"id": "arxiv:2611.04456", "type": "paper", "title": "How Agent Skills Evolve: A Large-Scale Empirical Study of Skills on GitHub"}
+{"id": "arxiv:2004.14974", "type": "paper", "title": "Fact or Fiction: Verifying Scientific Claims"}
+{"id": "arxiv:2303.16634", "type": "paper", "title": "G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment"}
+{"id": "arxiv:2305.14251", "type": "paper", "title": "FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation"}
+{"id": "arxiv:2309.11495", "type": "paper", "title": "Chain-of-Verification Reduces Hallucination in Large Language Models"}
+{"id": "arxiv:2403.18802", "type": "paper", "title": "Long-form factuality in large language models"}
+{"id": "arxiv:2307.07924", "type": "paper", "title": "ChatDev: Communicative Agents for Software Development"}
+{"id": "arxiv:2308.00352", "type": "paper", "title": "MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework"}
+{"id": "arxiv:2309.12499", "type": "paper", "title": "CodePlan: Repository-level Coding using LLMs and Planning"}
+{"id": "arxiv:2408.08435", "type": "paper", "title": "Automated Design of Agentic Systems"}
+{"id": "arxiv:2410.10762", "type": "paper", "title": "AFlow: Automating Agentic Workflow Generation"}
+{"id": "arxiv:2502.04180", "type": "paper", "title": "Multi-agent Architecture Search via Agentic Supernet"}
+{"id": "arxiv:2502.07056", "type": "paper", "title": "Autonomous Deep Agent"}
+{"id": "arxiv:2511.07784", "type": "paper", "title": "Can LLM Agents Really Debate? A Controlled Study of Multi-Agent Debate in Logical Reasoning"}
+{"id": "arxiv:2603.17104", "type": "paper", "title": "When the Specification Emerges: Benchmarking Faithfulness Loss in Long-Horizon Coding Agents"}
+{"id": "arxiv:2603.21489", "type": "paper", "title": "Effective Strategies for Asynchronous Software Engineering Agents"}
+{"id": "arxiv:2603.26337", "type": "paper", "title": "A Benchmark for Evaluating Repository-Level Code Agents with Intermediate Reasoning on Feature Addition Task"}
+{"id": "arxiv:2604.03515", "type": "paper", "title": "Inside the Scaffold: A Source-Code Taxonomy of Coding Agent Architectures"}
+{"id": "arxiv:2606.22082", "type": "paper", "title": "CodeTeam: An LLM-Powered Multi-Agent Framework for Repository-Level Code Generation"}
+{"id": "arxiv:2606.30573", "type": "paper", "title": "SWE-INTERACT: Reimagining SWE Benchmarks as User-Driven Long-Horizon Coding Sessions"}
+{"id": "arxiv:2607.26777", "type": "paper", "title": "CodeSpec: Dual Executable Specifications for Agentic Long-Horizon Feature Development"}
+{"id": "arxiv:2611.00314", "type": "paper", "title": "Decentralized Multi-Agent Coordination and Communication in Shared Codebases"}
+{"id": "arxiv:1810.05286", "type": "paper", "title": "Predictive Test Selection"}
+{"id": "arxiv:2103.07189", "type": "paper", "title": "Does mutation testing improve testing practices?"}
+{"id": "arxiv:2310.05223", "type": "paper", "title": "Do Automatic Test Generation Tools Generate Flaky Tests?"}
+{"id": "arxiv:2403.16001", "type": "paper", "title": "Fine-Grained Assertion-Based Test Selection"}
+{"id": "arxiv:2601.18827", "type": "paper", "title": "Automated structural testing of LLM-based agents: methods, framework, and case studies"}
+{"id": "arxiv:2602.07900", "type": "paper", "title": "Rethinking the Value of Agent-Generated Tests for LLM-Based Software Engineering Agents"}
+{"id": "arxiv:2603.13724", "type": "paper", "title": "Testing with AI Agents: An Empirical Study of Test Generation Frequency, Quality, and Coverage"}
+{"id": "arxiv:2607.06195", "type": "paper", "title": "LogicHunter: Testing LLM Agent Frameworks with an Agentic Oracle"}
+{"id": "arxiv:2608.08413", "type": "paper", "title": "Tangent: An Empirical Study of Testing Practices for LLM-Based Agent Applications"}
+{"id": "arxiv:1810.02904", "type": "paper", "title": "Finding Crash-Consistency Bugs with Bounded Black-Box Crash Testing"}
+{"id": "arxiv:1811.00757", "type": "paper", "title": "DurableFS: A File System for Persistent Memory"}
+{"id": "arxiv:2203.07621", "type": "paper", "title": "Practical Detectability for Persistent Lock-Free Data Structures"}
+{"id": "arxiv:2204.06066", "type": "paper", "title": "Finding and Analyzing Crash-Consistency Bugs in Persistent-Memory File Systems"}
+{"id": "arxiv:2211.07631", "type": "paper", "title": "The Path to Durable Linearizability"}
+{"id": "arxiv:2406.09649", "type": "paper", "title": "SquirrelFS: Using the Rust Compiler to Check File-System Crash Consistency"}
+{"id": "arxiv:2503.01390", "type": "paper", "title": "Scalable and Accurate Application-Level Crash-Consistency Testing via Representative Testing"}
+{"id": "arxiv:2511.18323", "type": "paper", "title": "Crash-Consistent Checkpointing for AI Training on macOS/APFS"}
+{"id": "concept:agent-orchestration", "type": "concept", "title": "Agent orchestration"}
+{"id": "concept:agent-roles", "type": "concept", "title": "Agent roles"}
+{"id": "concept:task-planning", "type": "concept", "title": "Task planning"}
+{"id": "concept:parallelism", "type": "concept", "title": "Parallelism"}
+{"id": "concept:coding-agents", "type": "concept", "title": "Coding agents"}
+{"id": "concept:repository-context", "type": "concept", "title": "Repository context"}
+{"id": "concept:agent-communication", "type": "concept", "title": "Agent communication"}
+{"id": "concept:architecture-design", "type": "concept", "title": "Software architecture"}
+{"id": "concept:debugging", "type": "concept", "title": "Debugging"}
+{"id": "concept:self-evolution", "type": "concept", "title": "Agent self-improvement"}
+{"id": "concept:prompt-optimization", "type": "concept", "title": "Prompt optimization"}
+{"id": "concept:workflow-optimization", "type": "concept", "title": "Workflow optimization"}
+{"id": "concept:agent-skills", "type": "concept", "title": "Agent skills"}
+{"id": "concept:long-term-memory", "type": "concept", "title": "Long-term memory"}
+{"id": "concept:memory-hierarchy", "type": "concept", "title": "Memory hierarchy"}
+{"id": "concept:memory-evaluation", "type": "concept", "title": "Memory evaluation"}
+{"id": "concept:context-window", "type": "concept", "title": "Context window"}
+{"id": "concept:temporal-reasoning", "type": "concept", "title": "Temporal reasoning"}
+{"id": "concept:retrieval-augmented-generation", "type": "concept", "title": "Retrieval-Augmented Generation (RAG)"}
+{"id": "concept:dense-retrieval", "type": "concept", "title": "Dense retrieval"}
+{"id": "concept:late-interaction", "type": "concept", "title": "Late interaction"}
+{"id": "concept:selective-retrieval", "type": "concept", "title": "Selective retrieval"}
+{"id": "concept:hierarchical-retrieval", "type": "concept", "title": "Hierarchical retrieval"}
+{"id": "concept:graph-rag", "type": "concept", "title": "GraphRAG"}
+{"id": "concept:knowledge-graph", "type": "concept", "title": "Knowledge graph"}
+{"id": "concept:entity-extraction", "type": "concept", "title": "Entity extraction"}
+{"id": "concept:community-summarization", "type": "concept", "title": "Graph community summarization"}
+{"id": "concept:clustering", "type": "concept", "title": "Clustering"}
+{"id": "concept:recursive-summarization", "type": "concept", "title": "Recursive summarization"}
+{"id": "concept:citation-grounding", "type": "concept", "title": "Citations and supporting evidence"}
+{"id": "concept:citation-precision", "type": "concept", "title": "Citation precision"}
+{"id": "concept:citation-recall", "type": "concept", "title": "Citation completeness"}
+{"id": "concept:claim-verification", "type": "concept", "title": "Claim verification"}
+{"id": "concept:grounded-generation", "type": "concept", "title": "Source-grounded generation"}
+{"id": "concept:rag-evaluation", "type": "concept", "title": "RAG evaluation"}
+{"id": "concept:evaluation-metrics", "type": "concept", "title": "Evaluation metrics"}
+{"id": "concept:llm-as-judge", "type": "concept", "title": "LLM-as-a-Judge"}
+{"id": "concept:benchmarks", "type": "concept", "title": "Agent and LLM benchmarks"}
+{"id": "concept:long-horizon-development", "type": "concept", "title": "Long-term software evolution"}
+{"id": "concept:unit-testing", "type": "concept", "title": "Unit tests"}
+{"id": "concept:mutation-testing", "type": "concept", "title": "Mutation testing"}
+{"id": "concept:regression-testing", "type": "concept", "title": "Regression tests"}
+{"id": "concept:acceptance-testing", "type": "concept", "title": "Acceptance tests"}
+{"id": "concept:stateful-tool-use", "type": "concept", "title": "Stateful tool use"}
+{"id": "concept:tool-evaluation", "type": "concept", "title": "Tool evaluation"}
+{"id": "concept:tool-sandboxing", "type": "concept", "title": "Tool sandbox"}
+{"id": "concept:prompt-injection", "type": "concept", "title": "Prompt injection"}
+{"id": "concept:observability", "type": "concept", "title": "Agent observability"}
+{"id": "concept:fault-recovery", "type": "concept", "title": "Crash recovery"}
+{"id": "concept:file-system-durability", "type": "concept", "title": "File-system state durability"}
+{"id": "concept:architecture-erosion", "type": "concept", "title": "Architectural erosion"}
+{"id": "concept:comparison-and-reproducibility", "type": "concept", "title": "Benchmark reproducibility"}
+{"id": "entity:graphrag", "type": "entity", "title": "GraphRAG"}
+{"id": "entity:raptor", "type": "entity", "title": "RAPTOR"}
+{"id": "entity:memgpt", "type": "entity", "title": "MemGPT"}
+{"id": "entity:longmemeval", "type": "entity", "title": "LongMemEval"}
+{"id": "entity:repoformer", "type": "entity", "title": "Repoformer"}
+{"id": "entity:ragchecker", "type": "entity", "title": "RAGChecker"}
+{"id": "entity:alce", "type": "entity", "title": "ALCE"}
+{"id": "entity:dspy", "type": "entity", "title": "DSPy"}
+{"id": "entity:toolsandbox", "type": "entity", "title": "ToolSandbox"}
+{"id": "entity:metagpt", "type": "entity", "title": "MetaGPT"}
+{"id": "entity:chatdev", "type": "entity", "title": "ChatDev"}
+{"id": "entity:swe-agent", "type": "entity", "title": "SWE-agent"}
+{"id": "entity:swe-bench", "type": "entity", "title": "SWE-bench"}
+{"id": "entity:agentless", "type": "entity", "title": "Agentless"}
+{"id": "entity:autogen", "type": "entity", "title": "AutoGen"}
+{"id": "entity:aflow", "type": "entity", "title": "AFlow"}
+{"id": "entity:darwin-godel-machine", "type": "entity", "title": "Darwin Gödel Machine"}
+{"id": "entity:mem0", "type": "entity", "title": "Mem0"}
+{"id": "entity:a-mem", "type": "entity", "title": "A-MEM"}
+{"id": "entity:hipporag", "type": "entity", "title": "HippoRAG"}
+{"id": "entity:lightrag", "type": "entity", "title": "LightRAG"}
+{"id": "entity:self-rag", "type": "entity", "title": "Self-RAG"}
+{"id": "entity:ragas", "type": "entity", "title": "Ragas"}
+{"id": "entity:kilt", "type": "entity", "title": "KILT"}
+{"id": "entity:factscore", "type": "entity", "title": "FActScore"}
+{"id": "entity:scifact", "type": "entity", "title": "SciFact"}
+{"id": "entity:crag", "type": "entity", "title": "CRAG"}
+{"id": "entity:hyde", "type": "entity", "title": "HyDE"}
+{"id": "entity:colbertv2", "type": "entity", "title": "ColBERTv2"}
+{"id": "entity:colpali", "type": "entity", "title": "ColPali"}
+{"id": "entity:toolllm", "type": "entity", "title": "ToolLLM"}
+{"id": "entity:probe", "type": "entity", "title": "PROBE"}
+{"id": "entity:trajdebug", "type": "entity", "title": "TrajDebug"}
+{"id": "entity:appworld", "type": "entity", "title": "AppWorld"}
+{"id": "entity:featurebench", "type": "entity", "title": "FeatureBench"}
+{"id": "entity:vibench-2-0", "type": "entity", "title": "ViBench 2.0"}
+{"id": "entity:codespec", "type": "entity", "title": "CodeSpec"}
+{"id": "entity:agentdojo", "type": "entity", "title": "AgentDojo"}
+{"id": "arxiv:2507.09089", "type": "paper", "title": "Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity"}
+{"id": "arxiv:2305.01210", "type": "paper", "title": "Is Your Code Generated by ChatGPT Really Correct? Rigorous Evaluation of Large Language Models for Code Generation"}
+{"id": "arxiv:2503.13657", "type": "paper", "title": "Why Do Multi-Agent LLM Systems Fail?"}
+{"id": "arxiv:2410.03859", "type": "paper", "title": "SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains?"}
+{"id": "arxiv:2507.05257", "type": "paper", "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions"}
+{"id": "arxiv:2504.21798", "type": "paper", "title": "SWE-smith: Scaling Data for Software Engineering Agents"}
+{"id": "arxiv:2407.01502", "type": "paper", "title": "AI Agents That Matter"}
+{"id": "arxiv:2603.05026", "type": "paper", "title": "RepoLaunch: Automating Build and Management of Code Repositories across Languages and Platforms"}

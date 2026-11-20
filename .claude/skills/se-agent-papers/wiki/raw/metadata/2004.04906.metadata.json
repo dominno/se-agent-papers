@@ -1,0 +1,27 @@
+{
+  "arxiv_id": "2004.04906",
+  "version": "2004.04906v3",
+  "source_url": "https://arxiv.org/pdf/2004.04906v3",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:33.622169+00:00",
+  "captured_bytes": 56797,
+  "sha256": "923d26004f61a3648e6c4802f905ccb90cdbccfa54ec88a474cba83579055889",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Dense Passage Retrieval for Open-Domain Question Answering",
+  "arxiv_title": "Dense Passage Retrieval for Open-Domain Question Answering",
+  "authors": [
+    "Karpukhin, Vladimir",
+    "Oğuz, Barlas",
+    "Min, Sewon",
+    "Lewis, Patrick",
+    "Wu, Ledell",
+    "Edunov, Sergey",
+    "Chen, Danqi",
+    "Yih, Wen-tau"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2004.04906v3.pdf",
+  "original_sha256": "3e67fc1a9977715acf722d85f0b7d124b03715e975f6310a4d6c12094190912f",
+  "pages": 13,
+  "html_url": "https://arxiv.org/html/2004.04906v3"
+}

@@ -1,0 +1,21 @@
+{
+  "arxiv_id": "2604.03551",
+  "version": "2604.03551v2",
+  "source_url": "https://arxiv.org/pdf/2604.03551v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:53:18.568625+00:00",
+  "captured_bytes": 52517,
+  "sha256": "c7501f73609d4e93b6d533a2b15803be393fdefa48481fe689cabcd4b7ca3e30",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "AgenticFlict: A Large-Scale Dataset of Merge Conflicts in AI Coding Agent Pull Requests on GitHub",
+  "arxiv_title": "AgenticFlict: A Large-Scale Dataset of Merge Conflicts in AI Coding Agent Pull Requests on GitHub",
+  "authors": [
+    "Ogenrwot, Daniel",
+    "Businge, John"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2604.03551v2.pdf",
+  "original_sha256": "c03131bcded8bc01322c03d425c39d3901f6ea7c6d49aecaab4484efa2cf8980",
+  "pages": 9,
+  "html_url": "https://arxiv.org/html/2604.03551v2"
+}

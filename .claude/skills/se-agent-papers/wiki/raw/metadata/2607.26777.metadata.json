@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "2607.26777",
+  "version": "2607.26777v1",
+  "source_url": "https://arxiv.org/pdf/2607.26777v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:34.299356+00:00",
+  "captured_bytes": 41962,
+  "sha256": "f28123e61a039c8fc06ee96843d3878c578ce09d68a236a1fb8e37926ce743de",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "CodeSpec: Dual Executable Specifications for Agentic Long-Horizon Feature Development",
+  "arxiv_title": "CodeSpec: Dual Executable Specifications for Agentic Long-Horizon Feature Development",
+  "authors": [
+    "Wang, Peiding",
+    "Zhang, Li",
+    "Liu, Fang",
+    "Li, Taichuan",
+    "Zhu, Yinghao"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2607.26777v1.pdf",
+  "original_sha256": "b7f6003a1884aff5ad24f7c7edf734992ee4996b77dad3d4f5acd77a56d64439",
+  "pages": 8,
+  "html_url": "https://arxiv.org/html/2607.26777v1"
+}

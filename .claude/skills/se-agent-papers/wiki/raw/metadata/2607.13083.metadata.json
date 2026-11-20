@@ -1,0 +1,27 @@
+{
+  "arxiv_id": "2607.13083",
+  "version": "2607.13083v1",
+  "source_url": "https://arxiv.org/pdf/2607.13083v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:55:57.069061+00:00",
+  "captured_bytes": 76717,
+  "sha256": "05a70522bc68b0e2f2cc917e002c558f51f98be8b47d3ac4595f4c0756176155",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Phantom Guardrails: When Self-Improving Agent Harnesses Fix Failures That Never Happened",
+  "arxiv_title": "Phantom Guardrails: When Self-Improving Agent Harnesses Fix Failures That Never Happened",
+  "authors": [
+    "Wang, Su",
+    "Qian, Pin",
+    "Lin, Yifan",
+    "Xu, Jingzhou",
+    "Chen, Yihang",
+    "Jiang, Xiaochong",
+    "Liu, Lifei",
+    "Yu, Haoran"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2607.13083v1.pdf",
+  "original_sha256": "7efe241a0a13b42b0739b1cd141f12e00fc290b03ce94a9d2a2091769a0c6da7",
+  "pages": 13,
+  "html_url": "https://arxiv.org/html/2607.13083v1"
+}

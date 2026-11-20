@@ -1,0 +1,29 @@
+{
+  "arxiv_id": "2610.33024",
+  "version": "2610.33024v1",
+  "source_url": "https://arxiv.org/pdf/2610.33024v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:05.648318+00:00",
+  "captured_bytes": 78823,
+  "sha256": "176ad90cf8bb3f02a82d6e1e9d0c1f81aae01ce155935368509df1d60ea22bb1",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Evolving to Match Capabilities: Improving Harness Self-Evolution via Skill Adaptation",
+  "arxiv_title": "Evolving to Match Capabilities: Improving Harness Self-Evolution via Skill Adaptation",
+  "authors": [
+    "Yang, Zhihao",
+    "Wang, Haojin",
+    "Wu, Juncheng",
+    "Zhang, Kuan",
+    "Chen, Yukun",
+    "Luo, Run",
+    "Lu, Yaojie",
+    "Zhou, Yuyin",
+    "Wang, Lu",
+    "Han, Xianpei"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2610.33024v1.pdf",
+  "original_sha256": "14cec9345c97f17613cff91feb92060bbaba2fec236a2c2e681fa3393f762765",
+  "pages": 24,
+  "html_url": "https://arxiv.org/html/2610.33024v1"
+}

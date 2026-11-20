@@ -1,0 +1,29 @@
+{
+  "arxiv_id": "2405.01535",
+  "version": "2405.01535v2",
+  "source_url": "https://arxiv.org/pdf/2405.01535v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:51.452181+00:00",
+  "captured_bytes": 70430,
+  "sha256": "d4f6198451bcae4395b0608b2ed090b7fd6bccd50d8a7fdcc68e9adbd1ccf8fe",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Prometheus 2: An Open Source Language Model Specialized in Evaluating Other Language Models",
+  "arxiv_title": "Prometheus 2: An Open Source Language Model Specialized in Evaluating Other Language Models",
+  "authors": [
+    "Kim, Seungone",
+    "Suk, Juyoung",
+    "Longpre, Shayne",
+    "Lin, Bill Yuchen",
+    "Shin, Jamin",
+    "Welleck, Sean",
+    "Neubig, Graham",
+    "Lee, Moontae",
+    "Lee, Kyungjae",
+    "Seo, Minjoon"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2405.01535v2.pdf",
+  "original_sha256": "fb9d37f216c1a3588587e96a7cf988928f05a090c8b4d35d2daf54adca1fb60c",
+  "pages": 20,
+  "html_url": "https://arxiv.org/html/2405.01535v2"
+}

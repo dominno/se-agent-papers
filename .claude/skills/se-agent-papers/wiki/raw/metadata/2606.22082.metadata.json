@@ -1,0 +1,26 @@
+{
+  "arxiv_id": "2606.22082",
+  "version": "2606.22082v1",
+  "source_url": "https://arxiv.org/pdf/2606.22082v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:32.754627+00:00",
+  "captured_bytes": 140351,
+  "sha256": "5cfa837aaff40469fb260855efe01786c571b8b9cd0218a41ee5816c20037a33",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "CodeTeam: An LLM-Powered Multi-Agent Framework for Repository-Level Code Generation",
+  "arxiv_title": "CodeTeam: An LLM-Powered Multi-Agent Framework for Repository-Level Code Generation",
+  "authors": [
+    "Wang, Yifei",
+    "Li, Ruiyin",
+    "Liang, Peng",
+    "Feng, Qiong",
+    "Li, Zengyang",
+    "Shahin, Mojtaba",
+    "Khan, Arif Ali"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2606.22082v1.pdf",
+  "original_sha256": "beae2c698290da1f71e70586906306deb74cfe527609f854f76c6eb48ec9ec93",
+  "pages": 36,
+  "html_url": "https://arxiv.org/html/2606.22082v1"
+}

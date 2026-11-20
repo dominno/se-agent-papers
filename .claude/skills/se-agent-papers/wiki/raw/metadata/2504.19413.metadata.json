@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "2504.19413",
+  "version": "2504.19413v1",
+  "source_url": "https://arxiv.org/pdf/2504.19413v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:55:06.493330+00:00",
+  "captured_bytes": 70560,
+  "sha256": "1e0922cac1f80b7ffd5dbf887a02eccca4bd9f9a741c635265915379db7b87f5",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+  "arxiv_title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+  "authors": [
+    "Chhikara, Prateek",
+    "Khant, Dev",
+    "Aryan, Saket",
+    "Singh, Taranjeet",
+    "Yadav, Deshraj"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2504.19413v1.pdf",
+  "original_sha256": "bec870b657aa73405275a6d8fe27bcd4271799e028bc62986ab9c4cd27a3712d",
+  "pages": 23,
+  "html_url": "https://arxiv.org/html/2504.19413v1"
+}

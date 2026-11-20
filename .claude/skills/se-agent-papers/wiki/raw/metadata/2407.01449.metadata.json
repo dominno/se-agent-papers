@@ -1,0 +1,26 @@
+{
+  "arxiv_id": "2407.01449",
+  "version": "2407.01449v6",
+  "source_url": "https://arxiv.org/pdf/2407.01449v6",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:39.395300+00:00",
+  "captured_bytes": 82320,
+  "sha256": "31723b17522eba8e57aaa546a802128c11804be6da1dc51671ede532b80f9b88",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "ColPali: Efficient Document Retrieval with Vision Language Models",
+  "arxiv_title": "ColPali: Efficient Document Retrieval with Vision Language Models",
+  "authors": [
+    "Faysse, Manuel",
+    "Sibille, Hugues",
+    "Wu, Tony",
+    "Omrani, Bilel",
+    "Viaud, Gautier",
+    "Hudelot, Céline",
+    "Colombo, Pierre"
+  ],
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "original_file": "2407.01449v6.pdf",
+  "original_sha256": "852ec724f3d48316265611579f4c556a14fea24f29360b5929d02e4604662631",
+  "pages": 26,
+  "html_url": "https://arxiv.org/html/2407.01449v6"
+}

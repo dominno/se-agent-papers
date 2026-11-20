@@ -1,0 +1,26 @@
+{
+  "arxiv_id": "2309.03409",
+  "version": "2309.03409v3",
+  "source_url": "https://arxiv.org/pdf/2309.03409v3",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:56.123192+00:00",
+  "captured_bytes": 152623,
+  "sha256": "c7c6bfabefe365ae5d47586cfc65682b11be8aeab99526aaaa6b56657b07cc22",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Large Language Models as Optimizers",
+  "arxiv_title": "Large Language Models as Optimizers",
+  "authors": [
+    "Yang, Chengrun",
+    "Wang, Xuezhi",
+    "Lu, Yifeng",
+    "Liu, Hanxiao",
+    "Le, Quoc V.",
+    "Zhou, Denny",
+    "Chen, Xinyun"
+  ],
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "original_file": "2309.03409v3.pdf",
+  "original_sha256": "61c8493c964f6d4436f69ae63ff52d3a91540708e9387615f3a8f034bab081c0",
+  "pages": 42,
+  "html_url": "https://arxiv.org/html/2309.03409v3"
+}

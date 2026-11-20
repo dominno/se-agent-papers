@@ -1,0 +1,22 @@
+{
+  "arxiv_id": "2203.07621",
+  "version": "2203.07621v1",
+  "source_url": "https://arxiv.org/pdf/2203.07621v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:43.031951+00:00",
+  "captured_bytes": 95434,
+  "sha256": "a49228fcf969cbb6884f507f5329ee7f23862cc2beb530e7061fc5bff394144b",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Practical Detectability for Persistent Lock-Free Data Structures",
+  "arxiv_title": "Practical Detectability for Persistent Lock-Free Data Structures",
+  "authors": [
+    "Cho, Kyeongmin",
+    "Jeon, Seungmin",
+    "Kang, Jeehoon"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2203.07621v1.pdf",
+  "original_sha256": "b161dcfa1258c1a71cccf5a6af9ec6fd1fcebb53fe049fef5a51b01fcd2e3d4c",
+  "pages": 15,
+  "html_url": "https://arxiv.org/html/2203.07621v1"
+}

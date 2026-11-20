@@ -1,0 +1,29 @@
+{
+  "arxiv_id": "2312.10997",
+  "version": "2312.10997v5",
+  "source_url": "https://arxiv.org/pdf/2312.10997v5",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:36.643345+00:00",
+  "captured_bytes": 111310,
+  "sha256": "dfaabb088ab37fdac1cf5423e381f448e6601ed948f89ce35ebbca318d1c4e98",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Retrieval-Augmented Generation for Large Language Models: A Survey",
+  "arxiv_title": "Retrieval-Augmented Generation for Large Language Models: A Survey",
+  "authors": [
+    "Gao, Yunfan",
+    "Xiong, Yun",
+    "Gao, Xinyu",
+    "Jia, Kangxiang",
+    "Pan, Jinliu",
+    "Bi, Yuxi",
+    "Dai, Yi",
+    "Sun, Jiawei",
+    "Wang, Meng",
+    "Wang, Haofen"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2312.10997v5.pdf",
+  "original_sha256": "396a0fadeb4cd40f5c8ccc36b73a0815f6cb4d7f6bfa53b6c48c1f9aba7c7e02",
+  "pages": 21,
+  "html_url": "https://arxiv.org/html/2312.10997v5"
+}

@@ -1,0 +1,27 @@
+{
+  "arxiv_id": "2607.21596",
+  "version": "2607.21596v2",
+  "source_url": "https://arxiv.org/pdf/2607.21596v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:55:57.748776+00:00",
+  "captured_bytes": 85786,
+  "sha256": "fc8af9a69946ae04ef6efca021811e570772214bd960d6e6f195408bc5fc884d",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
+  "arxiv_title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
+  "authors": [
+    "Ren, Zeyu",
+    "Yue, Ling",
+    "Li, Ran",
+    "Wang, Yishu",
+    "Xu, Shengxiang",
+    "Liu, Hanmo",
+    "Pan, Shaowu",
+    "Di, Shimin"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2607.21596v2.pdf",
+  "original_sha256": "a22d1a05af9190e7bc29c7720ff2445bc836b27ac693aed4f3d0b1c3c290254e",
+  "pages": 25,
+  "html_url": "https://arxiv.org/html/2607.21596v2"
+}

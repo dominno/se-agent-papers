@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "2405.14831",
+  "version": "2405.14831v3",
+  "source_url": "https://arxiv.org/pdf/2405.14831v3",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:55:21.467902+00:00",
+  "captured_bytes": 103574,
+  "sha256": "1e5dcc405142fd5032ed5df9f2ecc2fde7b644266c276bc26b6374c1e922bbdd",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models",
+  "arxiv_title": "HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models",
+  "authors": [
+    "Gutiérrez, Bernal Jiménez",
+    "Shu, Yiheng",
+    "Gu, Yu",
+    "Yasunaga, Michihiro",
+    "Su, Yu"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2405.14831v3.pdf",
+  "original_sha256": "14671c78fc7de99d83bb9e52e2d5b335d4756066925e67df1a25c0e272133aad",
+  "pages": 31,
+  "html_url": "https://arxiv.org/html/2405.14831v3"
+}

@@ -1,0 +1,27 @@
+{
+  "arxiv_id": "2608.08413",
+  "version": "2608.08413v1",
+  "source_url": "https://arxiv.org/pdf/2608.08413v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:40.868086+00:00",
+  "captured_bytes": 96381,
+  "sha256": "5a5c98079de1e637a636ae669eb6837b0925d7c3433c19155a98ad73479f6400",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Tangent: An Empirical Study of Testing Practices for LLM-Based Agent Applications",
+  "arxiv_title": "Tangent: An Empirical Study of Testing Practices for LLM-Based Agent Applications",
+  "authors": [
+    "Pan, Rangeet",
+    "Stennett, Tyler",
+    "Sankar, Divya",
+    "McGinn, Bridget",
+    "Orso, Alessandro",
+    "Pavuluri, Raju",
+    "Sinha, Saurabh",
+    "Vukovic, Maja"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "original_file": "2608.08413v1.pdf",
+  "original_sha256": "e251f7bc2222d695f105b694c087c624db0451d2a065d14c55d606e0cb839b98",
+  "pages": 14,
+  "html_url": "https://arxiv.org/html/2608.08413v1"
+}

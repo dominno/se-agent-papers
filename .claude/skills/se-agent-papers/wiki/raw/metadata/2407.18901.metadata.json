@@ -1,0 +1,28 @@
+{
+  "arxiv_id": "2407.18901",
+  "version": "2407.18901v1",
+  "source_url": "https://arxiv.org/pdf/2407.18901v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:03.947268+00:00",
+  "captured_bytes": 172405,
+  "sha256": "678c251c053cb75e202c1ac8bae361bc5861d087f600a428b08831f73eb6a079",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents",
+  "arxiv_title": "AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents",
+  "authors": [
+    "Trivedi, Harsh",
+    "Khot, Tushar",
+    "Hartmann, Mareike",
+    "Manku, Ruskin",
+    "Dong, Vinty",
+    "Li, Edward",
+    "Gupta, Shashank",
+    "Sabharwal, Ashish",
+    "Balasubramanian, Niranjan"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2407.18901v1.pdf",
+  "original_sha256": "2ca1feab1559d678c28706acca11caab54a8a76c64dcf9e14d46f7bd33f21487",
+  "pages": 55,
+  "html_url": "https://arxiv.org/html/2407.18901v1"
+}

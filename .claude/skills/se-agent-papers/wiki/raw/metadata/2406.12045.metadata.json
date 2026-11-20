@@ -1,0 +1,23 @@
+{
+  "arxiv_id": "2406.12045",
+  "version": "2406.12045v1",
+  "source_url": "https://arxiv.org/pdf/2406.12045v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:53:52.586322+00:00",
+  "captured_bytes": 131042,
+  "sha256": "3ea4d51b933b8cbb8923764eaf7e990ecceda761dc1b0f507497d96c62e8b8dc",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "$\\tau$-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+  "arxiv_title": "$\\tau$-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+  "authors": [
+    "Yao, Shunyu",
+    "Shinn, Noah",
+    "Razavi, Pedram",
+    "Narasimhan, Karthik"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2406.12045v1.pdf",
+  "original_sha256": "0ce66a1763d698c61bb311c3c874bf593d1e9a5bfff11bb35f6f72b981f6da56",
+  "pages": 50,
+  "html_url": "https://arxiv.org/html/2406.12045v1"
+}

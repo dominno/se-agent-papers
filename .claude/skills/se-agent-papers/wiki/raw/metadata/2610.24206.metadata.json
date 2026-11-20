@@ -1,0 +1,30 @@
+{
+  "arxiv_id": "2610.24206",
+  "version": "2610.24206v2",
+  "source_url": "https://arxiv.org/pdf/2610.24206v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:27.442060+00:00",
+  "captured_bytes": 48998,
+  "sha256": "b61fb047cdf0683784c69971483f154ae07be33d8d0600e2690604afbbe580a7",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "SWE-Bench Pro V2: A Cleaner, Harder-to-Game Coding Benchmark",
+  "arxiv_title": "SWE-Bench Pro V2: A Cleaner, Harder-to-Game Coding Benchmark",
+  "authors": [
+    "Dan, Soham",
+    "Da, Jeff",
+    "Bhutani, Sanyam",
+    "Calvo, Miguel Romero",
+    "Guevara, Ivan",
+    "Carabedo, Fernando",
+    "Bernal, Jose",
+    "Reyna, Julio",
+    "Mendez, Luis Leandro Monsalve",
+    "Liu, Ying",
+    "Zhang, Daniel Yue"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2610.24206v2.pdf",
+  "original_sha256": "7494fef8c6c77cc5e1a8d41dc78cf764a0cecc3f9d915938a447fd3a376bdb27",
+  "pages": 16,
+  "html_url": "https://arxiv.org/html/2610.24206v2"
+}

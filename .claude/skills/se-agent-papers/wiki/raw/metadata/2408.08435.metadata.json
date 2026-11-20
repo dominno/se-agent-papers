@@ -1,0 +1,22 @@
+{
+  "arxiv_id": "2408.08435",
+  "version": "2408.08435v2",
+  "source_url": "https://arxiv.org/pdf/2408.08435v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:19.562996+00:00",
+  "captured_bytes": 119659,
+  "sha256": "56169510b0d218730786ad77ce50e989c95d200cfe99f0ea8e5df01b7fbf2969",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Automated Design of Agentic Systems",
+  "arxiv_title": "Automated Design of Agentic Systems",
+  "authors": [
+    "Hu, Shengran",
+    "Lu, Cong",
+    "Clune, Jeff"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2408.08435v2.pdf",
+  "original_sha256": "32eb1c1a6888e35fae0f618e33c58698b54d9c49bc063fef91ee591719fca376",
+  "pages": 34,
+  "html_url": "https://arxiv.org/html/2408.08435v2"
+}

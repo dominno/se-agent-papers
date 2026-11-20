@@ -1,0 +1,31 @@
+{
+  "arxiv_id": "2408.04682",
+  "version": "2408.04682v2",
+  "source_url": "https://arxiv.org/pdf/2408.04682v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:53:58.546348+00:00",
+  "captured_bytes": 73896,
+  "sha256": "e946142eefe6920ef4ffa9b386d46f29ff04d8bb709ec33a061ae3b79f709a6e",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "ToolSandbox: A Stateful, Conversational, Interactive Evaluation Benchmark for LLM Tool Use Capabilities",
+  "arxiv_title": "ToolSandbox: A Stateful, Conversational, Interactive Evaluation Benchmark for LLM Tool Use Capabilities",
+  "authors": [
+    "Lu, Jiarui",
+    "Holleis, Thomas",
+    "Zhang, Yizhe",
+    "Aumayer, Bernhard",
+    "Nan, Feng",
+    "Bai, Felix",
+    "Ma, Shuang",
+    "Ma, Shen",
+    "Li, Mengyu",
+    "Yin, Guoli",
+    "Wang, Zirui",
+    "Pang, Ruoming"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by-sa/4.0/",
+  "original_file": "2408.04682v2.pdf",
+  "original_sha256": "3449baed1d8e0f4c07dbc859621899685eed8a6a0445a1ae8909c178e6b6173e",
+  "pages": 24,
+  "html_url": "https://arxiv.org/html/2408.04682v2"
+}

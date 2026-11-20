@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "2410.05779",
+  "version": "2410.05779v3",
+  "source_url": "https://arxiv.org/pdf/2410.05779v3",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:55:22.890044+00:00",
+  "captured_bytes": 61795,
+  "sha256": "e22f23b9cf0c40bf13a229550e3a6b181a66f39afa78a49419fa21294590776c",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "LightRAG: Simple and Fast Retrieval-Augmented Generation",
+  "arxiv_title": "LightRAG: Simple and Fast Retrieval-Augmented Generation",
+  "authors": [
+    "Guo, Zirui",
+    "Xia, Lianghao",
+    "Yu, Yanhua",
+    "Ao, Tu",
+    "Huang, Chao"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "original_file": "2410.05779v3.pdf",
+  "original_sha256": "bd72eebf611df1366b251c16ce4eac7aac699e519783c586feb2c5c43899347a",
+  "pages": 16,
+  "html_url": "https://arxiv.org/html/2410.05779v3"
+}

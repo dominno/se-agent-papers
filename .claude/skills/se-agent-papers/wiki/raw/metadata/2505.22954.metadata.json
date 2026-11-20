@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "2505.22954",
+  "version": "2505.22954v3",
+  "source_url": "https://arxiv.org/pdf/2505.22954v3",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:55:50.134203+00:00",
+  "captured_bytes": 234586,
+  "sha256": "87c9fb8f0eff56ed25bde1773538adefeb6f3e7766174f40b07464f866bb0d2a",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents",
+  "arxiv_title": "Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents",
+  "authors": [
+    "Zhang, Jenny",
+    "Hu, Shengran",
+    "Lu, Cong",
+    "Lange, Robert",
+    "Clune, Jeff"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2505.22954v3.pdf",
+  "original_sha256": "13ff4abe0c7ad4a7dd3b4876d19a8bf940e39e70dabbf06065aa774a6c3457de",
+  "pages": 72,
+  "html_url": "https://arxiv.org/html/2505.22954v3"
+}

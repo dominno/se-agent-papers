@@ -1,0 +1,28 @@
+{
+  "arxiv_id": "2303.12570",
+  "version": "2303.12570v3",
+  "source_url": "https://arxiv.org/pdf/2303.12570v3",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:43.297200+00:00",
+  "captured_bytes": 57719,
+  "sha256": "d6b13aec1e3cc43a166b8851d030c8a4e72d98ca984aea549da0504ff7338ee1",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation",
+  "arxiv_title": "RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation",
+  "authors": [
+    "Zhang, Fengji",
+    "Chen, Bei",
+    "Zhang, Yue",
+    "Keung, Jacky",
+    "Liu, Jin",
+    "Zan, Daoguang",
+    "Mao, Yi",
+    "Lou, Jian-Guang",
+    "Chen, Weizhu"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2303.12570v3.pdf",
+  "original_sha256": "cab2bb7f8f90f10a469ed7eb8b2b414f3b4daa80300d90e4a7838699e1270c62",
+  "pages": 14,
+  "html_url": "https://arxiv.org/html/2303.12570v3"
+}

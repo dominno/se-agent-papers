@@ -1,0 +1,26 @@
+{
+  "arxiv_id": "2004.14974",
+  "version": "2004.14974v6",
+  "source_url": "https://arxiv.org/pdf/2004.14974v6",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:08.203691+00:00",
+  "captured_bytes": 60956,
+  "sha256": "5501242cb17335f87a2a6b6c682f5bfd968f371265ec62c86257facd60714c30",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Fact or Fiction: Verifying Scientific Claims",
+  "arxiv_title": "Fact or Fiction: Verifying Scientific Claims",
+  "authors": [
+    "Wadden, David",
+    "Lin, Shanchuan",
+    "Lo, Kyle",
+    "Wang, Lucy Lu",
+    "van Zuylen, Madeleine",
+    "Cohan, Arman",
+    "Hajishirzi, Hannaneh"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2004.14974v6.pdf",
+  "original_sha256": "98306d0f9564be43d5828907e4d4ae13c6b96054b8ef4ec638363214fcb7bf24",
+  "pages": 17,
+  "html_url": "https://arxiv.org/html/2004.14974v6"
+}

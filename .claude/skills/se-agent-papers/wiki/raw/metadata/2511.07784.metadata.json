@@ -1,0 +1,22 @@
+{
+  "arxiv_id": "2511.07784",
+  "version": "2511.07784v1",
+  "source_url": "https://arxiv.org/pdf/2511.07784v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:28.385420+00:00",
+  "captured_bytes": 72480,
+  "sha256": "ce955c9c2ad60ff44182d7a6ed8f5fa37d9ae8ffc34a85afd5e88e2df66417ed",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Can LLM Agents Really Debate? A Controlled Study of Multi-Agent Debate in Logical Reasoning",
+  "arxiv_title": "Can LLM Agents Really Debate? A Controlled Study of Multi-Agent Debate in Logical Reasoning",
+  "authors": [
+    "Wu, Haolun",
+    "Li, Zhenkun",
+    "Li, Lingyao"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2511.07784v1.pdf",
+  "original_sha256": "9a272b7c25e0cedfddbfa790babc4180fac20cece8c1ad9698c29aa2c93d0385",
+  "pages": 20,
+  "html_url": "https://arxiv.org/html/2511.07784v1"
+}

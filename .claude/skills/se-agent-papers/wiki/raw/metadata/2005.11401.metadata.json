@@ -1,0 +1,31 @@
+{
+  "arxiv_id": "2005.11401",
+  "version": "2005.11401v4",
+  "source_url": "https://arxiv.org/pdf/2005.11401v4",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:34.063388+00:00",
+  "captured_bytes": 70137,
+  "sha256": "40134affd274d3902be6ec4b016fc66371b435a87a8e3b53676870e8ee6098ec",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+  "arxiv_title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+  "authors": [
+    "Lewis, Patrick",
+    "Perez, Ethan",
+    "Piktus, Aleksandra",
+    "Petroni, Fabio",
+    "Karpukhin, Vladimir",
+    "Goyal, Naman",
+    "Küttler, Heinrich",
+    "Lewis, Mike",
+    "Yih, Wen-tau",
+    "Rocktäschel, Tim",
+    "Riedel, Sebastian",
+    "Kiela, Douwe"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2005.11401v4.pdf",
+  "original_sha256": "23e3249e9a1e75418d82efecab0ea8c4d033b89c93742f63208d47ce01f21233",
+  "pages": 19,
+  "html_url": "https://arxiv.org/html/2005.11401v4"
+}

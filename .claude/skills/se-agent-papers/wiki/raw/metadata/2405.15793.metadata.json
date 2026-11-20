@@ -1,0 +1,26 @@
+{
+  "arxiv_id": "2405.15793",
+  "version": "2405.15793v3",
+  "source_url": "https://arxiv.org/pdf/2405.15793v3",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:53:12.291897+00:00",
+  "captured_bytes": 296802,
+  "sha256": "bbab3e18dca58e9b19eef0faeee21235a879b51b28504d13783fd30abee328a2",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+  "arxiv_title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+  "authors": [
+    "Yang, John",
+    "Jimenez, Carlos E.",
+    "Wettig, Alexander",
+    "Lieret, Kilian",
+    "Yao, Shunyu",
+    "Narasimhan, Karthik",
+    "Press, Ofir"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2405.15793v3.pdf",
+  "original_sha256": "d171e0693060b910ceb2cddd0fd4bc7cae302005d42d0d8059bfdbe056c3adba",
+  "pages": 118,
+  "html_url": "https://arxiv.org/html/2405.15793v3"
+}

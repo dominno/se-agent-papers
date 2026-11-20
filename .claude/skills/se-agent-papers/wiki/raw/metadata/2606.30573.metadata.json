@@ -1,0 +1,23 @@
+{
+  "arxiv_id": "2606.30573",
+  "version": "2606.30573v1",
+  "source_url": "https://arxiv.org/pdf/2606.30573v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:33.446709+00:00",
+  "captured_bytes": 64859,
+  "sha256": "282c4e4e9cf96d7965ed99aa00625b9453fde080581f71deaf71e35d6f7d5161",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "SWE-INTERACT: Reimagining SWE Benchmarks as User-Driven Long-Horizon Coding Sessions",
+  "arxiv_title": "SWE-INTERACT: Reimagining SWE Benchmarks as User-Driven Long-Horizon Coding Sessions",
+  "authors": [
+    "Raghavendra, Mohit",
+    "Gunjal, Anisha",
+    "Sabharwal, Aakash",
+    "He, Yunzhong"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2606.30573v1.pdf",
+  "original_sha256": "160d5700dd6ddf236ac739a8c8fdff9f5defaebe305ecbf8a0587290e9bd7345",
+  "pages": 23,
+  "html_url": "https://arxiv.org/html/2606.30573v1"
+}

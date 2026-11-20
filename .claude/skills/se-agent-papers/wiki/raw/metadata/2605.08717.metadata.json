@@ -1,0 +1,29 @@
+{
+  "arxiv_id": "2605.08717",
+  "version": "2605.08717v2",
+  "source_url": "https://arxiv.org/pdf/2605.08717v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:53:29.911071+00:00",
+  "captured_bytes": 77382,
+  "sha256": "f619d44159ac74f9bd26e21ae8c655896e4d939353b0a4b50baefaf1c6323715",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Debugging the Debuggers: Failure-Anchored Structured Recovery for Software Engineering Agents",
+  "arxiv_title": "Debugging the Debuggers: Failure-Anchored Structured Recovery for Software Engineering Agents",
+  "authors": [
+    "Zhao, Chenyu",
+    "Zhang, Shenglin",
+    "Lin, Yihang",
+    "Gu, Wenwei",
+    "Chen, Zhimin",
+    "Sun, Yongqian",
+    "Pei, Dan",
+    "Bansal, Chetan",
+    "Rajmohan, Saravan",
+    "Ma, Minghua"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2605.08717v2.pdf",
+  "original_sha256": "fae1609a4c3857d731a2db4e4b8f11d4b1d80fe841291c5521641ecd64334649",
+  "pages": 12,
+  "html_url": "https://arxiv.org/html/2605.08717v2"
+}

@@ -1,0 +1,25 @@
+{
+  "arxiv_id": "2611.04456",
+  "version": "2611.04456v1",
+  "source_url": "https://arxiv.org/pdf/2611.04456v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:06.916556+00:00",
+  "captured_bytes": 61979,
+  "sha256": "ce19f91e4e372b38e7e863c4f6615cb2e8ecc1e97735755e50046903c0860c8c",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "How Agent Skills Evolve: A Large-Scale Empirical Study of Skills on GitHub",
+  "arxiv_title": "How Agent Skills Evolve: A Large-Scale Empirical Study of Skills on GitHub",
+  "authors": [
+    "Huang, Jinjun",
+    "Cao, Jialun",
+    "Han, Junxiao",
+    "Jiang, Zhonghao",
+    "Cheung, Shing-Chi",
+    "Liu, Zhongxin"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2611.04456v1.pdf",
+  "original_sha256": "92998642fb207fc2e2d01beb8b724dbc2e85debf7cff526d94c89f0469f19e65",
+  "pages": 12,
+  "html_url": "https://arxiv.org/html/2611.04456v1"
+}

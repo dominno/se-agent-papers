@@ -1,0 +1,27 @@
+{
+  "arxiv_id": "2608.03392",
+  "version": "2608.03392v4",
+  "source_url": "https://arxiv.org/pdf/2608.03392v4",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:01.307886+00:00",
+  "captured_bytes": 250971,
+  "sha256": "c6ce8690c7cfb91f1d1bd9477ee6ee6a0f3cfc38dfada962036542989dc1826c",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Self-Evolving Coding Agents",
+  "arxiv_title": "Self-Evolving Coding Agents",
+  "authors": [
+    "Zhou, Hao",
+    "Hu, Haichuan",
+    "Luo, Tianyu",
+    "Shang, Ye",
+    "Fang, Chunrong",
+    "Chen, Zhenyu",
+    "Xiao, Liang",
+    "Zhang, Quanjun"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2608.03392v4.pdf",
+  "original_sha256": "ff389df220cc0c3efe55e66b6819a475cf0dbf03a54934c5529e00d0da18f0ed",
+  "pages": 54,
+  "html_url": "https://arxiv.org/html/2608.03392v4"
+}

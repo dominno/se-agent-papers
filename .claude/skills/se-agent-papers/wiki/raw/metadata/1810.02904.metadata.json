@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "1810.02904",
+  "version": "1810.02904v1",
+  "source_url": "https://arxiv.org/pdf/1810.02904v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:41.544078+00:00",
+  "captured_bytes": 93660,
+  "sha256": "65def507e582e78460edbeaae11b7eeef75246dac94a5450b2f867c2107136a4",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Finding Crash-Consistency Bugs with Bounded Black-Box Crash Testing",
+  "arxiv_title": "Finding Crash-Consistency Bugs with Bounded Black-Box Crash Testing",
+  "authors": [
+    "Mohan, Jayashree",
+    "Martinez, Ashlie",
+    "Ponnapalli, Soujanya",
+    "Raju, Pandian",
+    "Chidambaram, Vijay"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "1810.02904v1.pdf",
+  "original_sha256": "b1010a175576611e01e60a33a32004f0082a7d806c4ba5eb694d9fa32f27230c",
+  "pages": 23,
+  "html_url": "https://arxiv.org/html/1810.02904v1"
+}

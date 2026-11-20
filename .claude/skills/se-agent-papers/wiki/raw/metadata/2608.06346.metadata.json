@@ -1,0 +1,32 @@
+{
+  "arxiv_id": "2608.06346",
+  "version": "2608.06346v1",
+  "source_url": "https://arxiv.org/pdf/2608.06346v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:53:30.652499+00:00",
+  "captured_bytes": 107594,
+  "sha256": "4adb91bd013e0a870023176b7cbdf4de0b93834d45988f511a620ac44ff0f542",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories",
+  "arxiv_title": "TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories",
+  "authors": [
+    "Qi, Yunjia",
+    "Yin, Zehua",
+    "Shi, Xintong",
+    "Peng, Hao",
+    "Lu, Songyuanyi",
+    "Liu, Yixian",
+    "Xuan, Richeng",
+    "Liu, Yuhong",
+    "Hu, Zhichao",
+    "Wang, Xiaozhi",
+    "Hou, Lei",
+    "Xu, Bin",
+    "Li, Juanzi"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2608.06346v1.pdf",
+  "original_sha256": "1604d672c098cee63ec844f9fade5a7448beb811a47c0304cc96e647eafe16d0",
+  "pages": 24,
+  "html_url": "https://arxiv.org/html/2608.06346v1"
+}

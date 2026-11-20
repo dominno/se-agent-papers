@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "2608.24271",
+  "version": "2608.24271v1",
+  "source_url": "https://arxiv.org/pdf/2608.24271v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:47.815623+00:00",
+  "captured_bytes": 29154,
+  "sha256": "1b8d582db26bd07237ac0b8acc1493355d06c4662a6d7df0d250930a3ff1eb99",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Observability and Fault Injection for LLM-Based Multi-Agent Systems in Software Engineering",
+  "arxiv_title": "Observability and Fault Injection for LLM-Based Multi-Agent Systems in Software Engineering",
+  "authors": [
+    "Seyedghorban, Zahra",
+    "Klimov, Egor",
+    "van Deursen, Arie",
+    "Panichella, Annibale",
+    "Ozkan, Burcu Kulahcioglu"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2608.24271v1.pdf",
+  "original_sha256": "d5080fc7a26cbee0d71f629aec2dda65eb47934f111af80f268dd6f4b467b4d1",
+  "pages": 6,
+  "html_url": "https://arxiv.org/html/2608.24271v1"
+}

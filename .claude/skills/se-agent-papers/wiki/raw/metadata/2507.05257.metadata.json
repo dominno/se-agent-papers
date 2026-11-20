@@ -1,0 +1,19 @@
+{
+  "arxiv_id": "2507.05257",
+  "version": "2507.05257v4",
+  "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+  "authors": [
+    "Yuanzhe Hu",
+    "Yu Wang",
+    "Julian McAuley"
+  ],
+  "url": "https://arxiv.org/abs/2507.05257v4",
+  "source_url": "https://arxiv.org/pdf/2507.05257v4",
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "categories": [
+    "cs.CL",
+    "cs.AI"
+  ],
+  "published": "2025-07-07T17:59:54Z",
+  "updated": "2026-06-28T17:25:01Z"
+}

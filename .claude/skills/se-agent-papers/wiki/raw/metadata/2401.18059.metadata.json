@@ -1,0 +1,25 @@
+{
+  "arxiv_id": "2401.18059",
+  "version": "2401.18059v1",
+  "source_url": "https://arxiv.org/pdf/2401.18059v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:55:15.610122+00:00",
+  "captured_bytes": 78064,
+  "sha256": "39b536a5fb45b12766b9b92020d5139977917378b7b36505c59c7283a27096eb",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval",
+  "arxiv_title": "RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval",
+  "authors": [
+    "Sarthi, Parth",
+    "Abdullah, Salman",
+    "Tuli, Aditi",
+    "Khanna, Shubh",
+    "Goldie, Anna",
+    "Manning, Christopher D."
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2401.18059v1.pdf",
+  "original_sha256": "01319e2e6e6ecfd504ee1bbda41d023f9e060bd3505ab3c161baa1d6d696cf75",
+  "pages": 23,
+  "html_url": "https://arxiv.org/html/2401.18059v1"
+}

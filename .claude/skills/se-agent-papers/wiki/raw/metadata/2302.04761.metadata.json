@@ -1,0 +1,27 @@
+{
+  "arxiv_id": "2302.04761",
+  "version": "2302.04761v1",
+  "source_url": "https://arxiv.org/pdf/2302.04761v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:55:25.081513+00:00",
+  "captured_bytes": 73243,
+  "sha256": "2c50dae53e6b98fbd9809f036ed5bc894d7680981421251e2b9fbbaf96573bee",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+  "arxiv_title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+  "authors": [
+    "Schick, Timo",
+    "Dwivedi-Yu, Jane",
+    "Dessì, Roberto",
+    "Raileanu, Roberta",
+    "Lomeli, Maria",
+    "Zettlemoyer, Luke",
+    "Cancedda, Nicola",
+    "Scialom, Thomas"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2302.04761v1.pdf",
+  "original_sha256": "6d7483d94653008e40c2058a1c22441c92e3713dae278b6361e8efc447c99522",
+  "pages": 17,
+  "html_url": "https://arxiv.org/html/2302.04761v1"
+}

@@ -1,0 +1,22 @@
+{
+  "arxiv_id": "2401.08500",
+  "version": "2401.08500v1",
+  "source_url": "https://arxiv.org/pdf/2401.08500v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:43.708401+00:00",
+  "captured_bytes": 35618,
+  "sha256": "5ec0c0df686e8a12d78fc00c7a5affa8982fe184ee7bdb579cc7df83adfba9e8",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering",
+  "arxiv_title": "Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering",
+  "authors": [
+    "Ridnik, Tal",
+    "Kredo, Dedy",
+    "Friedman, Itamar"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2401.08500v1.pdf",
+  "original_sha256": "b7e6422424c482e7002c19a6d7ba18220b7610a16047aeb46f1c235d836d96f0",
+  "pages": 10,
+  "html_url": "https://arxiv.org/html/2401.08500v1"
+}

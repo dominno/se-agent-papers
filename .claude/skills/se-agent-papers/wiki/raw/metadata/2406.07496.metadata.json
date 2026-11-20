@@ -1,0 +1,26 @@
+{
+  "arxiv_id": "2406.07496",
+  "version": "2406.07496v1",
+  "source_url": "https://arxiv.org/pdf/2406.07496v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:58.692926+00:00",
+  "captured_bytes": 133333,
+  "sha256": "206549e854fa0b87064d9050b71eb1ef196c80319bfb2f4739f3ddf167506466",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "TextGrad: Automatic \"Differentiation\" via Text",
+  "arxiv_title": "TextGrad: Automatic \"Differentiation\" via Text",
+  "authors": [
+    "Yuksekgonul, Mert",
+    "Bianchi, Federico",
+    "Boen, Joseph",
+    "Liu, Sheng",
+    "Huang, Zhi",
+    "Guestrin, Carlos",
+    "Zou, James"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2406.07496v1.pdf",
+  "original_sha256": "9cbfd5c78ad69e2a8363e76d6774f3e6b5e68f46b409d8b560e98276a985b428",
+  "pages": 41,
+  "html_url": "https://arxiv.org/html/2406.07496v1"
+}

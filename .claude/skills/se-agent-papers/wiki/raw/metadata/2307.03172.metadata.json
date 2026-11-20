@@ -1,0 +1,26 @@
+{
+  "arxiv_id": "2307.03172",
+  "version": "2307.03172v3",
+  "source_url": "https://arxiv.org/pdf/2307.03172v3",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:55:12.267432+00:00",
+  "captured_bytes": 66062,
+  "sha256": "c470d29cb8d79fcdb8346f4508821caa040e479ff081ff67e3ae588a420b6b7d",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Lost in the Middle: How Language Models Use Long Contexts",
+  "arxiv_title": "Lost in the Middle: How Language Models Use Long Contexts",
+  "authors": [
+    "Liu, Nelson F.",
+    "Lin, Kevin",
+    "Hewitt, John",
+    "Paranjape, Ashwin",
+    "Bevilacqua, Michele",
+    "Petroni, Fabio",
+    "Liang, Percy"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2307.03172v3.pdf",
+  "original_sha256": "653b29619eae2ae4b361d7bdcdc06db4bedcb1b0eabe31814036beca8c1af0b1",
+  "pages": 18,
+  "html_url": "https://arxiv.org/html/2307.03172v3"
+}

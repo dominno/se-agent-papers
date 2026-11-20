@@ -1,0 +1,23 @@
+{
+  "arxiv_id": "2607.07946",
+  "version": "2607.07946v1",
+  "source_url": "https://arxiv.org/pdf/2607.07946v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:24.350414+00:00",
+  "captured_bytes": 91588,
+  "sha256": "beaf8f397713398cfaf2cdff41de6bdf30e2a96d41b60127f0476ed6e2d4ccdb",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "DeepSWE: Measuring Frontier Coding Agents on Original, Long-Horizon Engineering Tasks",
+  "arxiv_title": "DeepSWE: Measuring Frontier Coding Agents on Original, Long-Horizon Engineering Tasks",
+  "authors": [
+    "Huang, Wenqi",
+    "Lee, Charley",
+    "Tng, Leonard",
+    "Ge, Serena"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2607.07946v1.pdf",
+  "original_sha256": "1d988c90737299c6d844694ba967ff63f4e2aa13c66be20b97b8fa4bd89754ce",
+  "pages": 32,
+  "html_url": "https://arxiv.org/html/2607.07946v1"
+}

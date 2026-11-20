@@ -1,0 +1,25 @@
+{
+  "arxiv_id": "2607.00990",
+  "version": "2607.00990v1",
+  "source_url": "https://arxiv.org/pdf/2607.00990v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:53:19.599763+00:00",
+  "captured_bytes": 63786,
+  "sha256": "945e150b144d03d05d0ca71bca7bf14255e6ced2ebb8bfc936cb7501849e46f2",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "SWE-Doctor: Guiding Software Engineering Agents with Runtime Diagnosis from Multi-Faceted Bug Reproduction Tests",
+  "arxiv_title": "SWE-Doctor: Guiding Software Engineering Agents with Runtime Diagnosis from Multi-Faceted Bug Reproduction Tests",
+  "authors": [
+    "Guo, Yaoqi",
+    "Liu, Yang",
+    "Zhang, Jie M.",
+    "Ma, Yun",
+    "Lou, Yiling",
+    "Chen, Zhenpeng"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2607.00990v1.pdf",
+  "original_sha256": "c7a4b91298b7d40c2d4016702e42b25b74fbde2f7dd7964fcd3175e05b947b72",
+  "pages": 12,
+  "html_url": "https://arxiv.org/html/2607.00990v1"
+}

@@ -1,0 +1,28 @@
+{
+  "arxiv_id": "2305.06983",
+  "version": "2305.06983v2",
+  "source_url": "https://arxiv.org/pdf/2305.06983v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:35.813591+00:00",
+  "captured_bytes": 92837,
+  "sha256": "cb1f81bfa8504e43bdebf3763cd77b1230cae6ab3497fcce5d4d04f5a406e95e",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Active Retrieval Augmented Generation",
+  "arxiv_title": "Active Retrieval Augmented Generation",
+  "authors": [
+    "Jiang, Zhengbao",
+    "Xu, Frank F.",
+    "Gao, Luyu",
+    "Sun, Zhiqing",
+    "Liu, Qian",
+    "Dwivedi-Yu, Jane",
+    "Yang, Yiming",
+    "Callan, Jamie",
+    "Neubig, Graham"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2305.06983v2.pdf",
+  "original_sha256": "2425bd04de6e082512ef576298ec24df770a7f576bb2c23d09b3fd498f716c52",
+  "pages": 24,
+  "html_url": "https://arxiv.org/html/2305.06983v2"
+}

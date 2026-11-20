@@ -1,0 +1,32 @@
+{
+  "arxiv_id": "2504.08703",
+  "version": "2504.08703v3",
+  "source_url": "https://arxiv.org/pdf/2504.08703v3",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:07.111497+00:00",
+  "captured_bytes": 67766,
+  "sha256": "f1b9689cb1f585c3f3be3da3dcfc6564a0a0c61af2ef64e532704bdd48d4b4e6",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "SWE-PolyBench: A Multi-Language Benchmark for Repository-Level Evaluation of Coding Agents",
+  "arxiv_title": "SWE-PolyBench: A multi-language benchmark for repository level evaluation of coding agents",
+  "authors": [
+    "Rashid, Muhammad Shihab",
+    "Bock, Christian",
+    "Zhuang, Yuan",
+    "Buchholz, Alexander",
+    "Esler, Tim",
+    "Valentin, Simon",
+    "Franceschi, Luca",
+    "Wistuba, Martin",
+    "Sivaprasad, Prabhu Teja",
+    "Kim, Woo Jung",
+    "Deoras, Anoop",
+    "Zappella, Giovanni",
+    "Callot, Laurent"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "original_file": "2504.08703v3.pdf",
+  "original_sha256": "0aa5166d646f0e74eb4e9c5118bdd44dc9da59f59c6dd93899512b3159ddef23",
+  "pages": 20,
+  "html_url": "https://arxiv.org/html/2504.08703v3"
+}

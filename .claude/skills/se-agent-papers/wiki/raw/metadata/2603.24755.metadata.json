@@ -1,0 +1,29 @@
+{
+  "arxiv_id": "2603.24755",
+  "version": "2603.24755v2",
+  "source_url": "https://arxiv.org/pdf/2603.24755v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:13.051909+00:00",
+  "captured_bytes": 83688,
+  "sha256": "7b31949a2aab6ab31a6254b761bd2a0f848f7561533f03d1074f3a6a3197349e",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks",
+  "arxiv_title": "SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks",
+  "authors": [
+    "Orlanski, Gabriel",
+    "Roy, Devjeet",
+    "Yun, Alexander",
+    "Shin, Changho",
+    "Gu, Alex",
+    "Ge, Albert",
+    "Adila, Dyah",
+    "Roberts, Nicholas",
+    "Sala, Frederic",
+    "Albarghouthi, Aws"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2603.24755v2.pdf",
+  "original_sha256": "e40b72e59a07c36f46c493fa444309fdb2be15943f5f375d3695b7620e01a218",
+  "pages": 26,
+  "html_url": "https://arxiv.org/html/2603.24755v2"
+}

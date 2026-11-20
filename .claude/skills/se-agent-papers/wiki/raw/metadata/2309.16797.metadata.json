@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "2309.16797",
+  "version": "2309.16797v1",
+  "source_url": "https://arxiv.org/pdf/2309.16797v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:57.013677+00:00",
+  "captured_bytes": 150840,
+  "sha256": "c698270bfea84a8e316ce0a0995e5f9b94192b2ff4e0699991a7dbbe3054f83c",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution",
+  "arxiv_title": "Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution",
+  "authors": [
+    "Fernando, Chrisantha",
+    "Banarse, Dylan",
+    "Michalewski, Henryk",
+    "Osindero, Simon",
+    "Rocktäschel, Tim"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2309.16797v1.pdf",
+  "original_sha256": "0e5b44b77d345581509bb58b009fa7fef9928bf8c090b2a056e8916f25d974a0",
+  "pages": 64,
+  "html_url": "https://arxiv.org/html/2309.16797v1"
+}

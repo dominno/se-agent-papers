@@ -1,0 +1,27 @@
+{
+  "arxiv_id": "2605.14415",
+  "version": "2605.14415v1",
+  "source_url": "https://arxiv.org/pdf/2605.14415v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:18.788523+00:00",
+  "captured_bytes": 101556,
+  "sha256": "83e5a21d08541393649cc166d1f123b4fb6a7de5fd47e484e6398a4910291b2a",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "SWE-Chain: Benchmarking Coding Agents on Chained Release-Level Package Upgrades",
+  "arxiv_title": "SWE-Chain: Benchmarking Coding Agents on Chained Release-Level Package Upgrades",
+  "authors": [
+    "Lam, Man Ho",
+    "Wang, Chaozheng",
+    "Liu, Hange",
+    "Xiao, Jingyu",
+    "Li, Haau-sing",
+    "Huang, Jen-tse",
+    "Zhuo, Terry Yue",
+    "Lyu, Michael R."
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2605.14415v1.pdf",
+  "original_sha256": "1169964ac5657ea18fed02ceeefafbd02d12299cb3c54eefab7f2b497c7db913",
+  "pages": 37,
+  "html_url": "https://arxiv.org/html/2605.14415v1"
+}

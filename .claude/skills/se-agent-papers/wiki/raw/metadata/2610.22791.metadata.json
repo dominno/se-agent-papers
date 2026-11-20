@@ -1,0 +1,27 @@
+{
+  "arxiv_id": "2610.22791",
+  "version": "2610.22791v1",
+  "source_url": "https://arxiv.org/pdf/2610.22791v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:04.397460+00:00",
+  "captured_bytes": 85290,
+  "sha256": "ace781f6aba8e5a7fb547b3e034a73451d132c492fc049151918f47e1e47202a",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Self-Evolving Coding Agents via Harness-Policy Optimization",
+  "arxiv_title": "Self-Evolving Coding Agents via Harness-Policy Optimization",
+  "authors": [
+    "Wei, Zhepei",
+    "Yao, Wenlin",
+    "Peng, Baolin",
+    "Wang, Danqing",
+    "Wu, Qianhui",
+    "Cheng, Hao",
+    "Meng, Yu",
+    "Gao, Jianfeng"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2610.22791v1.pdf",
+  "original_sha256": "801a3a12aca529978cd8c80042177f8c4787f8067b034f50f5cc713dcf0356ba",
+  "pages": 24,
+  "html_url": "https://arxiv.org/html/2610.22791v1"
+}

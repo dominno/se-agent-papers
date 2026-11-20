@@ -1,0 +1,26 @@
+{
+  "arxiv_id": "2605.12925",
+  "version": "2605.12925v5",
+  "source_url": "https://arxiv.org/pdf/2605.12925v5",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:15.625776+00:00",
+  "captured_bytes": 123488,
+  "sha256": "d8490c045b37079dba430823f7c197901acebad9f98afdcc70b5a75038fc9902",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "AgentLens: Revealing The Lucky Pass Problem in SWE-Agent Evaluation",
+  "arxiv_title": "AgentLens: Revealing The Lucky Pass Problem in SWE-Agent Evaluation",
+  "authors": [
+    "Sahoo, Priyam",
+    "Mittal, Gaurav",
+    "Li, Xiaomin",
+    "Ma, Shengjie",
+    "Steenhoek, Benjamin",
+    "Lin, Pingping",
+    "Hu, Yu"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2605.12925v5.pdf",
+  "original_sha256": "72686d4865be51184e3d83ad7f5b899b9d8fc92bb8566d4680618fc2de2f5cc5",
+  "pages": 36,
+  "html_url": "https://arxiv.org/html/2605.12925v5"
+}

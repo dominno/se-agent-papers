@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "2112.01488",
+  "version": "2112.01488v3",
+  "source_url": "https://arxiv.org/pdf/2112.01488v3",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:34.747326+00:00",
+  "captured_bytes": 87321,
+  "sha256": "61e46693d7a1c262bf9c581e659c38e5241576e5e2b6698acbe1a19b43b811a6",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "ColBERTv2: Effective and Efficient Retrieval via Lightweight Late Interaction",
+  "arxiv_title": "ColBERTv2: Effective and Efficient Retrieval via Lightweight Late Interaction",
+  "authors": [
+    "Santhanam, Keshav",
+    "Khattab, Omar",
+    "Saad-Falcon, Jon",
+    "Potts, Christopher",
+    "Zaharia, Matei"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2112.01488v3.pdf",
+  "original_sha256": "46e0a2712eabf9e0b9486120356a2110f65516fa7e0d75c35e9ee3eef9ea78c0",
+  "pages": 20,
+  "html_url": "https://arxiv.org/html/2112.01488v3"
+}

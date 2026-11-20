@@ -1,0 +1,33 @@
+{
+  "arxiv_id": "2410.10762",
+  "version": "2410.10762v4",
+  "source_url": "https://arxiv.org/pdf/2410.10762v4",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:20.227776+00:00",
+  "captured_bytes": 118427,
+  "sha256": "e1f8f6a854148b5891ef9654e90bd64ce46d0c1f74ba57a435a85c019066bd0d",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "AFlow: Automating Agentic Workflow Generation",
+  "arxiv_title": "AFlow: Automating Agentic Workflow Generation",
+  "authors": [
+    "Zhang, Jiayi",
+    "Xiang, Jinyu",
+    "Yu, Zhaoyang",
+    "Teng, Fengwei",
+    "Chen, Xionghui",
+    "Chen, Jiaqi",
+    "Zhuge, Mingchen",
+    "Cheng, Xin",
+    "Hong, Sirui",
+    "Wang, Jinlin",
+    "Zheng, Bingnan",
+    "Liu, Bang",
+    "Luo, Yuyu",
+    "Wu, Chenglin"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2410.10762v4.pdf",
+  "original_sha256": "9be15f695f11dd5bc634c1c026bd2270eff3d3c4a53c4d9b51c012b7bd03d521",
+  "pages": 38,
+  "html_url": "https://arxiv.org/html/2410.10762v4"
+}

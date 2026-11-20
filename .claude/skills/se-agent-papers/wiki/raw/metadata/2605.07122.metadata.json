@@ -1,0 +1,29 @@
+{
+  "arxiv_id": "2605.07122",
+  "version": "2605.07122v3",
+  "source_url": "https://arxiv.org/pdf/2605.07122v3",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:13.917919+00:00",
+  "captured_bytes": 52157,
+  "sha256": "b8027fa35b4349dd307095a0fd58a43f0214e105d7707230ec064370ec40a293",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "RepoZero: Can LLMs Generate a Code Repository from Scratch?",
+  "arxiv_title": "RepoZero: Can LLMs Generate a Code Repository from Scratch?",
+  "authors": [
+    "Zhang, Zhaoxi",
+    "Xu, Yiming",
+    "Liang, Jiahui",
+    "Li, Weikang",
+    "Chen, Xiaoshuai",
+    "Qian, Liwei",
+    "Pei, Xin",
+    "Huang, Jizhou",
+    "Sun, Run",
+    "Wu, Yunfang"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2605.07122v3.pdf",
+  "original_sha256": "be48ac01700b453a1d419291150dd365e7077c99e36af8f19fbd8f25b0938537",
+  "pages": 16,
+  "html_url": "https://arxiv.org/html/2605.07122v3"
+}

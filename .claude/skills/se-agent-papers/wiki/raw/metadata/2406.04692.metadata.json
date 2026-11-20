@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "2406.04692",
+  "version": "2406.04692v1",
+  "source_url": "https://arxiv.org/pdf/2406.04692v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:53:32.361354+00:00",
+  "captured_bytes": 49522,
+  "sha256": "a134efce0b6d57fcf538c724a8809990e56df0a4ac41c928912d25b8349f51ba",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Mixture-of-Agents Enhances Large Language Model Capabilities",
+  "arxiv_title": "Mixture-of-Agents Enhances Large Language Model Capabilities",
+  "authors": [
+    "Wang, Junlin",
+    "Wang, Jue",
+    "Athiwaratkun, Ben",
+    "Zhang, Ce",
+    "Zou, James"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2406.04692v1.pdf",
+  "original_sha256": "b7bc82e95971e60f1ad54c8accd2d2fa101e8b43adb887511bf52c7e98e83a7d",
+  "pages": 15,
+  "html_url": "https://arxiv.org/html/2406.04692v1"
+}

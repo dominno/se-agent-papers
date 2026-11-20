@@ -1,0 +1,23 @@
+{
+  "arxiv_id": "2607.04948",
+  "version": "2607.04948v1",
+  "source_url": "https://arxiv.org/pdf/2607.04948v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:47.591034+00:00",
+  "captured_bytes": 50039,
+  "sha256": "fc45d2ad3a0f106d04389280bb0274a02c4d7d7a4003e495d8f901cf6ae29195",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Using Process Mining to Generate AI Agents from Software Engineering Process Records",
+  "arxiv_title": "Using Process Mining to Generate AI Agents from Software Engineering Process Records",
+  "authors": [
+    "Bala, Saimir",
+    "Fournier, Fabiana",
+    "Limonad, Lior",
+    "Metzger, Andreas"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2607.04948v1.pdf",
+  "original_sha256": "9b4fdbb024f6a644b65fd213a5665cea9ec7ac81acbe0a4502528900edb6399b",
+  "pages": 18,
+  "html_url": "https://arxiv.org/html/2607.04948v1"
+}

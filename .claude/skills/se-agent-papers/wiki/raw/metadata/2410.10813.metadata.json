@@ -1,0 +1,25 @@
+{
+  "arxiv_id": "2410.10813",
+  "version": "2410.10813v2",
+  "source_url": "https://arxiv.org/pdf/2410.10813v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:55:23.674452+00:00",
+  "captured_bytes": 105706,
+  "sha256": "d17bb2ec4295a0b58029ac670d978487961d1e0e1a6ec5e5c16fd49bd958b566",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+  "arxiv_title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+  "authors": [
+    "Wu, Di",
+    "Wang, Hongwei",
+    "Yu, Wenhao",
+    "Zhang, Yuwei",
+    "Chang, Kai-Wei",
+    "Yu, Dong"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2410.10813v2.pdf",
+  "original_sha256": "05c5d055201466a241a56e082cdd02d39ad566fa04b3804891983e4e069a3fda",
+  "pages": 28,
+  "html_url": "https://arxiv.org/html/2410.10813v2"
+}

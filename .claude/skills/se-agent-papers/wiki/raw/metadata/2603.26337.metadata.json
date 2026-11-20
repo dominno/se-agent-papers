@@ -1,0 +1,25 @@
+{
+  "arxiv_id": "2603.26337",
+  "version": "2603.26337v3",
+  "source_url": "https://arxiv.org/pdf/2603.26337v3",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:56.295371+00:00",
+  "captured_bytes": 84873,
+  "sha256": "dcce91fcc9d082f2148699e95a220712b0bc3fae6597a15683382ba716e214d0",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "A Benchmark for Evaluating Repository-Level Code Agents with Intermediate Reasoning on Feature Addition Task",
+  "arxiv_title": "RACE-Bench: A Reasoning-Augmented Benchmark for Repository-Level Code Agents on Feature Addition",
+  "authors": [
+    "Liu, Shuhan",
+    "Zhao, Zhiyi",
+    "Hu, Xing",
+    "Liu, Kui",
+    "Yang, Xiaohu",
+    "Xia, Xin"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2603.26337v3.pdf",
+  "original_sha256": "d702f77e5dc87abe6654a81c2b39ce3c9e295aedec1d467b32a74fbc132d91da",
+  "pages": 13,
+  "html_url": "https://arxiv.org/html/2603.26337v3"
+}

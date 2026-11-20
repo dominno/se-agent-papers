@@ -1,0 +1,23 @@
+{
+  "arxiv_id": "1810.05286",
+  "version": "1810.05286v2",
+  "source_url": "https://arxiv.org/pdf/1810.05286v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:35.603369+00:00",
+  "captured_bytes": 57443,
+  "sha256": "ec4bffa93e1473ce34a6c9b8df27bc1c1828f42e40859589b0aeea763d50c156",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Predictive Test Selection",
+  "arxiv_title": "Predictive Test Selection",
+  "authors": [
+    "Machalica, Mateusz",
+    "Samylkin, Alex",
+    "Porth, Meredith",
+    "Chandra, Satish"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "original_file": "1810.05286v2.pdf",
+  "original_sha256": "6af0571d32f26b4c8f68d6d5c2d77b4d59cf29cde1eee560491947fa8d829322",
+  "pages": 10,
+  "html_url": "https://arxiv.org/html/1810.05286v2"
+}

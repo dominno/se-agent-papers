@@ -1,0 +1,23 @@
+{
+  "arxiv_id": "2605.21384",
+  "version": "2605.21384v2",
+  "source_url": "https://arxiv.org/pdf/2605.21384v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:23.111671+00:00",
+  "captured_bytes": 78951,
+  "sha256": "78d2006b6b848c98292958085a764573665c1b126a979f15511ec5f74881604f",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "SpecBench: Measuring Reward Hacking in Long-Horizon Coding Agents",
+  "arxiv_title": "SpecBench: Measuring Reward Hacking in Long-Horizon Coding Agents",
+  "authors": [
+    "Zhao, Bingchen",
+    "Srikanth, Dhruv",
+    "Wu, Yuxiang",
+    "Jiang, Zhengyao"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2605.21384v2.pdf",
+  "original_sha256": "52c0eb8bc0991332151f64596b13d4a192eef90310e9ed930657e897b90d95a5",
+  "pages": 22,
+  "html_url": "https://arxiv.org/html/2605.21384v2"
+}

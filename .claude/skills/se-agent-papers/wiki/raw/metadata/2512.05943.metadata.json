@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "2512.05943",
+  "version": "2512.05943v3",
+  "source_url": "https://arxiv.org/pdf/2512.05943v3",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:09.615773+00:00",
+  "captured_bytes": 44677,
+  "sha256": "01fdade93a30493dd86644d6c9946c36f99ca461de472c087a79575ce729e090",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "TRACE: A Framework for Analyzing and Enhancing Stepwise Reasoning in Vision-Language Models",
+  "arxiv_title": "TRACE: A Framework for Analyzing and Enhancing Stepwise Reasoning in Vision-Language Models",
+  "authors": [
+    "Imani, Shima",
+    "Moon, Seungwhan",
+    "Mathias, Lambert",
+    "Zhang, Lu",
+    "Damavandi, Babak"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "original_file": "2512.05943v3.pdf",
+  "original_sha256": "771175015267daa531738f794ab02a62825e322fd582ef9d3e620902ae8c46cd",
+  "pages": 19,
+  "html_url": "https://arxiv.org/html/2512.05943v3"
+}

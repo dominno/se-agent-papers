@@ -1,0 +1,22 @@
+{
+  "arxiv_id": "2211.07631",
+  "version": "2211.07631v1",
+  "source_url": "https://arxiv.org/pdf/2211.07631v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:45.130352+00:00",
+  "captured_bytes": 235527,
+  "sha256": "beccbaa7fcc2332d522be86005c423d61c67355a24c33a20c62e14ce18c72c85",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "The Path to Durable Linearizability",
+  "arxiv_title": "The Path to Durable Linearizability",
+  "authors": [
+    "D'Osualdo, Emanuele",
+    "Raad, Azalea",
+    "Vafeiadis, Viktor"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2211.07631v1.pdf",
+  "original_sha256": "a8299fea65357b47dc6e99568476e486c9cd2aed16839d7062c102a175fdc823",
+  "pages": 63,
+  "html_url": "https://arxiv.org/html/2211.07631v1"
+}

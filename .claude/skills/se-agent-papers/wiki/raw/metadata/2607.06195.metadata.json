@@ -1,0 +1,22 @@
+{
+  "arxiv_id": "2607.06195",
+  "version": "2607.06195v1",
+  "source_url": "https://arxiv.org/pdf/2607.06195v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:39.878499+00:00",
+  "captured_bytes": 94600,
+  "sha256": "0b953286dbad9aa5903e292de715b259d6b49558a3517aa2e80f82756a23948a",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "LogicHunter: Testing LLM Agent Frameworks with an Agentic Oracle",
+  "arxiv_title": "LogicHunter: Testing LLM Agent Frameworks with an Agentic Oracle",
+  "authors": [
+    "Long, Minghui",
+    "Zhao, Yanjie",
+    "Wang, Haoyu"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2607.06195v1.pdf",
+  "original_sha256": "129fb5d852a45db53bc2997aeeb79e3e5324d5a9eeed9badd1706870422f6a29",
+  "pages": 23,
+  "html_url": "https://arxiv.org/html/2607.06195v1"
+}

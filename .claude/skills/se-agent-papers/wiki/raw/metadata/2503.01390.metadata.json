@@ -1,0 +1,29 @@
+{
+  "arxiv_id": "2503.01390",
+  "version": "2503.01390v1",
+  "source_url": "https://arxiv.org/pdf/2503.01390v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:47.240665+00:00",
+  "captured_bytes": 116885,
+  "sha256": "f8409cf8dfdec66598e59eabba411544e0605b80b02fbe37f1b2f6f71bbae8fd",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Scalable and Accurate Application-Level Crash-Consistency Testing via Representative Testing",
+  "arxiv_title": "Scalable and Accurate Application-Level Crash-Consistency Testing via Representative Testing",
+  "authors": [
+    "Gu, Yile",
+    "Neal, Ian",
+    "Xu, Jiexiao",
+    "Lee, Shaun Christopher",
+    "Said, Ayman",
+    "Haydar, Musa",
+    "Van Geffen, Jacob",
+    "Kadekodi, Rohan",
+    "Quinn, Andrew",
+    "Kasikci, Baris"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2503.01390v1.pdf",
+  "original_sha256": "e053c975c263f901e93e8a209eef317b67d8b0db3f323cd092c4219590256ea6",
+  "pages": 30,
+  "html_url": "https://arxiv.org/html/2503.01390v1"
+}

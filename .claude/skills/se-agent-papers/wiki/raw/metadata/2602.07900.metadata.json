@@ -1,0 +1,26 @@
+{
+  "arxiv_id": "2602.07900",
+  "version": "2602.07900v3",
+  "source_url": "https://arxiv.org/pdf/2602.07900v3",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:38.419076+00:00",
+  "captured_bytes": 63297,
+  "sha256": "eb77d2a7eb98d204030ad1d9d1a09ad8bf4887695aad8dabb2d99e3d171492f7",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Rethinking the Value of Agent-Generated Tests for LLM-Based Software Engineering Agents",
+  "arxiv_title": "Rethinking the Value of Agent-Generated Tests for LLM-Based Software Engineering Agents",
+  "authors": [
+    "Chen, Zhi",
+    "Sun, Zhensu",
+    "Shi, Yuling",
+    "Peng, Chao",
+    "Gu, Xiaodong",
+    "Lo, David",
+    "Jiang, Lingxiao"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2602.07900v3.pdf",
+  "original_sha256": "6c7010aee3e4bd5ec21c255fe3ecebc90f390bc4c7f99cc6d61133e69498b234",
+  "pages": 12,
+  "html_url": "https://arxiv.org/html/2602.07900v3"
+}

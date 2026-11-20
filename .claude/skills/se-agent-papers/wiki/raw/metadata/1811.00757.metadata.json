@@ -1,0 +1,21 @@
+{
+  "arxiv_id": "1811.00757",
+  "version": "1811.00757v1",
+  "source_url": "https://arxiv.org/pdf/1811.00757v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:42.143866+00:00",
+  "captured_bytes": 29786,
+  "sha256": "4eeed5d503581ecfae68627677973d528c2e27f2e661266db7a05627c3454d99",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "DurableFS: A File System for Persistent Memory",
+  "arxiv_title": "DurableFS: A File System for Persistent Memory",
+  "authors": [
+    "Kalita, Chandan",
+    "Barua, Gautam",
+    "Sehgal, Priya"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "1811.00757v1.pdf",
+  "original_sha256": "9d7ea34c144fe5a808c7a9c548c6cee4213a52e7630212fac20e63aa3f9624c4",
+  "pages": 6
+}

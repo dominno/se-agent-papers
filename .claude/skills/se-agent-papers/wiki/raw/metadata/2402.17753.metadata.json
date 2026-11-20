@@ -1,0 +1,25 @@
+{
+  "arxiv_id": "2402.17753",
+  "version": "2402.17753v1",
+  "source_url": "https://arxiv.org/pdf/2402.17753v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:55:16.664477+00:00",
+  "captured_bytes": 78926,
+  "sha256": "0c45e368477337fb06c76b585da45dd9e12bb22395c20b154cf251c62b4c0095",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+  "arxiv_title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+  "authors": [
+    "Maharana, Adyasha",
+    "Lee, Dong-Ho",
+    "Tulyakov, Sergey",
+    "Bansal, Mohit",
+    "Barbieri, Francesco",
+    "Fang, Yuwei"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "original_file": "2402.17753v1.pdf",
+  "original_sha256": "218188e1d66a553afe324491e3e5e5d0af107196c9ff32c65bb3640ebf638539",
+  "pages": 19,
+  "html_url": "https://arxiv.org/html/2402.17753v1"
+}

@@ -1,0 +1,26 @@
+{
+  "arxiv_id": "2210.03629",
+  "version": "2210.03629v3",
+  "source_url": "https://arxiv.org/pdf/2210.03629v3",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:55:24.395592+00:00",
+  "captured_bytes": 111631,
+  "sha256": "89941e3af1841cf34d6b80399b5849583f65ea44b991b522efbe953494dc8180",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+  "arxiv_title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+  "authors": [
+    "Yao, Shunyu",
+    "Zhao, Jeffrey",
+    "Yu, Dian",
+    "Du, Nan",
+    "Shafran, Izhak",
+    "Narasimhan, Karthik",
+    "Cao, Yuan"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2210.03629v3.pdf",
+  "original_sha256": "f285b0971ae4a790e402fb93966bed3adde2cf0a04977d08b2b40d6ab0cace69",
+  "pages": 33,
+  "html_url": "https://arxiv.org/html/2210.03629v3"
+}

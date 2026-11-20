@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "2312.13010",
+  "retrieved_at": "2026-11-19T21:51:01.679794+00:00",
+  "source_url": "https://arxiv.org/pdf/2312.13010v3",
+  "source_format": "pdf-extracted",
+  "captured_bytes": 75636,
+  "sha256": "143d16fd4487aa61c6f8ba8a4606d373d3e6592007ea2b9680be7469f8fe75cd",
+  "review_status": "retrieved_not_reviewed",
+  "warning": "Machine-retrieved text is unreviewed. No fulltext_reviewed approval.",
+  "version": "2312.13010v3",
+  "catalog_title": "AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation",
+  "document_title": "AgentCoder: Multi-Agent Code Generation with Effective Testing and Self-optimisation",
+  "authors": [
+    "Huang, Dong",
+    "Zhang, Jie M.",
+    "Luck, Michael",
+    "Bu, Qingwen",
+    "Qing, Yuhao",
+    "Cui, Heming"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2312.13010v3.pdf",
+  "original_sha256": "ebe4476de1eebf33cc045962d03cc90d701fb4a8c2689353d34e146102acf443"
+}

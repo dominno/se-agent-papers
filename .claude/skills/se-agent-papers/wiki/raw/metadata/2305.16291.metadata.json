@@ -1,0 +1,27 @@
+{
+  "arxiv_id": "2305.16291",
+  "version": "2305.16291v2",
+  "source_url": "https://arxiv.org/pdf/2305.16291v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:55:04.585124+00:00",
+  "captured_bytes": 122036,
+  "sha256": "7b5e3f47ab37d0e7a40bd7a1cdb742d462ace5222fd14e7a027827d16c8f5352",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Voyager: An Open-Ended Embodied Agent with Large Language Models",
+  "arxiv_title": "Voyager: An Open-Ended Embodied Agent with Large Language Models",
+  "authors": [
+    "Wang, Guanzhi",
+    "Xie, Yuqi",
+    "Jiang, Yunfan",
+    "Mandlekar, Ajay",
+    "Xiao, Chaowei",
+    "Zhu, Yuke",
+    "Fan, Linxi",
+    "Anandkumar, Anima"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2305.16291v2.pdf",
+  "original_sha256": "769a4e33ddeeb73870849232eece49afe882c2d146362e33917ccb432ba0efb8",
+  "pages": 42,
+  "html_url": "https://arxiv.org/html/2305.16291v2"
+}

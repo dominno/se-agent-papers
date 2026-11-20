@@ -1,0 +1,25 @@
+{
+  "arxiv_id": "2310.05223",
+  "version": "2310.05223v1",
+  "source_url": "https://arxiv.org/pdf/2310.05223v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:36.938079+00:00",
+  "captured_bytes": 77259,
+  "sha256": "294c7dab9a8a0b19b34be784cdce138b07a049de940be2c61a24633040a379f5",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Do Automatic Test Generation Tools Generate Flaky Tests?",
+  "arxiv_title": "Do Automatic Test Generation Tools Generate Flaky Tests?",
+  "authors": [
+    "Gruber, Martin",
+    "Roslan, Muhammad Firhard",
+    "Parry, Owain",
+    "Scharnböck, Fabian",
+    "McMinn, Phil",
+    "Fraser, Gordon"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2310.05223v1.pdf",
+  "original_sha256": "eef02dd1f9818f120de4dd01fdc28fe2c4b35a1db9dc6d2afa0478d1ea0062ee",
+  "pages": 12,
+  "html_url": "https://arxiv.org/html/2310.05223v1"
+}

@@ -1,0 +1,23 @@
+{
+  "arxiv_id": "2607.03691",
+  "version": "2607.03691v2",
+  "source_url": "https://arxiv.org/pdf/2607.03691v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:55:56.416911+00:00",
+  "captured_bytes": 163559,
+  "sha256": "403e204a6c201eb31afa479d9df2f2a4a703c0de85f98cb00d309717f692e7c2",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Don't Blame the Large Language Model: How Agent Harness Evolution Shapes Coding Agent Quality",
+  "arxiv_title": "Don't Blame the Large Language Model: How Agent Harness Evolution Shapes Coding Agent Quality",
+  "authors": [
+    "Sghaier, Oussama Ben",
+    "Li, Hao",
+    "Adams, Bram",
+    "Hassan, Ahmed E."
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2607.03691v2.pdf",
+  "original_sha256": "1f9100a54d1c3282ad2d3876162c1906e36013f9334047aadbf98c5628373bd2",
+  "pages": 46,
+  "html_url": "https://arxiv.org/html/2607.03691v2"
+}

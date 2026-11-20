@@ -1,0 +1,26 @@
+{
+  "arxiv_id": "2312.04511",
+  "version": "2312.04511v3",
+  "source_url": "https://arxiv.org/pdf/2312.04511v3",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:55:43.692742+00:00",
+  "captured_bytes": 95011,
+  "sha256": "78f7f0ac1f58e64da67e53d95d9c1b7583ab9a2b7e8778dfd506d4a4a46031d1",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "An LLM Compiler for Parallel Function Calling",
+  "arxiv_title": "An LLM Compiler for Parallel Function Calling",
+  "authors": [
+    "Kim, Sehoon",
+    "Moon, Suhong",
+    "Tabrizi, Ryan",
+    "Lee, Nicholas",
+    "Mahoney, Michael W.",
+    "Keutzer, Kurt",
+    "Gholami, Amir"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2312.04511v3.pdf",
+  "original_sha256": "0cdd58b7cc35852aa7ecf5766e4d88a10716867f1f7aca30591189c85c54605e",
+  "pages": 22,
+  "html_url": "https://arxiv.org/html/2312.04511v3"
+}

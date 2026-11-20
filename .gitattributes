@@ -1,0 +1,4 @@
+*.pdf export-ignore
+**/wiki/raw/fulltext export-ignore
+**/wiki/raw/fulltext/** export-ignore
+**/wiki/.ingest-* export-ignore

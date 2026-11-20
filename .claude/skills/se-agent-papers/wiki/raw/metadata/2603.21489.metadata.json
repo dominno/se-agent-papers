@@ -1,0 +1,21 @@
+{
+  "arxiv_id": "2603.21489",
+  "version": "2603.21489v2",
+  "source_url": "https://arxiv.org/pdf/2603.21489v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:30.644627+00:00",
+  "captured_bytes": 87004,
+  "sha256": "f9f87d1a9ecc3fa3ab382ba481f51679de2b4635400b1f1c2285ea8d37fd3b82",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Effective Strategies for Asynchronous Software Engineering Agents",
+  "arxiv_title": "Effective Strategies for Asynchronous Software Engineering Agents",
+  "authors": [
+    "Geng, Jiayi",
+    "Neubig, Graham"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2603.21489v2.pdf",
+  "original_sha256": "7db67ce0a2b2d4188149b5d84dd44f2a2aab6dc6edd1de02d5508ff561834e62",
+  "pages": 22,
+  "html_url": "https://arxiv.org/html/2603.21489v2"
+}

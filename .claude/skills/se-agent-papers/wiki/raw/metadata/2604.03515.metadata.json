@@ -1,0 +1,20 @@
+{
+  "arxiv_id": "2604.03515",
+  "version": "2604.03515v2",
+  "source_url": "https://arxiv.org/pdf/2604.03515v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:56:31.815906+00:00",
+  "captured_bytes": 143071,
+  "sha256": "18e1723dbec2da5f3d572a89b746ecc130e5e5fb1631b3ff5584e6d388c16f9d",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Inside the Scaffold: A Source-Code Taxonomy of Coding Agent Architectures",
+  "arxiv_title": "Inside the Scaffold: A Source-Code Taxonomy of Coding Agent Architectures",
+  "authors": [
+    "Rombaut, Benjamin"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2604.03515v2.pdf",
+  "original_sha256": "5e00c3be1a7a993d5b2c6bb94ce9f22fd8255ace9066d1bc55de2ce4902c41de",
+  "pages": 42,
+  "html_url": "https://arxiv.org/html/2604.03515v2"
+}

@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "2603.02766",
+  "version": "2603.02766v1",
+  "source_url": "https://arxiv.org/pdf/2603.02766v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:55:50.747996+00:00",
+  "captured_bytes": 58319,
+  "sha256": "660c5d44c2e2d7e8e380124cc8ecc9004a7c91efa3c9f813e8cc611a8872ee01",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "EvoSkill: Automated Skill Discovery for Multi-Agent Systems",
+  "arxiv_title": "EvoSkill: Automated Skill Discovery for Multi-Agent Systems",
+  "authors": [
+    "Alzubi, Salaheddin",
+    "Provenzano, Noah",
+    "Bingham, Jaydon",
+    "Chen, Weiyuan",
+    "Vu, Tu"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2603.02766v1.pdf",
+  "original_sha256": "61cc0e44c3489a82435ce1b3c9e8d7db5cd21798e18c8c204b0f99b124baa615",
+  "pages": 22,
+  "html_url": "https://arxiv.org/html/2603.02766v1"
+}

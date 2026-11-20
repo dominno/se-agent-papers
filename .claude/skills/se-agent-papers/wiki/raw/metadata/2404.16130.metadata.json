@@ -1,0 +1,29 @@
+{
+  "arxiv_id": "2404.16130",
+  "version": "2404.16130v2",
+  "source_url": "https://arxiv.org/pdf/2404.16130v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:55:19.845777+00:00",
+  "captured_bytes": 90503,
+  "sha256": "cddccb694df53141ac81e9cdada38a0feeb75802014a46f78d1a1149bc9e49c7",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "From Local to Global: A Graph RAG Approach to Query-Focused Summarization",
+  "arxiv_title": "From Local to Global: A Graph RAG Approach to Query-Focused Summarization",
+  "authors": [
+    "Edge, Darren",
+    "Trinh, Ha",
+    "Cheng, Newman",
+    "Bradley, Joshua",
+    "Chao, Alex",
+    "Mody, Apurva",
+    "Truitt, Steven",
+    "Metropolitansky, Dasha",
+    "Ness, Robert Osazuwa",
+    "Larson, Jonathan"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2404.16130v2.pdf",
+  "original_sha256": "730f1a9f38d16689900969a3eeeb1b31e45eda1dcc1f37a043afa90aff76c867",
+  "pages": 26,
+  "html_url": "https://arxiv.org/html/2404.16130v2"
+}

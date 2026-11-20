@@ -1,0 +1,25 @@
+{
+  "arxiv_id": "2504.14757",
+  "version": "2504.14757v2",
+  "source_url": "https://arxiv.org/pdf/2504.14757v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:07.766525+00:00",
+  "captured_bytes": 86958,
+  "sha256": "c60278218ced9cb13ced3c0321cd574373d17b8a8295053bcc7353fc3856d402",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "SWE-Synth: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs",
+  "arxiv_title": "SWE-Synth: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs",
+  "authors": [
+    "Pham, Minh V. T.",
+    "Phan, Huy N.",
+    "Phan, Hoang N.",
+    "Chi, Cuong Le",
+    "Nguyen, Tien N.",
+    "Bui, Nghi D. Q."
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2504.14757v2.pdf",
+  "original_sha256": "977eb357c7cdcf2cb11f79372c546cb34a37ea8ec2092a124b096f71fe7a74a5",
+  "pages": 27,
+  "html_url": "https://arxiv.org/html/2504.14757v2"
+}

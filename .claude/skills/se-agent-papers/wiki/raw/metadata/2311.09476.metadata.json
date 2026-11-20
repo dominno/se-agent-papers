@@ -1,0 +1,23 @@
+{
+  "arxiv_id": "2311.09476",
+  "version": "2311.09476v2",
+  "source_url": "https://arxiv.org/pdf/2311.09476v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:50.402072+00:00",
+  "captured_bytes": 62581,
+  "sha256": "d3a4972e3aac78f8ac8aea1aceefac9042189de2b8ab2e072c1ca7f4c9049246",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems",
+  "arxiv_title": "ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems",
+  "authors": [
+    "Saad-Falcon, Jon",
+    "Khattab, Omar",
+    "Potts, Christopher",
+    "Zaharia, Matei"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2311.09476v2.pdf",
+  "original_sha256": "16f092b08cce88da551a15a978b51721199e93dc95df406089813411fa51ebec",
+  "pages": 17,
+  "html_url": "https://arxiv.org/html/2311.09476v2"
+}

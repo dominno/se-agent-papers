@@ -1,0 +1,21 @@
+{
+  "arxiv_id": "2407.01502",
+  "version": "2407.01502v1",
+  "title": "AI Agents That Matter",
+  "authors": [
+    "Sayash Kapoor",
+    "Benedikt Stroebl",
+    "Zachary S. Siegel",
+    "Nitya Nadgir",
+    "Arvind Narayanan"
+  ],
+  "url": "https://arxiv.org/abs/2407.01502v1",
+  "source_url": "https://arxiv.org/pdf/2407.01502v1",
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "categories": [
+    "cs.LG",
+    "cs.AI"
+  ],
+  "published": "2024-07-01T17:48:14Z",
+  "updated": "2024-07-01T17:48:14Z"
+}

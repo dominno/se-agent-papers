@@ -1,0 +1,31 @@
+{
+  "arxiv_id": "2307.13854",
+  "version": "2307.13854v4",
+  "source_url": "https://arxiv.org/pdf/2307.13854v4",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:53:37.454100+00:00",
+  "captured_bytes": 79208,
+  "sha256": "42b2b9027190f9cb6419e335aaf3a16a2cd0234c4ca34b74db148569430b1b2c",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+  "arxiv_title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+  "authors": [
+    "Zhou, Shuyan",
+    "Xu, Frank F.",
+    "Zhu, Hao",
+    "Zhou, Xuhui",
+    "Lo, Robert",
+    "Sridhar, Abishek",
+    "Cheng, Xianyi",
+    "Ou, Tianyue",
+    "Bisk, Yonatan",
+    "Fried, Daniel",
+    "Alon, Uri",
+    "Neubig, Graham"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2307.13854v4.pdf",
+  "original_sha256": "f9731b92bc3d29a2ea7b5f9cb46b48540c76bc3f84a57e0c48fc37ea73107f95",
+  "pages": 22,
+  "html_url": "https://arxiv.org/html/2307.13854v4"
+}

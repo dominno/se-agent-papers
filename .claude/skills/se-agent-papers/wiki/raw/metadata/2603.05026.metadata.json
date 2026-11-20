@@ -1,0 +1,37 @@
+{
+  "arxiv_id": "2603.05026",
+  "version": "2603.05026v4",
+  "title": "RepoLaunch: Automating Build and Management of Code Repositories across Languages and Platforms",
+  "authors": [
+    "Kenan Li",
+    "Rongzhi Li",
+    "Linghao Zhang",
+    "Qirui Jin",
+    "Liao Zhu",
+    "Xiaosong Huang",
+    "Geng Zhang",
+    "Yikai Zhang",
+    "Shilin He",
+    "Chengxing Xie",
+    "Xin Zhang",
+    "Zijian Jin",
+    "Bowen Li",
+    "Chaoyun Zhang",
+    "Yu Kang",
+    "Yufan Huang",
+    "Elsie Nallipogu",
+    "Saravan Rajmohan",
+    "Qingwei Lin",
+    "Dongmei Zhang"
+  ],
+  "url": "https://arxiv.org/abs/2603.05026v4",
+  "source_url": "https://arxiv.org/pdf/2603.05026v4",
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "categories": [
+    "cs.SE",
+    "cs.LG",
+    "cs.MA"
+  ],
+  "published": "2026-03-05T10:15:13Z",
+  "updated": "2026-11-14T08:31:26Z"
+}

@@ -1,0 +1,28 @@
+{
+  "arxiv_id": "2606.06448",
+  "version": "2606.06448v2",
+  "source_url": "https://arxiv.org/pdf/2606.06448v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:55:08.874688+00:00",
+  "captured_bytes": 76655,
+  "sha256": "56ec115ad71d29b5b072c47134c155ed9b340b6e516843b7be02f66c7046c4ae",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads",
+  "arxiv_title": "Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads",
+  "authors": [
+    "Omri, Yasmine",
+    "Gan, Ziyu",
+    "Broveak, Zachary",
+    "Geens, Robin",
+    "He, Zexue",
+    "Pentland, Alex",
+    "Verhelst, Marian",
+    "Weissman, Tsachy",
+    "Tambe, Thierry"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2606.06448v2.pdf",
+  "original_sha256": "aac48e1169174b60daa61f9191baeaafa956e29f1a57103fc6a7f90804faf640",
+  "pages": 14,
+  "html_url": "https://arxiv.org/html/2606.06448v2"
+}

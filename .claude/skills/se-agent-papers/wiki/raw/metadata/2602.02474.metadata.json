@@ -1,0 +1,26 @@
+{
+  "arxiv_id": "2602.02474",
+  "version": "2602.02474v3",
+  "source_url": "https://arxiv.org/pdf/2602.02474v3",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:55:07.616916+00:00",
+  "captured_bytes": 124672,
+  "sha256": "972b6ea7139ad340228ae66b9fbe9c4da334839a123045c12b83c947739f3172",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents",
+  "arxiv_title": "MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents",
+  "authors": [
+    "Zhang, Haozhen",
+    "Long, Quanyu",
+    "Bao, Jianzhu",
+    "Feng, Tao",
+    "Zhang, Weizhi",
+    "Yue, Haodong",
+    "Wang, Wenya"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2602.02474v3.pdf",
+  "original_sha256": "189b3bf6f3e8ed24d47d3cd804a4c5ceddf14a23e61e4e8e5ea04271a939f1bd",
+  "pages": 43,
+  "html_url": "https://arxiv.org/html/2602.02474v3"
+}

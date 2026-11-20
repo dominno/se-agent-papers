@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "2310.11511",
+  "version": "2310.11511v1",
+  "source_url": "https://arxiv.org/pdf/2310.11511v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:55:13.923703+00:00",
+  "captured_bytes": 106751,
+  "sha256": "4ad3f4befcf65f2b221ac4793a0dca1f4e7cf957f8885e726e811e0e449edc1e",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",
+  "arxiv_title": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",
+  "authors": [
+    "Asai, Akari",
+    "Wu, Zeqiu",
+    "Wang, Yizhong",
+    "Sil, Avirup",
+    "Hajishirzi, Hannaneh"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2310.11511v1.pdf",
+  "original_sha256": "d9eaa1398abac0df67a9d0933a5bf8b6d9d83d2e72da2a486073cd842dd52978",
+  "pages": 30,
+  "html_url": "https://arxiv.org/html/2310.11511v1"
+}

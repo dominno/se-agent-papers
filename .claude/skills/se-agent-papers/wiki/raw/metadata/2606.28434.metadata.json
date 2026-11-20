@@ -1,0 +1,26 @@
+{
+  "arxiv_id": "2606.28434",
+  "version": "2606.28434v1",
+  "source_url": "https://arxiv.org/pdf/2606.28434v1",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:55:11.486485+00:00",
+  "captured_bytes": 144648,
+  "sha256": "e70fdf305ffbf043acea5958aba660cb568a1d91b9e20d01f0e84d3ec4c817e3",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "SWE-MeM: Learning Adaptive Memory Management for Long-Horizon Coding Agents",
+  "arxiv_title": "SWE-MeM: Learning Adaptive Memory Management for Long-Horizon Coding Agents",
+  "authors": [
+    "Gao, Shuzheng",
+    "Zeng, Wenhao",
+    "Yu, Zhaojian",
+    "Wangni, Jianqiao",
+    "Wang, Chaozheng",
+    "Cai, Kai",
+    "He, Shilin",
+    "Lyu, Michael R."
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2606.28434v1.pdf",
+  "original_sha256": "423c7011dab694f4a1e1ce52ca33bdfba210f6776ac70335f4d415da1fbd5498",
+  "pages": 30
+}

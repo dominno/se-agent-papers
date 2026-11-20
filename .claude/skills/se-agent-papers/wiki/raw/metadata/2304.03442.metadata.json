@@ -1,0 +1,25 @@
+{
+  "arxiv_id": "2304.03442",
+  "version": "2304.03442v2",
+  "source_url": "https://arxiv.org/pdf/2304.03442v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:55:31.339469+00:00",
+  "captured_bytes": 132344,
+  "sha256": "4e8fba9050e9ace273b79b7496d70981cc3eea3de3f044a7a034c8a8918a1e2c",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Generative Agents: Interactive Simulacra of Human Behavior",
+  "arxiv_title": "Generative Agents: Interactive Simulacra of Human Behavior",
+  "authors": [
+    "Park, Joon Sung",
+    "O'Brien, Joseph C.",
+    "Cai, Carrie J.",
+    "Morris, Meredith Ringel",
+    "Liang, Percy",
+    "Bernstein, Michael S."
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2304.03442v2.pdf",
+  "original_sha256": "1b31e77fb24d25d7598f2c49e955d12a28b95a6dabad34acdac40f44bfb7a139",
+  "pages": 22,
+  "html_url": "https://arxiv.org/html/2304.03442v2"
+}

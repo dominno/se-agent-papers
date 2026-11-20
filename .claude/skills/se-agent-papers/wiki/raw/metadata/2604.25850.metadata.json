@@ -1,0 +1,30 @@
+{
+  "arxiv_id": "2604.25850",
+  "version": "2604.25850v4",
+  "source_url": "https://arxiv.org/pdf/2604.25850v4",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:55:51.685243+00:00",
+  "captured_bytes": 130210,
+  "sha256": "76bc92ed48ca953d8df2e3e0720b015fd23b9876305aa13c3db60a1b58276955",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses",
+  "arxiv_title": "Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses",
+  "authors": [
+    "Lin, Jiahang",
+    "Liu, Shichun",
+    "Pan, Chengjun",
+    "Lin, Lizhi",
+    "Dou, Shihan",
+    "Xi, Zhiheng",
+    "Huang, Xuanjing",
+    "Yan, Hang",
+    "Han, Zhenhua",
+    "Gui, Tao",
+    "Jiang, Yu-Gang"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2604.25850v4.pdf",
+  "original_sha256": "299f2633b4c13db7bed52434b4db7c48ea621993581014d30e7bcd036d3464df",
+  "pages": 35,
+  "html_url": "https://arxiv.org/html/2604.25850v4"
+}

@@ -1,0 +1,30 @@
+{
+  "arxiv_id": "2511.03690",
+  "version": "2511.03690v2",
+  "source_url": "https://arxiv.org/pdf/2511.03690v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:53:16.208183+00:00",
+  "captured_bytes": 64756,
+  "sha256": "ffc9ffe921fae78a75eca48ebb9d80a5f57b273db08ed1705ff78bf482c344b5",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "The OpenHands Software Agent SDK: A Composable and Extensible Foundation for Production Agents",
+  "arxiv_title": "The OpenHands Software Agent SDK: A Composable and Extensible Foundation for Production Agents",
+  "authors": [
+    "Wang, Xingyao",
+    "Rosenberg, Simon",
+    "Michelini, Juan",
+    "Smith, Calvin",
+    "Tran, Hoang",
+    "Nyst, Engel",
+    "Malhotra, Rohit",
+    "Zhou, Xuhui",
+    "Chen, Valerie",
+    "Brennan, Robert",
+    "Neubig, Graham"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2511.03690v2.pdf",
+  "original_sha256": "0c99b4a838a5f37c4ecd07b3dd2143016cf799a9eb547c8ba7660951e2d408a5",
+  "pages": 19,
+  "html_url": "https://arxiv.org/html/2511.03690v2"
+}

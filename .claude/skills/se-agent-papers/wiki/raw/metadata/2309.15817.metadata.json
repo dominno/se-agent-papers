@@ -1,0 +1,28 @@
+{
+  "arxiv_id": "2309.15817",
+  "version": "2309.15817v2",
+  "source_url": "https://arxiv.org/pdf/2309.15817v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:53:39.900321+00:00",
+  "captured_bytes": 304025,
+  "sha256": "255eb8b56b8a1a43d31a0248abe50d378dc21580a20e67f99a836f09fe6fbf9c",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "Identifying the Risks of LM Agents with an LM-Emulated Sandbox",
+  "arxiv_title": "Identifying the Risks of LM Agents with an LM-Emulated Sandbox",
+  "authors": [
+    "Ruan, Yangjun",
+    "Dong, Honghua",
+    "Wang, Andrew",
+    "Pitis, Silviu",
+    "Zhou, Yongchao",
+    "Ba, Jimmy",
+    "Dubois, Yann",
+    "Maddison, Chris J.",
+    "Hashimoto, Tatsunori"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2309.15817v2.pdf",
+  "original_sha256": "2d746c512086bd47084e616a0848c6dd25052dfe8b6da64e42e4c5e2f0050722",
+  "pages": 70,
+  "html_url": "https://arxiv.org/html/2309.15817v2"
+}

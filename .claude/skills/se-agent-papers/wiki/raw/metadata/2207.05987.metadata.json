@@ -1,0 +1,25 @@
+{
+  "arxiv_id": "2207.05987",
+  "version": "2207.05987v3",
+  "source_url": "https://arxiv.org/pdf/2207.05987v3",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:40.566711+00:00",
+  "captured_bytes": 68975,
+  "sha256": "8e80d86234cd4a7169f0bd4cc15f3ce37a93e0324772189919b4b30e3c805232",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "DocPrompting: Generating Code by Retrieving the Docs",
+  "arxiv_title": "DocPrompting: Generating Code by Retrieving the Docs",
+  "authors": [
+    "Zhou, Shuyan",
+    "Alon, Uri",
+    "Xu, Frank F.",
+    "Wang, Zhiruo",
+    "Jiang, Zhengbao",
+    "Neubig, Graham"
+  ],
+  "license_url": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "original_file": "2207.05987v3.pdf",
+  "original_sha256": "2df7be8fe5faec709d27abc552c1d1a99528144a374e77d3afc531d1fe5aeada",
+  "pages": 19,
+  "html_url": "https://arxiv.org/html/2207.05987v3"
+}

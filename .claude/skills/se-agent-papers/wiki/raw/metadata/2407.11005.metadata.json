@@ -1,0 +1,22 @@
+{
+  "arxiv_id": "2407.11005",
+  "version": "2407.11005v2",
+  "source_url": "https://arxiv.org/pdf/2407.11005v2",
+  "source_format": "pdf-extracted",
+  "retrieved_at": "2026-11-19T21:54:51.996294+00:00",
+  "captured_bytes": 70575,
+  "sha256": "2244cc61be51eb1a53a47ca3e40373f73049de3b25ab07f26e39d090a09dfb3a",
+  "review_status": "retrieved_not_reviewed",
+  "catalog_title": "RAGBench: Explainable Benchmark for Retrieval-Augmented Generation Systems",
+  "arxiv_title": "RAGBench: Explainable Benchmark for Retrieval-Augmented Generation Systems",
+  "authors": [
+    "Friel, Robert",
+    "Belyi, Masha",
+    "Sanyal, Atindriyo"
+  ],
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "original_file": "2407.11005v2.pdf",
+  "original_sha256": "16aace98845b357ad8285d88e2277b4f878b44a7498817454230a114a2d71d92",
+  "pages": 21,
+  "html_url": "https://arxiv.org/html/2407.11005v2"
+}
